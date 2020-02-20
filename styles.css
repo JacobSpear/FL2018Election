@@ -1,0 +1,7 @@
+.nav-item{text-align:right;}
+
+nav.nav-zoom{background-color:#f8f9fa}
+
+@media (max-width:600px) {
+    nav.nav-zoom{background-color:#17a2b8;}
+}
