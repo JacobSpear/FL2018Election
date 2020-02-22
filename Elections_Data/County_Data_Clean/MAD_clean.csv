@@ -1,0 +1,2377 @@
+,County Code,Election Date,Unique PCT Identifier,Precinct Polling Location,Total Registered,Contest Name,District,Contest Code,Candidate,Party,Vote Total
+0,MAD,11/06/2018,1,Agriculture Center,2260,United States Senator, ,120000,Rick Scott,REP,"747
+"
+1,MAD,11/06/2018,1,Agriculture Center,2260,United States Senator, ,120000,Bill Nelson,DEM,"674
+"
+2,MAD,11/06/2018,1,Agriculture Center,2260,United States Senator, ,120000,WriteinVotes, ,"2
+"
+3,MAD,11/06/2018,1,Agriculture Center,2260,United States Senator, ,120000,OverVotes, ,"0
+"
+4,MAD,11/06/2018,1,Agriculture Center,2260,United States Senator, ,120000,UnderVotes, ,"8
+"
+5,MAD,11/06/2018,1,Agriculture Center,2260,Representative in Congress, District 5,140050,Virginia Fuller,REP,"729
+"
+6,MAD,11/06/2018,1,Agriculture Center,2260,Representative in Congress, District 5,140050,Al Lawson,DEM,"680
+"
+7,MAD,11/06/2018,1,Agriculture Center,2260,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+8,MAD,11/06/2018,1,Agriculture Center,2260,Representative in Congress, District 5,140050,UnderVotes, ,"22
+"
+9,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,DeSantis / NuÃ±ez,REP,"770
+"
+10,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,Gillum / King,DEM,"649
+"
+11,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+12,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+13,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+14,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+15,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,WriteinVotes, ,"0
+"
+16,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,OverVotes, ,"1
+"
+17,MAD,11/06/2018,1,Agriculture Center,2260,Governor, ,160000,UnderVotes, ,"4
+"
+18,MAD,11/06/2018,1,Agriculture Center,2260,Attorney General, ,160200,Ashley Moody,REP,"798
+"
+19,MAD,11/06/2018,1,Agriculture Center,2260,Attorney General, ,160200,Sean Shaw,DEM,"604
+"
+20,MAD,11/06/2018,1,Agriculture Center,2260,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"12
+"
+21,MAD,11/06/2018,1,Agriculture Center,2260,Attorney General, ,160200,OverVotes, ,"0
+"
+22,MAD,11/06/2018,1,Agriculture Center,2260,Attorney General, ,160200,UnderVotes, ,"17
+"
+23,MAD,11/06/2018,1,Agriculture Center,2260,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"776
+"
+24,MAD,11/06/2018,1,Agriculture Center,2260,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"623
+"
+25,MAD,11/06/2018,1,Agriculture Center,2260,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+26,MAD,11/06/2018,1,Agriculture Center,2260,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+27,MAD,11/06/2018,1,Agriculture Center,2260,Chief Financial Officer, ,160500,UnderVotes, ,"31
+"
+28,MAD,11/06/2018,1,Agriculture Center,2260,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"780
+"
+29,MAD,11/06/2018,1,Agriculture Center,2260,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"622
+"
+30,MAD,11/06/2018,1,Agriculture Center,2260,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+31,MAD,11/06/2018,1,Agriculture Center,2260,Commissioner of Agriculture, ,160800,UnderVotes, ,"29
+"
+32,MAD,11/06/2018,1,Agriculture Center,2260,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"439
+"
+33,MAD,11/06/2018,1,Agriculture Center,2260,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"842
+"
+34,MAD,11/06/2018,1,Agriculture Center,2260,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+35,MAD,11/06/2018,1,Agriculture Center,2260,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"150
+"
+36,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"907
+"
+37,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"426
+"
+38,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+39,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"97
+"
+40,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"826
+"
+41,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"471
+"
+42,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+43,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"133
+"
+44,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"820
+"
+45,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"463
+"
+46,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+47,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"148
+"
+48,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"814
+"
+49,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"480
+"
+50,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+51,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"136
+"
+52,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"810
+"
+53,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"476
+"
+54,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+55,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"145
+"
+56,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"794
+"
+57,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"495
+"
+58,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+59,MAD,11/06/2018,1,Agriculture Center,2260,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"142
+"
+60,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"674
+"
+61,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"714
+"
+62,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"2
+"
+63,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"41
+"
+64,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"894
+"
+65,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"497
+"
+66,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"2
+"
+67,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"38
+"
+68,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"964
+"
+69,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"435
+"
+70,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+71,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"32
+"
+72,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"824
+"
+73,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"586
+"
+74,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+75,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"21
+"
+76,MAD,11/06/2018,1,Agriculture Center,2260,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"846
+"
+77,MAD,11/06/2018,1,Agriculture Center,2260,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"526
+"
+78,MAD,11/06/2018,1,Agriculture Center,2260,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+79,MAD,11/06/2018,1,Agriculture Center,2260,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"59
+"
+80,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"770
+"
+81,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"612
+"
+82,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+83,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"49
+"
+84,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"839
+"
+85,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"526
+"
+86,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+87,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"66
+"
+88,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"753
+"
+89,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"612
+"
+90,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+91,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"65
+"
+92,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"844
+"
+93,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"506
+"
+94,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+95,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"80
+"
+96,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"694
+"
+97,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"639
+"
+98,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+99,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"98
+"
+100,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"893
+"
+101,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"466
+"
+102,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+103,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"72
+"
+104,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"608
+"
+105,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"771
+"
+106,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+107,MAD,11/06/2018,1,Agriculture Center,2260,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"52
+"
+108,MAD,11/06/2018,2,Madison Recreation Center,446,United States Senator, ,120000,Rick Scott,REP,"52
+"
+109,MAD,11/06/2018,2,Madison Recreation Center,446,United States Senator, ,120000,Bill Nelson,DEM,"232
+"
+110,MAD,11/06/2018,2,Madison Recreation Center,446,United States Senator, ,120000,WriteinVotes, ,"2
+"
+111,MAD,11/06/2018,2,Madison Recreation Center,446,United States Senator, ,120000,OverVotes, ,"0
+"
+112,MAD,11/06/2018,2,Madison Recreation Center,446,United States Senator, ,120000,UnderVotes, ,"6
+"
+113,MAD,11/06/2018,2,Madison Recreation Center,446,Representative in Congress, District 5,140050,Virginia Fuller,REP,"49
+"
+114,MAD,11/06/2018,2,Madison Recreation Center,446,Representative in Congress, District 5,140050,Al Lawson,DEM,"239
+"
+115,MAD,11/06/2018,2,Madison Recreation Center,446,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+116,MAD,11/06/2018,2,Madison Recreation Center,446,Representative in Congress, District 5,140050,UnderVotes, ,"4
+"
+117,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,DeSantis / NuÃ±ez,REP,"50
+"
+118,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,Gillum / King,DEM,"237
+"
+119,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+120,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+121,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+122,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+123,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,WriteinVotes, ,"0
+"
+124,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,OverVotes, ,"1
+"
+125,MAD,11/06/2018,2,Madison Recreation Center,446,Governor, ,160000,UnderVotes, ,"3
+"
+126,MAD,11/06/2018,2,Madison Recreation Center,446,Attorney General, ,160200,Ashley Moody,REP,"56
+"
+127,MAD,11/06/2018,2,Madison Recreation Center,446,Attorney General, ,160200,Sean Shaw,DEM,"231
+"
+128,MAD,11/06/2018,2,Madison Recreation Center,446,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"0
+"
+129,MAD,11/06/2018,2,Madison Recreation Center,446,Attorney General, ,160200,OverVotes, ,"0
+"
+130,MAD,11/06/2018,2,Madison Recreation Center,446,Attorney General, ,160200,UnderVotes, ,"5
+"
+131,MAD,11/06/2018,2,Madison Recreation Center,446,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"53
+"
+132,MAD,11/06/2018,2,Madison Recreation Center,446,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"231
+"
+133,MAD,11/06/2018,2,Madison Recreation Center,446,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+134,MAD,11/06/2018,2,Madison Recreation Center,446,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+135,MAD,11/06/2018,2,Madison Recreation Center,446,Chief Financial Officer, ,160500,UnderVotes, ,"8
+"
+136,MAD,11/06/2018,2,Madison Recreation Center,446,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"54
+"
+137,MAD,11/06/2018,2,Madison Recreation Center,446,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"227
+"
+138,MAD,11/06/2018,2,Madison Recreation Center,446,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+139,MAD,11/06/2018,2,Madison Recreation Center,446,Commissioner of Agriculture, ,160800,UnderVotes, ,"11
+"
+140,MAD,11/06/2018,2,Madison Recreation Center,446,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"122
+"
+141,MAD,11/06/2018,2,Madison Recreation Center,446,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"138
+"
+142,MAD,11/06/2018,2,Madison Recreation Center,446,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+143,MAD,11/06/2018,2,Madison Recreation Center,446,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"32
+"
+144,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"206
+"
+145,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"72
+"
+146,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+147,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"14
+"
+148,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"183
+"
+149,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"88
+"
+150,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+151,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"21
+"
+152,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"190
+"
+153,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"70
+"
+154,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+155,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"32
+"
+156,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"189
+"
+157,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"82
+"
+158,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+159,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"21
+"
+160,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"196
+"
+161,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"71
+"
+162,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+163,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"25
+"
+164,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"181
+"
+165,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"88
+"
+166,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+167,MAD,11/06/2018,2,Madison Recreation Center,446,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"23
+"
+168,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"118
+"
+169,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"156
+"
+170,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+171,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"17
+"
+172,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"143
+"
+173,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"133
+"
+174,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+175,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"15
+"
+176,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"216
+"
+177,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"66
+"
+178,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+179,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"10
+"
+180,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"217
+"
+181,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"67
+"
+182,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+183,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"8
+"
+184,MAD,11/06/2018,2,Madison Recreation Center,446,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"117
+"
+185,MAD,11/06/2018,2,Madison Recreation Center,446,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"166
+"
+186,MAD,11/06/2018,2,Madison Recreation Center,446,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+187,MAD,11/06/2018,2,Madison Recreation Center,446,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"9
+"
+188,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"144
+"
+189,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"141
+"
+190,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+191,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"7
+"
+192,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"150
+"
+193,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"131
+"
+194,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+195,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"11
+"
+196,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"183
+"
+197,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"98
+"
+198,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+199,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"11
+"
+200,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"150
+"
+201,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"129
+"
+202,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+203,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"13
+"
+204,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"125
+"
+205,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"151
+"
+206,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+207,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"16
+"
+208,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"152
+"
+209,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"128
+"
+210,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+211,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"12
+"
+212,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"138
+"
+213,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"144
+"
+214,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+215,MAD,11/06/2018,2,Madison Recreation Center,446,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"10
+"
+216,MAD,11/06/2018,3,Lee City Hall,2049,United States Senator, ,120000,Rick Scott,REP,"1013
+"
+217,MAD,11/06/2018,3,Lee City Hall,2049,United States Senator, ,120000,Bill Nelson,DEM,"279
+"
+218,MAD,11/06/2018,3,Lee City Hall,2049,United States Senator, ,120000,WriteinVotes, ,"1
+"
+219,MAD,11/06/2018,3,Lee City Hall,2049,United States Senator, ,120000,OverVotes, ,"0
+"
+220,MAD,11/06/2018,3,Lee City Hall,2049,United States Senator, ,120000,UnderVotes, ,"3
+"
+221,MAD,11/06/2018,3,Lee City Hall,2049,Representative in Congress, District 5,140050,Virginia Fuller,REP,"1016
+"
+222,MAD,11/06/2018,3,Lee City Hall,2049,Representative in Congress, District 5,140050,Al Lawson,DEM,"270
+"
+223,MAD,11/06/2018,3,Lee City Hall,2049,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+224,MAD,11/06/2018,3,Lee City Hall,2049,Representative in Congress, District 5,140050,UnderVotes, ,"10
+"
+225,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,DeSantis / NuÃ±ez,REP,"1059
+"
+226,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,Gillum / King,DEM,"223
+"
+227,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,Richardson / Argenziano,REF,"4
+"
+228,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+229,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+230,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+231,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,WriteinVotes, ,"1
+"
+232,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,OverVotes, ,"1
+"
+233,MAD,11/06/2018,3,Lee City Hall,2049,Governor, ,160000,UnderVotes, ,"5
+"
+234,MAD,11/06/2018,3,Lee City Hall,2049,Attorney General, ,160200,Ashley Moody,REP,"1051
+"
+235,MAD,11/06/2018,3,Lee City Hall,2049,Attorney General, ,160200,Sean Shaw,DEM,"220
+"
+236,MAD,11/06/2018,3,Lee City Hall,2049,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"13
+"
+237,MAD,11/06/2018,3,Lee City Hall,2049,Attorney General, ,160200,OverVotes, ,"0
+"
+238,MAD,11/06/2018,3,Lee City Hall,2049,Attorney General, ,160200,UnderVotes, ,"12
+"
+239,MAD,11/06/2018,3,Lee City Hall,2049,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"1033
+"
+240,MAD,11/06/2018,3,Lee City Hall,2049,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"242
+"
+241,MAD,11/06/2018,3,Lee City Hall,2049,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+242,MAD,11/06/2018,3,Lee City Hall,2049,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+243,MAD,11/06/2018,3,Lee City Hall,2049,Chief Financial Officer, ,160500,UnderVotes, ,"20
+"
+244,MAD,11/06/2018,3,Lee City Hall,2049,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"1043
+"
+245,MAD,11/06/2018,3,Lee City Hall,2049,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"237
+"
+246,MAD,11/06/2018,3,Lee City Hall,2049,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+247,MAD,11/06/2018,3,Lee City Hall,2049,Commissioner of Agriculture, ,160800,UnderVotes, ,"16
+"
+248,MAD,11/06/2018,3,Lee City Hall,2049,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"465
+"
+249,MAD,11/06/2018,3,Lee City Hall,2049,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"686
+"
+250,MAD,11/06/2018,3,Lee City Hall,2049,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+251,MAD,11/06/2018,3,Lee City Hall,2049,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"145
+"
+252,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"719
+"
+253,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"473
+"
+254,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+255,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"104
+"
+256,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"722
+"
+257,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"453
+"
+258,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+259,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"121
+"
+260,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"720
+"
+261,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"436
+"
+262,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+263,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"140
+"
+264,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"707
+"
+265,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"467
+"
+266,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+267,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"121
+"
+268,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"684
+"
+269,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"482
+"
+270,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+271,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"130
+"
+272,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"712
+"
+273,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"457
+"
+274,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"2
+"
+275,MAD,11/06/2018,3,Lee City Hall,2049,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"125
+"
+276,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"716
+"
+277,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"549
+"
+278,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+279,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"30
+"
+280,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"914
+"
+281,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"346
+"
+282,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+283,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"36
+"
+284,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"851
+"
+285,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"421
+"
+286,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+287,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"24
+"
+288,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"534
+"
+289,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"748
+"
+290,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+291,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"14
+"
+292,MAD,11/06/2018,3,Lee City Hall,2049,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"914
+"
+293,MAD,11/06/2018,3,Lee City Hall,2049,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"348
+"
+294,MAD,11/06/2018,3,Lee City Hall,2049,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+295,MAD,11/06/2018,3,Lee City Hall,2049,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"34
+"
+296,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"773
+"
+297,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"488
+"
+298,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+299,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"35
+"
+300,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"815
+"
+301,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"448
+"
+302,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+303,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"33
+"
+304,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"590
+"
+305,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"669
+"
+306,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+307,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"36
+"
+308,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"805
+"
+309,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"444
+"
+310,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+311,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"47
+"
+312,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"628
+"
+313,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"588
+"
+314,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+315,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"80
+"
+316,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"885
+"
+317,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"367
+"
+318,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+319,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"44
+"
+320,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"365
+"
+321,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"906
+"
+322,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+323,MAD,11/06/2018,3,Lee City Hall,2049,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"25
+"
+324,MAD,11/06/2018,4,"Voting House, Sirmans",432,United States Senator, ,120000,Rick Scott,REP,"209
+"
+325,MAD,11/06/2018,4,"Voting House, Sirmans",432,United States Senator, ,120000,Bill Nelson,DEM,"85
+"
+326,MAD,11/06/2018,4,"Voting House, Sirmans",432,United States Senator, ,120000,WriteinVotes, ,"0
+"
+327,MAD,11/06/2018,4,"Voting House, Sirmans",432,United States Senator, ,120000,OverVotes, ,"0
+"
+328,MAD,11/06/2018,4,"Voting House, Sirmans",432,United States Senator, ,120000,UnderVotes, ,"1
+"
+329,MAD,11/06/2018,4,"Voting House, Sirmans",432,Representative in Congress, District 5,140050,Virginia Fuller,REP,"201
+"
+330,MAD,11/06/2018,4,"Voting House, Sirmans",432,Representative in Congress, District 5,140050,Al Lawson,DEM,"87
+"
+331,MAD,11/06/2018,4,"Voting House, Sirmans",432,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+332,MAD,11/06/2018,4,"Voting House, Sirmans",432,Representative in Congress, District 5,140050,UnderVotes, ,"7
+"
+333,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,DeSantis / NuÃ±ez,REP,"219
+"
+334,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,Gillum / King,DEM,"72
+"
+335,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+336,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+337,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+338,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+339,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,WriteinVotes, ,"0
+"
+340,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,OverVotes, ,"0
+"
+341,MAD,11/06/2018,4,"Voting House, Sirmans",432,Governor, ,160000,UnderVotes, ,"2
+"
+342,MAD,11/06/2018,4,"Voting House, Sirmans",432,Attorney General, ,160200,Ashley Moody,REP,"218
+"
+343,MAD,11/06/2018,4,"Voting House, Sirmans",432,Attorney General, ,160200,Sean Shaw,DEM,"63
+"
+344,MAD,11/06/2018,4,"Voting House, Sirmans",432,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"8
+"
+345,MAD,11/06/2018,4,"Voting House, Sirmans",432,Attorney General, ,160200,OverVotes, ,"0
+"
+346,MAD,11/06/2018,4,"Voting House, Sirmans",432,Attorney General, ,160200,UnderVotes, ,"6
+"
+347,MAD,11/06/2018,4,"Voting House, Sirmans",432,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"213
+"
+348,MAD,11/06/2018,4,"Voting House, Sirmans",432,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"73
+"
+349,MAD,11/06/2018,4,"Voting House, Sirmans",432,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+350,MAD,11/06/2018,4,"Voting House, Sirmans",432,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+351,MAD,11/06/2018,4,"Voting House, Sirmans",432,Chief Financial Officer, ,160500,UnderVotes, ,"9
+"
+352,MAD,11/06/2018,4,"Voting House, Sirmans",432,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"218
+"
+353,MAD,11/06/2018,4,"Voting House, Sirmans",432,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"72
+"
+354,MAD,11/06/2018,4,"Voting House, Sirmans",432,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+355,MAD,11/06/2018,4,"Voting House, Sirmans",432,Commissioner of Agriculture, ,160800,UnderVotes, ,"5
+"
+356,MAD,11/06/2018,4,"Voting House, Sirmans",432,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"119
+"
+357,MAD,11/06/2018,4,"Voting House, Sirmans",432,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"137
+"
+358,MAD,11/06/2018,4,"Voting House, Sirmans",432,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+359,MAD,11/06/2018,4,"Voting House, Sirmans",432,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"39
+"
+360,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"174
+"
+361,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"93
+"
+362,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+363,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"28
+"
+364,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"154
+"
+365,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"101
+"
+366,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+367,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"40
+"
+368,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"152
+"
+369,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"97
+"
+370,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+371,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"46
+"
+372,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"149
+"
+373,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"104
+"
+374,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+375,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"42
+"
+376,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"144
+"
+377,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"106
+"
+378,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+379,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"45
+"
+380,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"154
+"
+381,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"98
+"
+382,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+383,MAD,11/06/2018,4,"Voting House, Sirmans",432,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"43
+"
+384,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"132
+"
+385,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"148
+"
+386,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+387,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"15
+"
+388,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"191
+"
+389,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"92
+"
+390,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+391,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"12
+"
+392,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"184
+"
+393,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"100
+"
+394,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+395,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"11
+"
+396,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"130
+"
+397,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"157
+"
+398,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+399,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"8
+"
+400,MAD,11/06/2018,4,"Voting House, Sirmans",432,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"185
+"
+401,MAD,11/06/2018,4,"Voting House, Sirmans",432,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"91
+"
+402,MAD,11/06/2018,4,"Voting House, Sirmans",432,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+403,MAD,11/06/2018,4,"Voting House, Sirmans",432,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"19
+"
+404,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"148
+"
+405,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"126
+"
+406,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+407,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"21
+"
+408,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"147
+"
+409,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"129
+"
+410,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+411,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"19
+"
+412,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"100
+"
+413,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"172
+"
+414,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+415,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"23
+"
+416,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"177
+"
+417,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"95
+"
+418,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+419,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"23
+"
+420,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"127
+"
+421,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"134
+"
+422,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+423,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"34
+"
+424,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"167
+"
+425,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"100
+"
+426,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+427,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"28
+"
+428,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"79
+"
+429,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"201
+"
+430,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+431,MAD,11/06/2018,4,"Voting House, Sirmans",432,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"15
+"
+432,MAD,11/06/2018,5,Senior Citizens Building,1198,United States Senator, ,120000,Rick Scott,REP,"282
+"
+433,MAD,11/06/2018,5,Senior Citizens Building,1198,United States Senator, ,120000,Bill Nelson,DEM,"492
+"
+434,MAD,11/06/2018,5,Senior Citizens Building,1198,United States Senator, ,120000,WriteinVotes, ,"0
+"
+435,MAD,11/06/2018,5,Senior Citizens Building,1198,United States Senator, ,120000,OverVotes, ,"1
+"
+436,MAD,11/06/2018,5,Senior Citizens Building,1198,United States Senator, ,120000,UnderVotes, ,"5
+"
+437,MAD,11/06/2018,5,Senior Citizens Building,1198,Representative in Congress, District 5,140050,Virginia Fuller,REP,"260
+"
+438,MAD,11/06/2018,5,Senior Citizens Building,1198,Representative in Congress, District 5,140050,Al Lawson,DEM,"502
+"
+439,MAD,11/06/2018,5,Senior Citizens Building,1198,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+440,MAD,11/06/2018,5,Senior Citizens Building,1198,Representative in Congress, District 5,140050,UnderVotes, ,"18
+"
+441,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,DeSantis / NuÃ±ez,REP,"290
+"
+442,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,Gillum / King,DEM,"478
+"
+443,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+444,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+445,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+446,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,Stanley / McJury,NPA,"2
+"
+447,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,WriteinVotes, ,"0
+"
+448,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,OverVotes, ,"1
+"
+449,MAD,11/06/2018,5,Senior Citizens Building,1198,Governor, ,160000,UnderVotes, ,"3
+"
+450,MAD,11/06/2018,5,Senior Citizens Building,1198,Attorney General, ,160200,Ashley Moody,REP,"308
+"
+451,MAD,11/06/2018,5,Senior Citizens Building,1198,Attorney General, ,160200,Sean Shaw,DEM,"455
+"
+452,MAD,11/06/2018,5,Senior Citizens Building,1198,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"8
+"
+453,MAD,11/06/2018,5,Senior Citizens Building,1198,Attorney General, ,160200,OverVotes, ,"0
+"
+454,MAD,11/06/2018,5,Senior Citizens Building,1198,Attorney General, ,160200,UnderVotes, ,"9
+"
+455,MAD,11/06/2018,5,Senior Citizens Building,1198,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"294
+"
+456,MAD,11/06/2018,5,Senior Citizens Building,1198,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"465
+"
+457,MAD,11/06/2018,5,Senior Citizens Building,1198,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+458,MAD,11/06/2018,5,Senior Citizens Building,1198,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+459,MAD,11/06/2018,5,Senior Citizens Building,1198,Chief Financial Officer, ,160500,UnderVotes, ,"21
+"
+460,MAD,11/06/2018,5,Senior Citizens Building,1198,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"305
+"
+461,MAD,11/06/2018,5,Senior Citizens Building,1198,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"455
+"
+462,MAD,11/06/2018,5,Senior Citizens Building,1198,Commissioner of Agriculture, ,160800,OverVotes, ,"1
+"
+463,MAD,11/06/2018,5,Senior Citizens Building,1198,Commissioner of Agriculture, ,160800,UnderVotes, ,"19
+"
+464,MAD,11/06/2018,5,Senior Citizens Building,1198,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"281
+"
+465,MAD,11/06/2018,5,Senior Citizens Building,1198,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"390
+"
+466,MAD,11/06/2018,5,Senior Citizens Building,1198,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+467,MAD,11/06/2018,5,Senior Citizens Building,1198,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"109
+"
+468,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"498
+"
+469,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"224
+"
+470,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+471,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"57
+"
+472,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"442
+"
+473,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"267
+"
+474,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+475,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"71
+"
+476,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"447
+"
+477,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"243
+"
+478,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+479,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"90
+"
+480,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"448
+"
+481,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"257
+"
+482,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+483,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"75
+"
+484,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"429
+"
+485,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"268
+"
+486,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+487,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"82
+"
+488,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"425
+"
+489,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"269
+"
+490,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+491,MAD,11/06/2018,5,Senior Citizens Building,1198,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"86
+"
+492,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"309
+"
+493,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"440
+"
+494,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+495,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"30
+"
+496,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"468
+"
+497,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"283
+"
+498,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+499,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"29
+"
+500,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"544
+"
+501,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"211
+"
+502,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+503,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"25
+"
+504,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"507
+"
+505,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"252
+"
+506,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+507,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"21
+"
+508,MAD,11/06/2018,5,Senior Citizens Building,1198,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"419
+"
+509,MAD,11/06/2018,5,Senior Citizens Building,1198,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"319
+"
+510,MAD,11/06/2018,5,Senior Citizens Building,1198,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+511,MAD,11/06/2018,5,Senior Citizens Building,1198,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"42
+"
+512,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"460
+"
+513,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"282
+"
+514,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+515,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"38
+"
+516,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"490
+"
+517,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"248
+"
+518,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+519,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"42
+"
+520,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"448
+"
+521,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"285
+"
+522,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+523,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"47
+"
+524,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"454
+"
+525,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"274
+"
+526,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+527,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"51
+"
+528,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"425
+"
+529,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"300
+"
+530,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+531,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"55
+"
+532,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"478
+"
+533,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"253
+"
+534,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+535,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"49
+"
+536,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"337
+"
+537,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"403
+"
+538,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+539,MAD,11/06/2018,5,Senior Citizens Building,1198,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"39
+"
+540,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,United States Senator, ,120000,Rick Scott,REP,"141
+"
+541,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,United States Senator, ,120000,Bill Nelson,DEM,"49
+"
+542,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,United States Senator, ,120000,WriteinVotes, ,"1
+"
+543,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,United States Senator, ,120000,OverVotes, ,"0
+"
+544,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,United States Senator, ,120000,UnderVotes, ,"0
+"
+545,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Representative in Congress, District 5,140050,Virginia Fuller,REP,"134
+"
+546,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Representative in Congress, District 5,140050,Al Lawson,DEM,"54
+"
+547,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+548,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Representative in Congress, District 5,140050,UnderVotes, ,"3
+"
+549,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,DeSantis / NuÃ±ez,REP,"141
+"
+550,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,Gillum / King,DEM,"48
+"
+551,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+552,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+553,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+554,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+555,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,WriteinVotes, ,"0
+"
+556,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,OverVotes, ,"0
+"
+557,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Governor, ,160000,UnderVotes, ,"0
+"
+558,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Attorney General, ,160200,Ashley Moody,REP,"143
+"
+559,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Attorney General, ,160200,Sean Shaw,DEM,"41
+"
+560,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"5
+"
+561,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Attorney General, ,160200,OverVotes, ,"0
+"
+562,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Attorney General, ,160200,UnderVotes, ,"2
+"
+563,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"139
+"
+564,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"45
+"
+565,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+566,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+567,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Chief Financial Officer, ,160500,UnderVotes, ,"6
+"
+568,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"138
+"
+569,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"49
+"
+570,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+571,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Commissioner of Agriculture, ,160800,UnderVotes, ,"4
+"
+572,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"71
+"
+573,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"90
+"
+574,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+575,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"30
+"
+576,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"90
+"
+577,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"79
+"
+578,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+579,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"22
+"
+580,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"89
+"
+581,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"76
+"
+582,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+583,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"26
+"
+584,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"95
+"
+585,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"68
+"
+586,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+587,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"28
+"
+588,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"94
+"
+589,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"71
+"
+590,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+591,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"26
+"
+592,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"90
+"
+593,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"76
+"
+594,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+595,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"25
+"
+596,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"87
+"
+597,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"77
+"
+598,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+599,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"27
+"
+600,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"76
+"
+601,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"105
+"
+602,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+603,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"9
+"
+604,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"115
+"
+605,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"69
+"
+606,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+607,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"7
+"
+608,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"120
+"
+609,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"64
+"
+610,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+611,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"7
+"
+612,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"83
+"
+613,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"103
+"
+614,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+615,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"5
+"
+616,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"100
+"
+617,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"80
+"
+618,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+619,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"11
+"
+620,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"99
+"
+621,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"80
+"
+622,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+623,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"12
+"
+624,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"102
+"
+625,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"73
+"
+626,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+627,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"16
+"
+628,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"89
+"
+629,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"89
+"
+630,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+631,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"13
+"
+632,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"100
+"
+633,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"75
+"
+634,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+635,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"16
+"
+636,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"84
+"
+637,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"93
+"
+638,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+639,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"14
+"
+640,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"98
+"
+641,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"80
+"
+642,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+643,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"13
+"
+644,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"76
+"
+645,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"109
+"
+646,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+647,MAD,11/06/2018,6,Hamburg Vol. Fire Station,282,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"6
+"
+648,MAD,11/06/2018,7,"Voting House, Crossroads",1228,United States Senator, ,120000,Rick Scott,REP,"519
+"
+649,MAD,11/06/2018,7,"Voting House, Crossroads",1228,United States Senator, ,120000,Bill Nelson,DEM,"270
+"
+650,MAD,11/06/2018,7,"Voting House, Crossroads",1228,United States Senator, ,120000,WriteinVotes, ,"2
+"
+651,MAD,11/06/2018,7,"Voting House, Crossroads",1228,United States Senator, ,120000,OverVotes, ,"0
+"
+652,MAD,11/06/2018,7,"Voting House, Crossroads",1228,United States Senator, ,120000,UnderVotes, ,"7
+"
+653,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Representative in Congress, District 5,140050,Virginia Fuller,REP,"521
+"
+654,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Representative in Congress, District 5,140050,Al Lawson,DEM,"261
+"
+655,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+656,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Representative in Congress, District 5,140050,UnderVotes, ,"16
+"
+657,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,DeSantis / NuÃ±ez,REP,"562
+"
+658,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,Gillum / King,DEM,"224
+"
+659,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+660,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+661,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+662,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+663,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,WriteinVotes, ,"1
+"
+664,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,OverVotes, ,"1
+"
+665,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Governor, ,160000,UnderVotes, ,"5
+"
+666,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Attorney General, ,160200,Ashley Moody,REP,"560
+"
+667,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Attorney General, ,160200,Sean Shaw,DEM,"222
+"
+668,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"4
+"
+669,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Attorney General, ,160200,OverVotes, ,"0
+"
+670,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Attorney General, ,160200,UnderVotes, ,"12
+"
+671,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"539
+"
+672,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"235
+"
+673,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+674,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+675,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Chief Financial Officer, ,160500,UnderVotes, ,"23
+"
+676,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"549
+"
+677,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"230
+"
+678,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Commissioner of Agriculture, ,160800,OverVotes, ,"2
+"
+679,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Commissioner of Agriculture, ,160800,UnderVotes, ,"17
+"
+680,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"241
+"
+681,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"458
+"
+682,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+683,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"99
+"
+684,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"474
+"
+685,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"245
+"
+686,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+687,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"79
+"
+688,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"471
+"
+689,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"226
+"
+690,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+691,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"101
+"
+692,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"472
+"
+693,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"209
+"
+694,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+695,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"117
+"
+696,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"462
+"
+697,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"228
+"
+698,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+699,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"108
+"
+700,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"465
+"
+701,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"226
+"
+702,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+703,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"107
+"
+704,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"457
+"
+705,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"231
+"
+706,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+707,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"110
+"
+708,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"413
+"
+709,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"349
+"
+710,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+711,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"36
+"
+712,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"530
+"
+713,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"234
+"
+714,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+715,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"34
+"
+716,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"522
+"
+717,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"253
+"
+718,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+719,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"22
+"
+720,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"373
+"
+721,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"401
+"
+722,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+723,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"24
+"
+724,MAD,11/06/2018,7,"Voting House, Crossroads",1228,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"482
+"
+725,MAD,11/06/2018,7,"Voting House, Crossroads",1228,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"262
+"
+726,MAD,11/06/2018,7,"Voting House, Crossroads",1228,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+727,MAD,11/06/2018,7,"Voting House, Crossroads",1228,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"54
+"
+728,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"441
+"
+729,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"309
+"
+730,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+731,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"48
+"
+732,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"452
+"
+733,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"286
+"
+734,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+735,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"60
+"
+736,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"400
+"
+737,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"348
+"
+738,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+739,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"50
+"
+740,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"458
+"
+741,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"278
+"
+742,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+743,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"62
+"
+744,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"409
+"
+745,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"309
+"
+746,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+747,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"80
+"
+748,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"483
+"
+749,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"254
+"
+750,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+751,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"61
+"
+752,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"294
+"
+753,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"461
+"
+754,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+755,MAD,11/06/2018,7,"Voting House, Crossroads",1228,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"42
+"
+756,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,United States Senator, ,120000,Rick Scott,REP,"509
+"
+757,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,United States Senator, ,120000,Bill Nelson,DEM,"203
+"
+758,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,United States Senator, ,120000,WriteinVotes, ,"3
+"
+759,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,United States Senator, ,120000,OverVotes, ,"0
+"
+760,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,United States Senator, ,120000,UnderVotes, ,"7
+"
+761,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Representative in Congress, District 5,140050,Virginia Fuller,REP,"501
+"
+762,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Representative in Congress, District 5,140050,Al Lawson,DEM,"209
+"
+763,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+764,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Representative in Congress, District 5,140050,UnderVotes, ,"12
+"
+765,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,DeSantis / NuÃ±ez,REP,"532
+"
+766,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,Gillum / King,DEM,"182
+"
+767,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+768,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+769,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+770,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+771,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,WriteinVotes, ,"0
+"
+772,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,OverVotes, ,"1
+"
+773,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Governor, ,160000,UnderVotes, ,"4
+"
+774,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Attorney General, ,160200,Ashley Moody,REP,"532
+"
+775,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Attorney General, ,160200,Sean Shaw,DEM,"171
+"
+776,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"8
+"
+777,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Attorney General, ,160200,OverVotes, ,"0
+"
+778,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Attorney General, ,160200,UnderVotes, ,"11
+"
+779,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"523
+"
+780,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"186
+"
+781,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+782,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+783,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Chief Financial Officer, ,160500,UnderVotes, ,"13
+"
+784,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"528
+"
+785,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"182
+"
+786,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+787,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Commissioner of Agriculture, ,160800,UnderVotes, ,"12
+"
+788,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"246
+"
+789,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"392
+"
+790,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"1
+"
+791,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"83
+"
+792,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"417
+"
+793,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"233
+"
+794,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+795,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"72
+"
+796,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"422
+"
+797,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"217
+"
+798,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"2
+"
+799,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"81
+"
+800,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"416
+"
+801,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"218
+"
+802,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+803,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"88
+"
+804,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"419
+"
+805,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"216
+"
+806,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+807,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"87
+"
+808,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"406
+"
+809,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"227
+"
+810,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+811,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"89
+"
+812,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"410
+"
+813,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"214
+"
+814,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+815,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"98
+"
+816,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"381
+"
+817,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"312
+"
+818,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+819,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"28
+"
+820,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"489
+"
+821,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"207
+"
+822,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+823,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"25
+"
+824,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"492
+"
+825,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"212
+"
+826,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+827,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"17
+"
+828,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"328
+"
+829,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"376
+"
+830,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+831,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"17
+"
+832,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"473
+"
+833,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"212
+"
+834,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+835,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"36
+"
+836,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"429
+"
+837,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"259
+"
+838,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+839,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"34
+"
+840,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"451
+"
+841,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"231
+"
+842,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+843,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"39
+"
+844,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"350
+"
+845,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"336
+"
+846,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+847,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"36
+"
+848,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"470
+"
+849,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"209
+"
+850,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+851,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"43
+"
+852,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"399
+"
+853,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"274
+"
+854,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+855,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"49
+"
+856,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"454
+"
+857,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"227
+"
+858,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+859,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"41
+"
+860,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"280
+"
+861,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"411
+"
+862,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+863,MAD,11/06/2018,8,Pinetta Vol. Fire Dept,1098,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"31
+"
+864,MAD,11/06/2018,9,"Recycling Center, Lamont",263,United States Senator, ,120000,Rick Scott,REP,"95
+"
+865,MAD,11/06/2018,9,"Recycling Center, Lamont",263,United States Senator, ,120000,Bill Nelson,DEM,"87
+"
+866,MAD,11/06/2018,9,"Recycling Center, Lamont",263,United States Senator, ,120000,WriteinVotes, ,"0
+"
+867,MAD,11/06/2018,9,"Recycling Center, Lamont",263,United States Senator, ,120000,OverVotes, ,"0
+"
+868,MAD,11/06/2018,9,"Recycling Center, Lamont",263,United States Senator, ,120000,UnderVotes, ,"3
+"
+869,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Representative in Congress, District 5,140050,Virginia Fuller,REP,"92
+"
+870,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Representative in Congress, District 5,140050,Al Lawson,DEM,"88
+"
+871,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+872,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Representative in Congress, District 5,140050,UnderVotes, ,"5
+"
+873,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,DeSantis / NuÃ±ez,REP,"96
+"
+874,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,Gillum / King,DEM,"86
+"
+875,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+876,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+877,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+878,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+879,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,WriteinVotes, ,"0
+"
+880,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,OverVotes, ,"0
+"
+881,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Governor, ,160000,UnderVotes, ,"1
+"
+882,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Attorney General, ,160200,Ashley Moody,REP,"97
+"
+883,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Attorney General, ,160200,Sean Shaw,DEM,"80
+"
+884,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"3
+"
+885,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Attorney General, ,160200,OverVotes, ,"0
+"
+886,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Attorney General, ,160200,UnderVotes, ,"5
+"
+887,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"94
+"
+888,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"83
+"
+889,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+890,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+891,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Chief Financial Officer, ,160500,UnderVotes, ,"8
+"
+892,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"99
+"
+893,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"76
+"
+894,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+895,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Commissioner of Agriculture, ,160800,UnderVotes, ,"10
+"
+896,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"74
+"
+897,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"68
+"
+898,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+899,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"43
+"
+900,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"109
+"
+901,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"49
+"
+902,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+903,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"27
+"
+904,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"94
+"
+905,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"61
+"
+906,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+907,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"30
+"
+908,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"98
+"
+909,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"53
+"
+910,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+911,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"34
+"
+912,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"98
+"
+913,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"59
+"
+914,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+915,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"28
+"
+916,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"90
+"
+917,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"62
+"
+918,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+919,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"33
+"
+920,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"92
+"
+921,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"59
+"
+922,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+923,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"34
+"
+924,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"89
+"
+925,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"85
+"
+926,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+927,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"11
+"
+928,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"110
+"
+929,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"61
+"
+930,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+931,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"14
+"
+932,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"115
+"
+933,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"56
+"
+934,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+935,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"14
+"
+936,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"98
+"
+937,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"71
+"
+938,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+939,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"16
+"
+940,MAD,11/06/2018,9,"Recycling Center, Lamont",263,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"102
+"
+941,MAD,11/06/2018,9,"Recycling Center, Lamont",263,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"66
+"
+942,MAD,11/06/2018,9,"Recycling Center, Lamont",263,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+943,MAD,11/06/2018,9,"Recycling Center, Lamont",263,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"17
+"
+944,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"92
+"
+945,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"77
+"
+946,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+947,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"16
+"
+948,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"96
+"
+949,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"69
+"
+950,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+951,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"20
+"
+952,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"91
+"
+953,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"75
+"
+954,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+955,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"19
+"
+956,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"95
+"
+957,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"66
+"
+958,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+959,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"24
+"
+960,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"83
+"
+961,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"75
+"
+962,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+963,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"27
+"
+964,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"96
+"
+965,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"68
+"
+966,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+967,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"21
+"
+968,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"69
+"
+969,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"98
+"
+970,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+971,MAD,11/06/2018,9,"Recycling Center, Lamont",263,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"18
+"
+972,MAD,11/06/2018,10,Board Room Madison County Annex,1543,United States Senator, ,120000,Rick Scott,REP,"391
+"
+973,MAD,11/06/2018,10,Board Room Madison County Annex,1543,United States Senator, ,120000,Bill Nelson,DEM,"600
+"
+974,MAD,11/06/2018,10,Board Room Madison County Annex,1543,United States Senator, ,120000,WriteinVotes, ,"3
+"
+975,MAD,11/06/2018,10,Board Room Madison County Annex,1543,United States Senator, ,120000,OverVotes, ,"0
+"
+976,MAD,11/06/2018,10,Board Room Madison County Annex,1543,United States Senator, ,120000,UnderVotes, ,"8
+"
+977,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Representative in Congress, District 5,140050,Virginia Fuller,REP,"378
+"
+978,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Representative in Congress, District 5,140050,Al Lawson,DEM,"609
+"
+979,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+980,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Representative in Congress, District 5,140050,UnderVotes, ,"15
+"
+981,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,DeSantis / NuÃ±ez,REP,"393
+"
+982,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,Gillum / King,DEM,"596
+"
+983,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+984,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+985,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+986,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+987,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,WriteinVotes, ,"0
+"
+988,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,OverVotes, ,"4
+"
+989,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Governor, ,160000,UnderVotes, ,"5
+"
+990,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Attorney General, ,160200,Ashley Moody,REP,"403
+"
+991,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Attorney General, ,160200,Sean Shaw,DEM,"578
+"
+992,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"3
+"
+993,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Attorney General, ,160200,OverVotes, ,"1
+"
+994,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Attorney General, ,160200,UnderVotes, ,"17
+"
+995,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"392
+"
+996,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"580
+"
+997,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+998,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Chief Financial Officer, ,160500,OverVotes, ,"1
+"
+999,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Chief Financial Officer, ,160500,UnderVotes, ,"29
+"
+1000,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"389
+"
+1001,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"582
+"
+1002,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Commissioner of Agriculture, ,160800,OverVotes, ,"1
+"
+1003,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Commissioner of Agriculture, ,160800,UnderVotes, ,"30
+"
+1004,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"398
+"
+1005,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"501
+"
+1006,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"2
+"
+1007,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"101
+"
+1008,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"669
+"
+1009,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"252
+"
+1010,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"2
+"
+1011,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"79
+"
+1012,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"621
+"
+1013,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"299
+"
+1014,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+1015,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"81
+"
+1016,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"598
+"
+1017,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"295
+"
+1018,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+1019,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"109
+"
+1020,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"625
+"
+1021,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"289
+"
+1022,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+1023,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"88
+"
+1024,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"610
+"
+1025,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"297
+"
+1026,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+1027,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"94
+"
+1028,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"594
+"
+1029,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"313
+"
+1030,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+1031,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"95
+"
+1032,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"388
+"
+1033,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"571
+"
+1034,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+1035,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"43
+"
+1036,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"569
+"
+1037,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"394
+"
+1038,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+1039,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"39
+"
+1040,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"691
+"
+1041,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"269
+"
+1042,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+1043,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"42
+"
+1044,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"660
+"
+1045,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"316
+"
+1046,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+1047,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"26
+"
+1048,MAD,11/06/2018,10,Board Room Madison County Annex,1543,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"499
+"
+1049,MAD,11/06/2018,10,Board Room Madison County Annex,1543,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"467
+"
+1050,MAD,11/06/2018,10,Board Room Madison County Annex,1543,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+1051,MAD,11/06/2018,10,Board Room Madison County Annex,1543,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"36
+"
+1052,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"525
+"
+1053,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"441
+"
+1054,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+1055,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"35
+"
+1056,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"595
+"
+1057,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"361
+"
+1058,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+1059,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"46
+"
+1060,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"583
+"
+1061,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"375
+"
+1062,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+1063,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"42
+"
+1064,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"562
+"
+1065,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"394
+"
+1066,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1067,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"46
+"
+1068,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"496
+"
+1069,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"453
+"
+1070,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+1071,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"52
+"
+1072,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"567
+"
+1073,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"391
+"
+1074,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+1075,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"44
+"
+1076,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"495
+"
+1077,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"474
+"
+1078,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+1079,MAD,11/06/2018,10,Board Room Madison County Annex,1543,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"33
+"
+1080,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,United States Senator, ,120000,Rick Scott,REP,"225
+"
+1081,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,United States Senator, ,120000,Bill Nelson,DEM,"452
+"
+1082,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,United States Senator, ,120000,WriteinVotes, ,"2
+"
+1083,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,United States Senator, ,120000,OverVotes, ,"0
+"
+1084,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,United States Senator, ,120000,UnderVotes, ,"5
+"
+1085,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Representative in Congress, District 5,140050,Virginia Fuller,REP,"220
+"
+1086,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Representative in Congress, District 5,140050,Al Lawson,DEM,"457
+"
+1087,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+1088,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Representative in Congress, District 5,140050,UnderVotes, ,"7
+"
+1089,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,DeSantis / NuÃ±ez,REP,"235
+"
+1090,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,Gillum / King,DEM,"442
+"
+1091,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+1092,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+1093,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+1094,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+1095,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,WriteinVotes, ,"1
+"
+1096,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,OverVotes, ,"0
+"
+1097,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Governor, ,160000,UnderVotes, ,"2
+"
+1098,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Attorney General, ,160200,Ashley Moody,REP,"247
+"
+1099,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Attorney General, ,160200,Sean Shaw,DEM,"419
+"
+1100,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"5
+"
+1101,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Attorney General, ,160200,OverVotes, ,"0
+"
+1102,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Attorney General, ,160200,UnderVotes, ,"13
+"
+1103,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"240
+"
+1104,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"430
+"
+1105,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+1106,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+1107,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Chief Financial Officer, ,160500,UnderVotes, ,"14
+"
+1108,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"239
+"
+1109,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"431
+"
+1110,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+1111,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Commissioner of Agriculture, ,160800,UnderVotes, ,"14
+"
+1112,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Madison Soil and Water Conservation District, Group 2,863002,Martha  F. Carter,NOP,"239
+"
+1113,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Madison Soil and Water Conservation District, Group 2,863002,Margie  Foust  McLeod,NOP,"364
+"
+1114,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Madison Soil and Water Conservation District, Group 2,863002,OverVotes, ,"0
+"
+1115,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Madison Soil and Water Conservation District, Group 2,863002,UnderVotes, ,"81
+"
+1116,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"434
+"
+1117,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"196
+"
+1118,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+1119,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"53
+"
+1120,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"394
+"
+1121,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"230
+"
+1122,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+1123,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"60
+"
+1124,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"397
+"
+1125,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"207
+"
+1126,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+1127,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"80
+"
+1128,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"408
+"
+1129,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"210
+"
+1130,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+1131,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"66
+"
+1132,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"397
+"
+1133,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"211
+"
+1134,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+1135,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"76
+"
+1136,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"383
+"
+1137,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"228
+"
+1138,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+1139,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"73
+"
+1140,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"282
+"
+1141,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"376
+"
+1142,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+1143,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"26
+"
+1144,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"381
+"
+1145,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"273
+"
+1146,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+1147,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"30
+"
+1148,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"469
+"
+1149,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"194
+"
+1150,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+1151,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"21
+"
+1152,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"439
+"
+1153,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"218
+"
+1154,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+1155,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"27
+"
+1156,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"325
+"
+1157,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"332
+"
+1158,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+1159,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"27
+"
+1160,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"328
+"
+1161,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"331
+"
+1162,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+1163,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"25
+"
+1164,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"355
+"
+1165,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"291
+"
+1166,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+1167,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"38
+"
+1168,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"377
+"
+1169,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"269
+"
+1170,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+1171,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"38
+"
+1172,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"349
+"
+1173,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"298
+"
+1174,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1175,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"37
+"
+1176,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"296
+"
+1177,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"348
+"
+1178,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+1179,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"40
+"
+1180,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"378
+"
+1181,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"276
+"
+1182,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+1183,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"30
+"
+1184,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"309
+"
+1185,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"351
+"
+1186,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+1187,MAD,11/06/2018,11,"Voting House, Bunker St.",1042,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"24
+"

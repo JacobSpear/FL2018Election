@@ -1,0 +1,1060 @@
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	827
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	178
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	844
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	158
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	19
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	821
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	160
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	11
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	OverVotes	 	0	901	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Governor	 	160000	UnderVotes	 	0	902	11
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	827
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	153
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	20
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	882
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	126
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	831
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	156
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	32
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	County Commissioner	 District 1	380010	David Rich	REP	104292311	72324	756
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	County Commissioner	 District 1	380010	John Nagy	DEM	104288090	72327	125
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	County Commissioner	 District 1	380010	William Lawson	NPA	106087736	72342	123
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	17
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	545
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	375
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	99
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	540
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	385
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	96
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	529
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	384
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	107
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	544
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	376
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	101
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	532
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	389
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	99
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	537
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	390
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	94
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	635
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	347
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	38
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	694
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	277
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	50
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	770
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	206
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	45
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	606
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	371
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	44
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	725
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	234
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	62
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	693
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	262
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	65
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	741
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	208
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	71
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	537
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	427
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	57
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	721
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	223
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	77
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	589
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	336
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	96
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	760
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	193
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	67
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	484
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	484
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	1	Honeyville Community Center	1911	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	51
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	723
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	245
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	756
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	207
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	14
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	716
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	215
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	14
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	OverVotes	 	0	901	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Governor	 	160000	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	717
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	211
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	23
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	26
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	785
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	178
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	14
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	727
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	231
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	19
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	County Commissioner	 District 2	380020	Tom Semmes	REP	104296070	72331	300
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	County Commissioner	 District 2	380020	Ward McDaniel	DEM	1042911387	72329	371
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	County Commissioner	 District 2	380020	Josh Taunton	NPA	104296134	72536	298
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	507
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	408
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	62
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	489
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	424
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	64
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	485
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	418
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	74
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	481
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	424
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	72
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	484
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	429
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	489
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	418
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	70
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	580
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	358
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	37
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	622
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	313
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	42
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	699
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	233
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	45
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	525
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	405
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	47
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	666
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	253
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	58
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	654
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	273
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	49
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	725
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	193
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	59
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	502
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	424
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	50
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	664
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	244
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	68
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	543
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	346
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	88
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	718
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	200
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	58
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	412
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	517
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	2	First Pentecostal Church Hall	1739	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	591
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	181
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	587
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	180
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	573
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	179
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	575
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	170
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	19
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	615
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	151
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	579
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	176
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	455
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	234
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	83
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	443
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	229
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	101
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	436
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	233
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	104
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	431
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	233
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	109
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	440
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	229
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	104
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	434
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	238
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	101
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	584
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	168
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	21
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	565
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	173
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	34
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	602
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	149
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	22
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	414
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	333
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	26
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	598
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	133
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	41
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	505
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	223
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	44
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	561
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	173
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	39
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	460
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	275
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	37
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	563
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	159
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	51
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	492
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	210
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	69
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	650
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	84
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	39
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	428
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	304
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	3	St. Joe Beach Fire Station	1356	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	38
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	361
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	466
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	365
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	451
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	20
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	334
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	489
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	351
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	455
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	22
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	388
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	430
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	16
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	346
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	471
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	County Commissioner	 District 4	380040	Sandy Quinn	DEM	104293901	72332	563
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	County Commissioner	 District 4	380040	Amy Rogers	NPA	104292545	73042	72
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	County Commissioner	 District 4	380040	Ronald Pickett	NPA	104292030	73064	184
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	17
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	502
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	263
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	72
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	467
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	296
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	74
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	475
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	282
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	80
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	457
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	302
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	78
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	474
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	291
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	72
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	459
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	301
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	77
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	428
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	378
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	30
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	494
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	300
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	42
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	617
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	161
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	59
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	536
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	232
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	69
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	463
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	304
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	70
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	509
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	256
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	69
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	547
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	204
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	85
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	512
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	250
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	75
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	518
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	240
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	77
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	456
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	289
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	91
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	556
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	209
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	72
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	408
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	366
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	4	Port St. Joe Fire Station	1290	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	63
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	919
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	200
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	942
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	171
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	14
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	920
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	181
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	916
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	168
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	25
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	968
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	147
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	10
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	930
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	178
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	19
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	650
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	340
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	136
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	629
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	349
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	148
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	634
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	343
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	149
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	621
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	352
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	154
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	626
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	353
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	148
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	626
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	352
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	149
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	751
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	336
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	39
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	772
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	295
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	58
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	794
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	295
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	37
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	507
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	574
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	44
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	764
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	286
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	75
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	738
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	326
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	62
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	768
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	294
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	64
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	568
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	479
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	77
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	739
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	297
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	90
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	620
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	388
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	117
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	808
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	246
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	73
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	591
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	481
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	5	Centennial Building	1788	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	54
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	108
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	25
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	119
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	16
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	119
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	14
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	120
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	12
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	119
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	112
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	50
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	77
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	55
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	74
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	56
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	71
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	10
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	54
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	75
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	53
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	75
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	56
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	73
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	82
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	53
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	99
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	35
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	101
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	35
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	71
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	63
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	98
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	36
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	90
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	42
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	93
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	43
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	59
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	76
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	90
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	42
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	72
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	56
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	102
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	33
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	69
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	66
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	6	White City Fire Station	247	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	379
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	171
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	377
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	169
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	379
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	168
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	376
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	161
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	396
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	147
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	372
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	169
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	11
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	311
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	149
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	92
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	305
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	146
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	101
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	316
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	140
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	96
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	313
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	138
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	101
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	308
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	145
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	98
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	298
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	155
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	99
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	397
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	132
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	22
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	392
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	133
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	27
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	409
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	122
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	20
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	275
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	249
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	28
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	392
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	130
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	28
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	347
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	168
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	37
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	356
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	156
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	40
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	351
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	170
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	31
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	356
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	154
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	42
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	350
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	141
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	61
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	447
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	71
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	34
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	351
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	172
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	7	Cape San Blas Fire Station	811	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	29
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	100
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	22
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	100
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	21
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	98
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	22
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	99
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	20
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	105
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	15
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	99
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	21
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	County Commissioner	 District 1	380010	David Rich	REP	104292311	72324	79
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	County Commissioner	 District 1	380010	John Nagy	DEM	104288090	72327	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	County Commissioner	 District 1	380010	William Lawson	NPA	106087736	72342	24
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	County Commissioner	 District 1	380010	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	64
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	12
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	61
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	48
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	13
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	63
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	44
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	15
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	63
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	13
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	62
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	14
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	61
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	48
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	13
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	70
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	82
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	33
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	94
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	19
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	9
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	67
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	47
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	90
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	24
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	82
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	28
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	12
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	84
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	26
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	12
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	63
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	48
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	11
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	80
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	27
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	15
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	77
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	27
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	91
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	12
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	66
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	8	Howard Creek Fire Station	232	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	10
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	158
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	37
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	163
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	33
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	157
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	34
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	162
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	30
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	168
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	28
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	159
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	36
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	117
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	64
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	15
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	108
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	70
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	18
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	107
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	67
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	21
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	107
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	69
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	19
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	111
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	65
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	19
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	108
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	67
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	21
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	138
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	56
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	136
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	58
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	150
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	43
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	3
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	103
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	87
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	143
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	47
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	136
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	50
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	10
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	144
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	97
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	91
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	139
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	11
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	111
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	68
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	17
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	156
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	33
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	99
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	90
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	9	Overstreet Fire Station	396	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	155
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	55
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	158
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	52
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	148
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	49
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	157
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	46
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	171
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	35
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	157
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	49
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	116
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	70
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	24
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	120
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	63
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	27
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	119
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	67
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	24
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	120
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	64
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	26
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	115
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	70
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	25
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	120
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	65
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	25
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	136
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	70
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	4
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	127
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	78
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	145
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	65
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	110
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	94
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	5
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	143
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	60
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	7
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	136
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	68
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	154
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	48
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	130
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	73
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	6
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	145
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	57
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	120
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	76
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	14
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	174
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	28
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	8
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	115
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	90
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+GUL	Gulf	10481	11/06/2018	2018 General Election	10	Highland View Fire Station	446	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	4

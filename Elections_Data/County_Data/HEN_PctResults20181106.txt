@@ -1,0 +1,1182 @@
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	395
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	1292
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	22
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	372
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	1244
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	101
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	340
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	1337
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	10
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	OverVotes	 	0	901	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Governor	 	160000	UnderVotes	 	0	902	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	370
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	1288
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	42
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	359
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	1299
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	54
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	369
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	1307
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	42
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	760
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	111
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	846
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	353
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	1300
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	64
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	340
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	1292
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	23
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	62
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	406
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	1257
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	54
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	971
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	526
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	219
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	1002
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	493
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	221
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	970
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	517
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	229
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	939
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	543
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	233
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	929
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	530
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	258
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	727
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	862
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	125
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	939
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	624
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	152
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1136
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	451
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	128
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	1300
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	297
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	118
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	919
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	638
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	160
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	1066
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	500
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	147
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	1137
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	411
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	169
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	992
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	558
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	166
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	974
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	551
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	186
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	976
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	547
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	192
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	1015
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	506
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	195
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	871
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	693
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	001	001	3343	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	153
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1211
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	576
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	1121
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	611
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	73
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1195
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	554
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	7
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Governor	 	160000	UnderVotes	 	0	902	16
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1236
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	494
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	41
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	34
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1188
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	555
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	59
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1244
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	532
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	30
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	1449
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	39
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	317
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	1218
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	530
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	57
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	1140
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	558
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	45
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	62
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	1155
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	617
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	33
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	County Commissioner	 District 2	380020	Darrell R. Harris	REP	104339396	73155	1153
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	County Commissioner	 District 2	380020	Kenneth C Diaz	NPA	118725200	73149	569
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	82
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	1204
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	404
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	196
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	1206
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	398
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	201
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	1100
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	481
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	223
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	1139
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	431
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	234
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	1140
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	426
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	238
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	1022
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	705
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	76
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	1226
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	508
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	71
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1206
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	531
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	68
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	976
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	764
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	65
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	1228
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	496
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	80
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	1146
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	583
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	75
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	1214
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	507
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	83
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	975
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	743
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	87
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	1166
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	542
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	97
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	1004
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	682
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	119
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	1256
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	433
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	115
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	926
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	805
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	002	002	3720	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	73
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1095
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	454
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	1030
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	480
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	51
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1084
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	434
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Governor	 	160000	UnderVotes	 	0	902	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1101
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	408
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	21
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1070
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	438
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	52
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1114
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	422
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	23
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	1225
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	52
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	284
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	1087
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	427
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	47
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	1041
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	444
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	25
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	50
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	1066
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	458
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	37
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	1014
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	373
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	173
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	981
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	383
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	197
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	911
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	434
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	216
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	944
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	392
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	225
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	928
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	394
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	237
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 2	781802	Julie Camp	NOP	111743770	72255	30
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 2	781802	David Duane Deetscreek	NOP	111489081	70417	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 2	781802	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 2	781802	UnderVotes	 	0	902	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 4	781804	Mike Bonacolta	NOP	115133279	70388	24
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 4	781804	Julie Hollingsworth	NOP	111582187	72258	18
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 4	781804	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Lehigh Acres Municipal Services Improvement District	 Seat 4	781804	UnderVotes	 	0	902	7
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	943
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	556
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	62
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	1081
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	416
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	63
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1003
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	501
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	55
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	753
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	752
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	55
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	1085
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	402
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	956
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	530
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	1023
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	461
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	77
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	816
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	657
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	85
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	953
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	497
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	110
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	804
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	630
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	125
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	1081
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	377
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	102
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	717
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	771
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	003	003	3114	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	72
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	52
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	50
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	46
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	53
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	46
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	52
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Governor	 	160000	UnderVotes	 	0	902	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	46
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	51
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	47
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	57
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	54
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	50
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	26
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	51
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	52
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	43
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	55
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	48
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	55
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	65
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	27
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	12
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	72
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	22
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	10
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	66
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	28
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	10
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	65
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	28
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	63
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	30
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	44
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	60
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	60
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	41
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	81
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	23
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	65
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	39
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	76
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	24
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	81
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	83
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	16
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	64
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	36
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	73
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	26
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	67
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	24
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	53
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	47
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	004	004	217	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	187
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	51
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	176
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	56
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	197
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	39
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	196
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	36
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	194
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	39
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	200
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	41
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	197
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	40
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	191
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	39
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	190
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	40
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	7
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	177
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	57
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	7
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	148
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	62
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	143
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	67
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	126
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	83
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	32
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	138
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	72
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	126
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	79
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	36
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	118
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	112
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	155
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	70
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	141
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	89
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	105
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	125
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	167
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	62
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	12
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	138
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	92
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	129
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	97
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	14
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	82
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	141
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	123
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	99
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	19
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	108
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	109
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	24
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	142
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	78
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	21
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	71
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	161
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	005	005	415	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	526
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	272
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	494
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	296
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	19
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	505
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	281
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	520
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	260
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	12
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	503
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	280
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	26
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	520
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	279
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	633
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	29
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	147
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	508
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	273
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	28
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	493
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	273
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	26
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	538
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	254
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	514
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	195
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	100
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	503
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	206
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	100
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	497
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	209
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	103
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	486
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	214
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	109
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	493
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	204
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	112
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	413
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	354
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	42
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	508
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	255
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	45
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	519
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	260
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	30
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	435
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	341
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	523
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	240
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	46
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	527
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	236
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	45
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	591
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	181
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	37
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	428
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	330
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	50
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	529
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	218
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	62
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	435
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	316
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	58
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	543
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	212
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	54
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	382
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	387
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	006	006	1843	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	40
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1018
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	273
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	19
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	1022
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	252
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	39
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1027
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	249
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Governor	 	160000	UnderVotes	 	0	902	13
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1052
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	222
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	30
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1005
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	243
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	63
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1048
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	239
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	26
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	1094
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	21
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	198
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	1021
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	235
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	57
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	986
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	242
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	18
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	67
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	1050
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	229
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	34
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	815
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	304
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	193
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	762
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	342
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	209
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	693
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	410
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	210
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	741
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	351
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	220
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	719
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	361
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	232
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	729
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	519
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	65
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	863
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	370
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	80
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	798
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	468
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	47
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	571
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	691
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	51
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	855
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	377
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	81
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	791
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	448
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	73
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	836
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	397
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	78
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	610
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	609
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	92
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	779
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	425
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	108
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	631
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	550
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	131
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	832
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	368
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	113
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	569
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	670
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	007	007	1987	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	235
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	84
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	223
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	89
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	13
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	236
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	73
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	234
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	10
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	229
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	82
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	14
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	240
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	80
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	263
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	10
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	52
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	236
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	80
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	229
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	77
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	7
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	12
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	242
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	77
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	6
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	211
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	40
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	205
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	76
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	44
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	190
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	85
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	49
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	199
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	77
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	49
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	196
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	78
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	50
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	187
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	119
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	18
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	223
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	84
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	227
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	86
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	12
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	170
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	140
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	233
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	74
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	18
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	227
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	81
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	17
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	213
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	93
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	19
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	192
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	119
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	14
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	203
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	94
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	28
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	167
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	128
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	30
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	237
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	67
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	21
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	167
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	147
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	008	008	618	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	11
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	324
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	300
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	319
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	290
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	24
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	304
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	309
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	329
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	276
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	13
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	336
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	275
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	20
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	349
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	271
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	463
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	23
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	147
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	333
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	284
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	16
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	311
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	282
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	25
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	299
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	319
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	15
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	402
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	161
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	69
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	405
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	155
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	72
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	383
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	169
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	80
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	382
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	166
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	85
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	394
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	157
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	82
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	335
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	267
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	398
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	200
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	35
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	435
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	175
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	23
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	386
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	224
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	22
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	415
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	186
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	32
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	418
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	182
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	33
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	449
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	150
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	34
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	381
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	218
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	34
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	399
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	187
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	47
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	338
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	244
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	51
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	449
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	140
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	44
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	367
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	236
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	009	009	1303	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	30
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	261
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	190
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Representative in Congress	 District 25	140250	Mario Diaz-Balart	REP	109123824	70298	248
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Representative in Congress	 District 25	140250	Mary Barzee Flores	DEM	114896860	71081	186
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Representative in Congress	 District 25	140250	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Representative in Congress	 District 25	140250	UnderVotes	 	0	902	29
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	243
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	188
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Governor	 	160000	UnderVotes	 	0	902	9
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	248
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	180
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	13
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	22
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	246
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	192
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	25
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	251
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	192
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	19
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Attorney	 20th Judicial Circuit	200200	Amira Fox	REP	111567016	70267	325
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Attorney	 20th Judicial Circuit	200200	WriteinVotes	 	0	900	21
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Attorney	 20th Judicial Circuit	200200	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Attorney	 20th Judicial Circuit	200200	UnderVotes	 	0	902	116
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Senator	 District 28	240280	Kathleen Passidomo	REP	103146644	69477	248
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Senator	 District 28	240280	Annisa Karim	DEM	100547856	71325	184
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Senator	 District 28	240280	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Senator	 District 28	240280	UnderVotes	 	0	902	31
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Representative	 District 80	260800	Byron Donalds	REP	103089553	69480	242
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Representative	 District 80	260800	Jennifer Boddicker	DEM	121281902	70442	187
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Representative	 District 80	260800	Dustin Alexander Lapolla	NPA	121322104	70327	8
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Representative	 District 80	260800	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	State Representative	 District 80	260800	UnderVotes	 	0	902	26
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Property Appraiser	 	340000	Dena R Pittman	REP	104333731	73143	268
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Property Appraiser	 	340000	Tony Aguilar	DEM	115418393	73142	179
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Property Appraiser	 	340000	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Property Appraiser	 	340000	UnderVotes	 	0	902	16
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	302
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	105
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	55
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	Yes	NOP	110940427	10	288
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	No	NOP	110940427	20	99
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Anthony K. Black	Second District Court of Appeal	520201	UnderVotes	 	0	902	76
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	Yes	NOP	102543399	10	290
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	No	NOP	102543399	20	95
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Darryl C. Casanueva	Second District Court of Appeal	520202	UnderVotes	 	0	902	78
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	Yes	NOP	110465384	10	278
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	No	NOP	110465384	20	104
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Edward C. LaRose	Second District Court of Appeal	520203	UnderVotes	 	0	902	81
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	Yes	NOP	110647491	10	267
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	No	NOP	110647491	20	116
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Retention of Susan H. Rothstein-Youakim	Second District Court of Appeal	520204	UnderVotes	 	0	902	80
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	244
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	169
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	49
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	299
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	119
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	45
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	316
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	103
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	43
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	252
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	169
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	42
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	296
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	119
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	2
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	46
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	294
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	126
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	43
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	348
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	71
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	44
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	267
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	148
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	48
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	289
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	123
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	51
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	252
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	157
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	54
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	326
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	81
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	55
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	252
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	162
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HEN	Hendry	10481	11/06/2018	2018 General Election	010	010	1214	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	49

@@ -1,0 +1,1091 @@
+,County Code,Election Date,Unique PCT Identifier,Precinct Polling Location,Total Registered,Contest Name,District,Contest Code,Candidate,Party,Vote Total
+0,LAF,11/06/2018,1,Day Community Center,903,United States Senator, ,120000,Rick Scott,REP,"468
+"
+1,LAF,11/06/2018,1,Day Community Center,903,United States Senator, ,120000,Bill Nelson,DEM,"112
+"
+2,LAF,11/06/2018,1,Day Community Center,903,United States Senator, ,120000,WriteinVotes, ,"1
+"
+3,LAF,11/06/2018,1,Day Community Center,903,United States Senator, ,120000,OverVotes, ,"0
+"
+4,LAF,11/06/2018,1,Day Community Center,903,United States Senator, ,120000,UnderVotes, ,"3
+"
+5,LAF,11/06/2018,1,Day Community Center,903,Representative in Congress, District 2,140020,Neal Dunn,REP,"508
+"
+6,LAF,11/06/2018,1,Day Community Center,903,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"62
+"
+7,LAF,11/06/2018,1,Day Community Center,903,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+8,LAF,11/06/2018,1,Day Community Center,903,Representative in Congress, District 2,140020,UnderVotes, ,"14
+"
+9,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,DeSantis / NuÃ±ez,REP,"506
+"
+10,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,Gillum / King,DEM,"64
+"
+11,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+12,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+13,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+14,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,Stanley / McJury,NPA,"6
+"
+15,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,WriteinVotes, ,"0
+"
+16,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,OverVotes, ,"1
+"
+17,LAF,11/06/2018,1,Day Community Center,903,Governor, ,160000,UnderVotes, ,"5
+"
+18,LAF,11/06/2018,1,Day Community Center,903,Attorney General, ,160200,Ashley Moody,REP,"509
+"
+19,LAF,11/06/2018,1,Day Community Center,903,Attorney General, ,160200,Sean Shaw,DEM,"56
+"
+20,LAF,11/06/2018,1,Day Community Center,903,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"7
+"
+21,LAF,11/06/2018,1,Day Community Center,903,Attorney General, ,160200,OverVotes, ,"0
+"
+22,LAF,11/06/2018,1,Day Community Center,903,Attorney General, ,160200,UnderVotes, ,"12
+"
+23,LAF,11/06/2018,1,Day Community Center,903,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"497
+"
+24,LAF,11/06/2018,1,Day Community Center,903,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"68
+"
+25,LAF,11/06/2018,1,Day Community Center,903,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+26,LAF,11/06/2018,1,Day Community Center,903,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+27,LAF,11/06/2018,1,Day Community Center,903,Chief Financial Officer, ,160500,UnderVotes, ,"19
+"
+28,LAF,11/06/2018,1,Day Community Center,903,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"506
+"
+29,LAF,11/06/2018,1,Day Community Center,903,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"65
+"
+30,LAF,11/06/2018,1,Day Community Center,903,Commissioner of Agriculture, ,160800,OverVotes, ,"1
+"
+31,LAF,11/06/2018,1,Day Community Center,903,Commissioner of Agriculture, ,160800,UnderVotes, ,"12
+"
+32,LAF,11/06/2018,1,Day Community Center,903,County Commissioner, District 2,380020,Henry McCray,REP,"279
+"
+33,LAF,11/06/2018,1,Day Community Center,903,County Commissioner, District 2,380020,Kevin Barrington,DEM,"216
+"
+34,LAF,11/06/2018,1,Day Community Center,903,County Commissioner, District 2,380020,James Bradley Knight,NPA,"80
+"
+35,LAF,11/06/2018,1,Day Community Center,903,County Commissioner, District 2,380020,OverVotes, ,"1
+"
+36,LAF,11/06/2018,1,Day Community Center,903,County Commissioner, District 2,380020,UnderVotes, ,"8
+"
+37,LAF,11/06/2018,1,Day Community Center,903,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"326
+"
+38,LAF,11/06/2018,1,Day Community Center,903,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"210
+"
+39,LAF,11/06/2018,1,Day Community Center,903,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+40,LAF,11/06/2018,1,Day Community Center,903,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"47
+"
+41,LAF,11/06/2018,1,Day Community Center,903,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"329
+"
+42,LAF,11/06/2018,1,Day Community Center,903,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"209
+"
+43,LAF,11/06/2018,1,Day Community Center,903,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"2
+"
+44,LAF,11/06/2018,1,Day Community Center,903,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"44
+"
+45,LAF,11/06/2018,1,Day Community Center,903,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"336
+"
+46,LAF,11/06/2018,1,Day Community Center,903,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"204
+"
+47,LAF,11/06/2018,1,Day Community Center,903,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"2
+"
+48,LAF,11/06/2018,1,Day Community Center,903,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"42
+"
+49,LAF,11/06/2018,1,Day Community Center,903,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"323
+"
+50,LAF,11/06/2018,1,Day Community Center,903,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"216
+"
+51,LAF,11/06/2018,1,Day Community Center,903,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+52,LAF,11/06/2018,1,Day Community Center,903,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"44
+"
+53,LAF,11/06/2018,1,Day Community Center,903,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"311
+"
+54,LAF,11/06/2018,1,Day Community Center,903,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"230
+"
+55,LAF,11/06/2018,1,Day Community Center,903,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+56,LAF,11/06/2018,1,Day Community Center,903,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"42
+"
+57,LAF,11/06/2018,1,Day Community Center,903,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"327
+"
+58,LAF,11/06/2018,1,Day Community Center,903,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"211
+"
+59,LAF,11/06/2018,1,Day Community Center,903,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"2
+"
+60,LAF,11/06/2018,1,Day Community Center,903,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"44
+"
+61,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"300
+"
+62,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"267
+"
+63,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+64,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"16
+"
+65,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"410
+"
+66,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"158
+"
+67,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+68,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"15
+"
+69,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"370
+"
+70,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"202
+"
+71,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+72,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"12
+"
+73,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"203
+"
+74,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"367
+"
+75,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+76,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"14
+"
+77,LAF,11/06/2018,1,Day Community Center,903,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"392
+"
+78,LAF,11/06/2018,1,Day Community Center,903,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"171
+"
+79,LAF,11/06/2018,1,Day Community Center,903,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+80,LAF,11/06/2018,1,Day Community Center,903,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"20
+"
+81,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"336
+"
+82,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"229
+"
+83,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+84,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"19
+"
+85,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"335
+"
+86,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"229
+"
+87,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+88,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"20
+"
+89,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"241
+"
+90,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"317
+"
+91,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+92,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"25
+"
+93,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"354
+"
+94,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"207
+"
+95,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+96,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"23
+"
+97,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"271
+"
+98,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"282
+"
+99,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+100,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"29
+"
+101,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"358
+"
+102,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"202
+"
+103,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+104,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"24
+"
+105,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"167
+"
+106,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"398
+"
+107,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+108,LAF,11/06/2018,1,Day Community Center,903,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"19
+"
+109,LAF,11/06/2018,2,Lafayette Public Libary,692,United States Senator, ,120000,Rick Scott,REP,"340
+"
+110,LAF,11/06/2018,2,Lafayette Public Libary,692,United States Senator, ,120000,Bill Nelson,DEM,"89
+"
+111,LAF,11/06/2018,2,Lafayette Public Libary,692,United States Senator, ,120000,WriteinVotes, ,"3
+"
+112,LAF,11/06/2018,2,Lafayette Public Libary,692,United States Senator, ,120000,OverVotes, ,"0
+"
+113,LAF,11/06/2018,2,Lafayette Public Libary,692,United States Senator, ,120000,UnderVotes, ,"7
+"
+114,LAF,11/06/2018,2,Lafayette Public Libary,692,Representative in Congress, District 2,140020,Neal Dunn,REP,"365
+"
+115,LAF,11/06/2018,2,Lafayette Public Libary,692,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"66
+"
+116,LAF,11/06/2018,2,Lafayette Public Libary,692,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+117,LAF,11/06/2018,2,Lafayette Public Libary,692,Representative in Congress, District 2,140020,UnderVotes, ,"8
+"
+118,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,DeSantis / NuÃ±ez,REP,"375
+"
+119,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,Gillum / King,DEM,"51
+"
+120,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+121,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+122,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+123,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+124,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,WriteinVotes, ,"1
+"
+125,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,OverVotes, ,"2
+"
+126,LAF,11/06/2018,2,Lafayette Public Libary,692,Governor, ,160000,UnderVotes, ,"4
+"
+127,LAF,11/06/2018,2,Lafayette Public Libary,692,Attorney General, ,160200,Ashley Moody,REP,"367
+"
+128,LAF,11/06/2018,2,Lafayette Public Libary,692,Attorney General, ,160200,Sean Shaw,DEM,"54
+"
+129,LAF,11/06/2018,2,Lafayette Public Libary,692,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"10
+"
+130,LAF,11/06/2018,2,Lafayette Public Libary,692,Attorney General, ,160200,OverVotes, ,"0
+"
+131,LAF,11/06/2018,2,Lafayette Public Libary,692,Attorney General, ,160200,UnderVotes, ,"8
+"
+132,LAF,11/06/2018,2,Lafayette Public Libary,692,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"365
+"
+133,LAF,11/06/2018,2,Lafayette Public Libary,692,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"64
+"
+134,LAF,11/06/2018,2,Lafayette Public Libary,692,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+135,LAF,11/06/2018,2,Lafayette Public Libary,692,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+136,LAF,11/06/2018,2,Lafayette Public Libary,692,Chief Financial Officer, ,160500,UnderVotes, ,"10
+"
+137,LAF,11/06/2018,2,Lafayette Public Libary,692,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"372
+"
+138,LAF,11/06/2018,2,Lafayette Public Libary,692,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"57
+"
+139,LAF,11/06/2018,2,Lafayette Public Libary,692,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+140,LAF,11/06/2018,2,Lafayette Public Libary,692,Commissioner of Agriculture, ,160800,UnderVotes, ,"10
+"
+141,LAF,11/06/2018,2,Lafayette Public Libary,692,County Commissioner, District 2,380020,Henry McCray,REP,"177
+"
+142,LAF,11/06/2018,2,Lafayette Public Libary,692,County Commissioner, District 2,380020,Kevin Barrington,DEM,"166
+"
+143,LAF,11/06/2018,2,Lafayette Public Libary,692,County Commissioner, District 2,380020,James Bradley Knight,NPA,"93
+"
+144,LAF,11/06/2018,2,Lafayette Public Libary,692,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+145,LAF,11/06/2018,2,Lafayette Public Libary,692,County Commissioner, District 2,380020,UnderVotes, ,"3
+"
+146,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"209
+"
+147,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"192
+"
+148,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+149,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"38
+"
+150,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"212
+"
+151,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"184
+"
+152,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+153,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"43
+"
+154,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"208
+"
+155,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"189
+"
+156,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"1
+"
+157,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"41
+"
+158,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"208
+"
+159,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"189
+"
+160,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+161,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"42
+"
+162,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"207
+"
+163,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"187
+"
+164,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+165,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"45
+"
+166,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"209
+"
+167,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"186
+"
+168,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+169,LAF,11/06/2018,2,Lafayette Public Libary,692,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"44
+"
+170,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"200
+"
+171,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"225
+"
+172,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+173,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"13
+"
+174,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"292
+"
+175,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"133
+"
+176,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+177,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"13
+"
+178,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"267
+"
+179,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"157
+"
+180,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+181,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"15
+"
+182,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"191
+"
+183,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"233
+"
+184,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+185,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"15
+"
+186,LAF,11/06/2018,2,Lafayette Public Libary,692,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"281
+"
+187,LAF,11/06/2018,2,Lafayette Public Libary,692,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"140
+"
+188,LAF,11/06/2018,2,Lafayette Public Libary,692,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+189,LAF,11/06/2018,2,Lafayette Public Libary,692,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"18
+"
+190,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"241
+"
+191,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"182
+"
+192,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+193,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"15
+"
+194,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"273
+"
+195,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"147
+"
+196,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+197,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"19
+"
+198,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"176
+"
+199,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"245
+"
+200,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+201,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"18
+"
+202,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"268
+"
+203,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"148
+"
+204,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+205,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"23
+"
+206,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"207
+"
+207,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"208
+"
+208,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+209,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"24
+"
+210,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"263
+"
+211,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"155
+"
+212,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+213,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"21
+"
+214,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"136
+"
+215,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"285
+"
+216,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+217,LAF,11/06/2018,2,Lafayette Public Libary,692,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"17
+"
+218,LAF,11/06/2018,3,Airline Community Center,1002,United States Senator, ,120000,Rick Scott,REP,"548
+"
+219,LAF,11/06/2018,3,Airline Community Center,1002,United States Senator, ,120000,Bill Nelson,DEM,"123
+"
+220,LAF,11/06/2018,3,Airline Community Center,1002,United States Senator, ,120000,WriteinVotes, ,"2
+"
+221,LAF,11/06/2018,3,Airline Community Center,1002,United States Senator, ,120000,OverVotes, ,"0
+"
+222,LAF,11/06/2018,3,Airline Community Center,1002,United States Senator, ,120000,UnderVotes, ,"9
+"
+223,LAF,11/06/2018,3,Airline Community Center,1002,Representative in Congress, District 2,140020,Neal Dunn,REP,"579
+"
+224,LAF,11/06/2018,3,Airline Community Center,1002,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"83
+"
+225,LAF,11/06/2018,3,Airline Community Center,1002,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+226,LAF,11/06/2018,3,Airline Community Center,1002,Representative in Congress, District 2,140020,UnderVotes, ,"20
+"
+227,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,DeSantis / NuÃ±ez,REP,"601
+"
+228,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,Gillum / King,DEM,"63
+"
+229,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,Richardson / Argenziano,REF,"4
+"
+230,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+231,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+232,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,Stanley / McJury,NPA,"3
+"
+233,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,WriteinVotes, ,"1
+"
+234,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,OverVotes, ,"2
+"
+235,LAF,11/06/2018,3,Airline Community Center,1002,Governor, ,160000,UnderVotes, ,"5
+"
+236,LAF,11/06/2018,3,Airline Community Center,1002,Attorney General, ,160200,Ashley Moody,REP,"590
+"
+237,LAF,11/06/2018,3,Airline Community Center,1002,Attorney General, ,160200,Sean Shaw,DEM,"74
+"
+238,LAF,11/06/2018,3,Airline Community Center,1002,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"6
+"
+239,LAF,11/06/2018,3,Airline Community Center,1002,Attorney General, ,160200,OverVotes, ,"0
+"
+240,LAF,11/06/2018,3,Airline Community Center,1002,Attorney General, ,160200,UnderVotes, ,"12
+"
+241,LAF,11/06/2018,3,Airline Community Center,1002,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"573
+"
+242,LAF,11/06/2018,3,Airline Community Center,1002,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"87
+"
+243,LAF,11/06/2018,3,Airline Community Center,1002,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+244,LAF,11/06/2018,3,Airline Community Center,1002,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+245,LAF,11/06/2018,3,Airline Community Center,1002,Chief Financial Officer, ,160500,UnderVotes, ,"22
+"
+246,LAF,11/06/2018,3,Airline Community Center,1002,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"580
+"
+247,LAF,11/06/2018,3,Airline Community Center,1002,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"87
+"
+248,LAF,11/06/2018,3,Airline Community Center,1002,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+249,LAF,11/06/2018,3,Airline Community Center,1002,Commissioner of Agriculture, ,160800,UnderVotes, ,"15
+"
+250,LAF,11/06/2018,3,Airline Community Center,1002,County Commissioner, District 2,380020,Henry McCray,REP,"340
+"
+251,LAF,11/06/2018,3,Airline Community Center,1002,County Commissioner, District 2,380020,Kevin Barrington,DEM,"237
+"
+252,LAF,11/06/2018,3,Airline Community Center,1002,County Commissioner, District 2,380020,James Bradley Knight,NPA,"101
+"
+253,LAF,11/06/2018,3,Airline Community Center,1002,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+254,LAF,11/06/2018,3,Airline Community Center,1002,County Commissioner, District 2,380020,UnderVotes, ,"4
+"
+255,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"384
+"
+256,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"230
+"
+257,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+258,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"67
+"
+259,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"376
+"
+260,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"239
+"
+261,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+262,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"67
+"
+263,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"381
+"
+264,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"229
+"
+265,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+266,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"72
+"
+267,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"368
+"
+268,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"239
+"
+269,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+270,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"75
+"
+271,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"372
+"
+272,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"239
+"
+273,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+274,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"71
+"
+275,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"378
+"
+276,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"233
+"
+277,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+278,LAF,11/06/2018,3,Airline Community Center,1002,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"71
+"
+279,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"318
+"
+280,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"345
+"
+281,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+282,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"19
+"
+283,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"486
+"
+284,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"169
+"
+285,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"2
+"
+286,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"25
+"
+287,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"381
+"
+288,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"273
+"
+289,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+290,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"28
+"
+291,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"248
+"
+292,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"403
+"
+293,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+294,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"30
+"
+295,LAF,11/06/2018,3,Airline Community Center,1002,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"437
+"
+296,LAF,11/06/2018,3,Airline Community Center,1002,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"205
+"
+297,LAF,11/06/2018,3,Airline Community Center,1002,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+298,LAF,11/06/2018,3,Airline Community Center,1002,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"39
+"
+299,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"376
+"
+300,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"274
+"
+301,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"2
+"
+302,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"30
+"
+303,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"385
+"
+304,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"258
+"
+305,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+306,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"39
+"
+307,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"241
+"
+308,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"402
+"
+309,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+310,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"39
+"
+311,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"399
+"
+312,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"243
+"
+313,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+314,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"40
+"
+315,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"279
+"
+316,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"349
+"
+317,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+318,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"53
+"
+319,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"399
+"
+320,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"241
+"
+321,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+322,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"42
+"
+323,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"216
+"
+324,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"440
+"
+325,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"3
+"
+326,LAF,11/06/2018,3,Airline Community Center,1002,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"23
+"
+327,LAF,11/06/2018,4,4TH District Community Center,1109,United States Senator, ,120000,Rick Scott,REP,"631
+"
+328,LAF,11/06/2018,4,4TH District Community Center,1109,United States Senator, ,120000,Bill Nelson,DEM,"130
+"
+329,LAF,11/06/2018,4,4TH District Community Center,1109,United States Senator, ,120000,WriteinVotes, ,"4
+"
+330,LAF,11/06/2018,4,4TH District Community Center,1109,United States Senator, ,120000,OverVotes, ,"1
+"
+331,LAF,11/06/2018,4,4TH District Community Center,1109,United States Senator, ,120000,UnderVotes, ,"5
+"
+332,LAF,11/06/2018,4,4TH District Community Center,1109,Representative in Congress, District 2,140020,Neal Dunn,REP,"660
+"
+333,LAF,11/06/2018,4,4TH District Community Center,1109,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"94
+"
+334,LAF,11/06/2018,4,4TH District Community Center,1109,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+335,LAF,11/06/2018,4,4TH District Community Center,1109,Representative in Congress, District 2,140020,UnderVotes, ,"17
+"
+336,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,DeSantis / NuÃ±ez,REP,"671
+"
+337,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,Gillum / King,DEM,"87
+"
+338,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+339,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+340,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,Foley / Tutton,NPA,"3
+"
+341,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+342,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,WriteinVotes, ,"0
+"
+343,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,OverVotes, ,"2
+"
+344,LAF,11/06/2018,4,4TH District Community Center,1109,Governor, ,160000,UnderVotes, ,"3
+"
+345,LAF,11/06/2018,4,4TH District Community Center,1109,Attorney General, ,160200,Ashley Moody,REP,"661
+"
+346,LAF,11/06/2018,4,4TH District Community Center,1109,Attorney General, ,160200,Sean Shaw,DEM,"92
+"
+347,LAF,11/06/2018,4,4TH District Community Center,1109,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"11
+"
+348,LAF,11/06/2018,4,4TH District Community Center,1109,Attorney General, ,160200,OverVotes, ,"0
+"
+349,LAF,11/06/2018,4,4TH District Community Center,1109,Attorney General, ,160200,UnderVotes, ,"7
+"
+350,LAF,11/06/2018,4,4TH District Community Center,1109,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"652
+"
+351,LAF,11/06/2018,4,4TH District Community Center,1109,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"103
+"
+352,LAF,11/06/2018,4,4TH District Community Center,1109,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+353,LAF,11/06/2018,4,4TH District Community Center,1109,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+354,LAF,11/06/2018,4,4TH District Community Center,1109,Chief Financial Officer, ,160500,UnderVotes, ,"16
+"
+355,LAF,11/06/2018,4,4TH District Community Center,1109,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"666
+"
+356,LAF,11/06/2018,4,4TH District Community Center,1109,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"97
+"
+357,LAF,11/06/2018,4,4TH District Community Center,1109,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+358,LAF,11/06/2018,4,4TH District Community Center,1109,Commissioner of Agriculture, ,160800,UnderVotes, ,"8
+"
+359,LAF,11/06/2018,4,4TH District Community Center,1109,County Commissioner, District 2,380020,Henry McCray,REP,"447
+"
+360,LAF,11/06/2018,4,4TH District Community Center,1109,County Commissioner, District 2,380020,Kevin Barrington,DEM,"206
+"
+361,LAF,11/06/2018,4,4TH District Community Center,1109,County Commissioner, District 2,380020,James Bradley Knight,NPA,"106
+"
+362,LAF,11/06/2018,4,4TH District Community Center,1109,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+363,LAF,11/06/2018,4,4TH District Community Center,1109,County Commissioner, District 2,380020,UnderVotes, ,"12
+"
+364,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"409
+"
+365,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"313
+"
+366,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+367,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"49
+"
+368,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"407
+"
+369,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"310
+"
+370,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+371,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"54
+"
+372,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"407
+"
+373,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"311
+"
+374,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+375,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"53
+"
+376,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"403
+"
+377,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"317
+"
+378,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+379,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"50
+"
+380,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"392
+"
+381,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"326
+"
+382,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+383,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"53
+"
+384,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"395
+"
+385,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"325
+"
+386,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+387,LAF,11/06/2018,4,4TH District Community Center,1109,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"51
+"
+388,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"393
+"
+389,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"361
+"
+390,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+391,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"17
+"
+392,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"505
+"
+393,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"246
+"
+394,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+395,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"20
+"
+396,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"419
+"
+397,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"339
+"
+398,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+399,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"12
+"
+400,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"293
+"
+401,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"463
+"
+402,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+403,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"15
+"
+404,LAF,11/06/2018,4,4TH District Community Center,1109,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"487
+"
+405,LAF,11/06/2018,4,4TH District Community Center,1109,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"267
+"
+406,LAF,11/06/2018,4,4TH District Community Center,1109,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+407,LAF,11/06/2018,4,4TH District Community Center,1109,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"17
+"
+408,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"407
+"
+409,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"339
+"
+410,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+411,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"25
+"
+412,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"418
+"
+413,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"328
+"
+414,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+415,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"24
+"
+416,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"278
+"
+417,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"467
+"
+418,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+419,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"26
+"
+420,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"437
+"
+421,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"307
+"
+422,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+423,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"27
+"
+424,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"289
+"
+425,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"443
+"
+426,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+427,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"39
+"
+428,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"445
+"
+429,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"295
+"
+430,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"1
+"
+431,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"30
+"
+432,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"182
+"
+433,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"571
+"
+434,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+435,LAF,11/06/2018,4,4TH District Community Center,1109,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"18
+"
+436,LAF,11/06/2018,5,Mayo Community Center,650,United States Senator, ,120000,Rick Scott,REP,"207
+"
+437,LAF,11/06/2018,5,Mayo Community Center,650,United States Senator, ,120000,Bill Nelson,DEM,"167
+"
+438,LAF,11/06/2018,5,Mayo Community Center,650,United States Senator, ,120000,WriteinVotes, ,"0
+"
+439,LAF,11/06/2018,5,Mayo Community Center,650,United States Senator, ,120000,OverVotes, ,"1
+"
+440,LAF,11/06/2018,5,Mayo Community Center,650,United States Senator, ,120000,UnderVotes, ,"2
+"
+441,LAF,11/06/2018,5,Mayo Community Center,650,Representative in Congress, District 2,140020,Neal Dunn,REP,"216
+"
+442,LAF,11/06/2018,5,Mayo Community Center,650,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"153
+"
+443,LAF,11/06/2018,5,Mayo Community Center,650,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+444,LAF,11/06/2018,5,Mayo Community Center,650,Representative in Congress, District 2,140020,UnderVotes, ,"8
+"
+445,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,DeSantis / NuÃ±ez,REP,"210
+"
+446,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,Gillum / King,DEM,"154
+"
+447,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,Richardson / Argenziano,REF,"4
+"
+448,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+449,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+450,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,Stanley / McJury,NPA,"2
+"
+451,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,WriteinVotes, ,"0
+"
+452,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,OverVotes, ,"1
+"
+453,LAF,11/06/2018,5,Mayo Community Center,650,Governor, ,160000,UnderVotes, ,"2
+"
+454,LAF,11/06/2018,5,Mayo Community Center,650,Attorney General, ,160200,Ashley Moody,REP,"228
+"
+455,LAF,11/06/2018,5,Mayo Community Center,650,Attorney General, ,160200,Sean Shaw,DEM,"139
+"
+456,LAF,11/06/2018,5,Mayo Community Center,650,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"5
+"
+457,LAF,11/06/2018,5,Mayo Community Center,650,Attorney General, ,160200,OverVotes, ,"0
+"
+458,LAF,11/06/2018,5,Mayo Community Center,650,Attorney General, ,160200,UnderVotes, ,"5
+"
+459,LAF,11/06/2018,5,Mayo Community Center,650,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"214
+"
+460,LAF,11/06/2018,5,Mayo Community Center,650,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"155
+"
+461,LAF,11/06/2018,5,Mayo Community Center,650,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+462,LAF,11/06/2018,5,Mayo Community Center,650,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+463,LAF,11/06/2018,5,Mayo Community Center,650,Chief Financial Officer, ,160500,UnderVotes, ,"7
+"
+464,LAF,11/06/2018,5,Mayo Community Center,650,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"216
+"
+465,LAF,11/06/2018,5,Mayo Community Center,650,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"155
+"
+466,LAF,11/06/2018,5,Mayo Community Center,650,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+467,LAF,11/06/2018,5,Mayo Community Center,650,Commissioner of Agriculture, ,160800,UnderVotes, ,"6
+"
+468,LAF,11/06/2018,5,Mayo Community Center,650,County Commissioner, District 2,380020,Henry McCray,REP,"136
+"
+469,LAF,11/06/2018,5,Mayo Community Center,650,County Commissioner, District 2,380020,Kevin Barrington,DEM,"165
+"
+470,LAF,11/06/2018,5,Mayo Community Center,650,County Commissioner, District 2,380020,James Bradley Knight,NPA,"71
+"
+471,LAF,11/06/2018,5,Mayo Community Center,650,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+472,LAF,11/06/2018,5,Mayo Community Center,650,County Commissioner, District 2,380020,UnderVotes, ,"5
+"
+473,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"214
+"
+474,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"141
+"
+475,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+476,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"22
+"
+477,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"211
+"
+478,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"140
+"
+479,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+480,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"26
+"
+481,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"224
+"
+482,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"129
+"
+483,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+484,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"24
+"
+485,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"217
+"
+486,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"135
+"
+487,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+488,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"25
+"
+489,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"222
+"
+490,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"128
+"
+491,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+492,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"27
+"
+493,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"212
+"
+494,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"139
+"
+495,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+496,LAF,11/06/2018,5,Mayo Community Center,650,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"26
+"
+497,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"182
+"
+498,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"185
+"
+499,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+500,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"10
+"
+501,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"251
+"
+502,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"114
+"
+503,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+504,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"12
+"
+505,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"234
+"
+506,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"131
+"
+507,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+508,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"11
+"
+509,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"219
+"
+510,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"148
+"
+511,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+512,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"10
+"
+513,LAF,11/06/2018,5,Mayo Community Center,650,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"241
+"
+514,LAF,11/06/2018,5,Mayo Community Center,650,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"120
+"
+515,LAF,11/06/2018,5,Mayo Community Center,650,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+516,LAF,11/06/2018,5,Mayo Community Center,650,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"16
+"
+517,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"235
+"
+518,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"125
+"
+519,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+520,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"17
+"
+521,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"253
+"
+522,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"105
+"
+523,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+524,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"19
+"
+525,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"196
+"
+526,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"162
+"
+527,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+528,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"18
+"
+529,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"248
+"
+530,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"110
+"
+531,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+532,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"19
+"
+533,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"208
+"
+534,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"146
+"
+535,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+536,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"23
+"
+537,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"232
+"
+538,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"120
+"
+539,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+540,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"25
+"
+541,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"156
+"
+542,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"204
+"
+543,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+544,LAF,11/06/2018,5,Mayo Community Center,650,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"17
+"

@@ -1,0 +1,888 @@
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	183
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	118
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	176
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	130
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	190
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	110
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	190
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	107
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	183
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	115
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	188
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	116
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	187
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	112
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	174
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	108
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	28
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	172
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	104
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	34
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	172
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	107
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	31
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	163
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	116
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	31
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	168
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	114
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	28
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	167
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	109
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	33
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	145
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	155
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	9
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	206
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	94
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	196
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	96
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	18
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	171
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	122
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	17
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	177
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	111
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	21
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	186
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	100
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	24
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	189
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	97
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	24
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	152
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	136
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	22
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	185
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	99
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	26
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	167
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	117
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	26
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	206
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	76
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	28
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	147
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	145
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	1	Jennings City Hall	592	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	18
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	227
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	504
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	216
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	515
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	223
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	505
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Governor	 	160000	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	239
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	480
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	234
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	490
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	14
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	233
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	494
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	224
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	484
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	7
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	16
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	478
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	208
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	55
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	415
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	255
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	71
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	438
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	229
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	74
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	416
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	250
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	75
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	440
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	231
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	70
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	416
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	250
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	74
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	298
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	410
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	31
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	405
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	306
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	30
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	519
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	173
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	48
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	496
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	190
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	54
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	357
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	314
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	69
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	429
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	254
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	58
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	430
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	240
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	71
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	422
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	253
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	65
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	418
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	248
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	75
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	377
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	276
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	88
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	449
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	217
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	75
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	348
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	334
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	2	Jasper Courthouse	1307	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	58
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	310
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	256
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	286
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	271
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	15
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	313
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	252
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	309
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	250
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	302
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	251
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	19
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	300
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	258
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	296
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	247
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	7
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	18
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	310
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	197
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	63
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	286
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	211
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	75
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	287
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	211
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	74
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	293
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	206
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	73
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	290
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	216
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	66
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	288
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	210
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	74
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	253
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	285
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	34
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	341
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	197
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	34
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	389
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	160
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	23
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	347
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	199
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	26
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	323
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	207
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	42
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	332
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	205
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	35
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	347
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	173
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	52
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	275
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	255
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	42
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	331
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	194
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	46
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	279
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	233
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	60
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	356
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	168
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	48
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	232
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	302
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	3	White Springs Library	929	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	38
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	656
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	243
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	644
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	253
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	14
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	673
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	224
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	688
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	205
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	7
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	667
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	226
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	667
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	230
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	653
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	206
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	13
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	16
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	23
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	473
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	325
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	112
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	478
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	324
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	109
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	469
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	322
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	120
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	470
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	327
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	113
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	460
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	338
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	113
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	484
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	314
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	112
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	469
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	394
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	47
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	576
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	289
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	46
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	617
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	237
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	56
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	435
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	419
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	56
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	574
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	254
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	83
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	526
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	319
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	65
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	561
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	270
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	80
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	371
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	463
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	76
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	563
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	268
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	80
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	395
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	405
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	111
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	584
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	234
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	93
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	355
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	487
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	4	Jasper Civic Center	1555	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	69
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	121
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	39
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	120
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	35
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	9
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	124
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	32
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	126
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	31
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	123
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	35
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	123
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	37
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	118
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	28
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	8
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	7
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	County Commissioner	 District 2	380020	Josh Smith	REP	115013893	72128	87
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	County Commissioner	 District 2	380020	Sandy Hurst	DEM	104305063	72121	74
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	89
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	64
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	11
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	89
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	62
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	13
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	87
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	64
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	13
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	83
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	70
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	11
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	93
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	60
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	11
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	90
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	62
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	12
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	87
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	74
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	118
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	42
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	122
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	37
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	72
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	86
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	109
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	50
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	95
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	64
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	104
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	54
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	86
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	72
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	111
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	45
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	8
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	78
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	77
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	9
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	112
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	44
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	8
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	67
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	92
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	5	Bright Pond Fellowship	267	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	309
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	173
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	288
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	191
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	11
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	320
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	156
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Governor	 	160000	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	320
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	156
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	318
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	158
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	320
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	158
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	12
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	314
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	154
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	284
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	173
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	33
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	270
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	180
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	272
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	171
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	47
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	266
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	178
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	46
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	272
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	177
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	41
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	269
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	176
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	45
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	250
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	224
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	16
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	302
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	166
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	22
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	345
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	126
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	19
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	255
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	216
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	19
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	292
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	172
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	26
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	289
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	182
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	18
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	297
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	167
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	25
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	249
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	217
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	23
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	301
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	156
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	33
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	232
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	210
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	47
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	327
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	133
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	30
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	217
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	253
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	6	Genoa Vol. Fire Dept.	769	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	20
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	292
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	181
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	279
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	190
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	8
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	294
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	175
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	298
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	169
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	291
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	175
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	292
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	181
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	287
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	172
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	4
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	9
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	298
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	125
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	55
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	296
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	121
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	61
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	297
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	118
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	63
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	292
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	123
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	61
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	288
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	132
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	58
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	292
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	125
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	61
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	283
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	167
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	28
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	318
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	134
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	25
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	360
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	95
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	23
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	236
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	215
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	27
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	322
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	124
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	31
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	290
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	157
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	31
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	319
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	121
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	38
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	225
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	219
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	34
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	310
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	124
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	44
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	240
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	188
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	50
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	326
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	113
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	39
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	188
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	261
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	7	Bellville Vol. Fire Dept.	839	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	28
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	758
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	157
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	737
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	171
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	19
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	771
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	137
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Governor	 	160000	UnderVotes	 	0	902	6
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	772
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	132
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	9
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	759
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	144
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	24
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	775
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	144
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	736
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	139
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	16
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	19
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	17
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	County Commissioner	 District 2	380020	Josh Smith	REP	115013893	72128	545
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	County Commissioner	 District 2	380020	Sandy Hurst	DEM	104305063	72121	370
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	10
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	508
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	327
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	91
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	523
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	305
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	98
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	524
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	311
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	91
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	500
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	331
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	95
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	496
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	333
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	96
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	506
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	317
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	102
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	573
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	333
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	19
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	678
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	221
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	28
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	654
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	228
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	45
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	361
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	521
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	45
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	644
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	221
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	61
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	560
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	312
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	55
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	614
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	241
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	71
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	442
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	429
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	54
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	622
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	247
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	58
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	492
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	357
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	77
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	654
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	212
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	60
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	381
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	496
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HAM	Hamilton	10481	11/06/2018	2018 General Election	8	Cross Roads	1469	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	50

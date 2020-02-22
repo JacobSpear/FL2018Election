@@ -1,0 +1,1855 @@
+,County Code,Election Date,Unique PCT Identifier,Precinct Polling Location,Total Registered,Contest Name,District,Contest Code,Candidate,Party,Vote Total
+0,FRA,11/06/2018,1,Eastpoint,1678,United States Senator, ,120000,Rick Scott,REP,"811
+"
+1,FRA,11/06/2018,1,Eastpoint,1678,United States Senator, ,120000,Bill Nelson,DEM,"264
+"
+2,FRA,11/06/2018,1,Eastpoint,1678,United States Senator, ,120000,WriteinVotes, ,"4
+"
+3,FRA,11/06/2018,1,Eastpoint,1678,United States Senator, ,120000,OverVotes, ,"0
+"
+4,FRA,11/06/2018,1,Eastpoint,1678,United States Senator, ,120000,UnderVotes, ,"29
+"
+5,FRA,11/06/2018,1,Eastpoint,1678,Representative in Congress, District 2,140020,Neal Dunn,REP,"852
+"
+6,FRA,11/06/2018,1,Eastpoint,1678,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"225
+"
+7,FRA,11/06/2018,1,Eastpoint,1678,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+8,FRA,11/06/2018,1,Eastpoint,1678,Representative in Congress, District 2,140020,UnderVotes, ,"31
+"
+9,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,DeSantis / NuÃ±ez,REP,"846
+"
+10,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,Gillum / King,DEM,"207
+"
+11,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,Richardson / Argenziano,REF,"7
+"
+12,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,Gibson / Wilds,NPA,"12
+"
+13,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,Foley / Tutton,NPA,"7
+"
+14,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,Stanley / McJury,NPA,"8
+"
+15,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,WriteinVotes, ,"0
+"
+16,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,OverVotes, ,"0
+"
+17,FRA,11/06/2018,1,Eastpoint,1678,Governor, ,160000,UnderVotes, ,"21
+"
+18,FRA,11/06/2018,1,Eastpoint,1678,Attorney General, ,160200,Ashley Moody,REP,"815
+"
+19,FRA,11/06/2018,1,Eastpoint,1678,Attorney General, ,160200,Sean Shaw,DEM,"207
+"
+20,FRA,11/06/2018,1,Eastpoint,1678,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"28
+"
+21,FRA,11/06/2018,1,Eastpoint,1678,Attorney General, ,160200,OverVotes, ,"0
+"
+22,FRA,11/06/2018,1,Eastpoint,1678,Attorney General, ,160200,UnderVotes, ,"58
+"
+23,FRA,11/06/2018,1,Eastpoint,1678,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"895
+"
+24,FRA,11/06/2018,1,Eastpoint,1678,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"183
+"
+25,FRA,11/06/2018,1,Eastpoint,1678,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+26,FRA,11/06/2018,1,Eastpoint,1678,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+27,FRA,11/06/2018,1,Eastpoint,1678,Chief Financial Officer, ,160500,UnderVotes, ,"30
+"
+28,FRA,11/06/2018,1,Eastpoint,1678,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"829
+"
+29,FRA,11/06/2018,1,Eastpoint,1678,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"227
+"
+30,FRA,11/06/2018,1,Eastpoint,1678,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+31,FRA,11/06/2018,1,Eastpoint,1678,Commissioner of Agriculture, ,160800,UnderVotes, ,"52
+"
+32,FRA,11/06/2018,1,Eastpoint,1678,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"429
+"
+33,FRA,11/06/2018,1,Eastpoint,1678,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"478
+"
+34,FRA,11/06/2018,1,Eastpoint,1678,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+35,FRA,11/06/2018,1,Eastpoint,1678,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"201
+"
+36,FRA,11/06/2018,1,Eastpoint,1678,Tax Collector, ,355000,Rick Watson,REP,"262
+"
+37,FRA,11/06/2018,1,Eastpoint,1678,Tax Collector, ,355000,Teresa Ann Martin,DEM,"250
+"
+38,FRA,11/06/2018,1,Eastpoint,1678,Tax Collector, ,355000,Connie Dykes Polous,NPA,"584
+"
+39,FRA,11/06/2018,1,Eastpoint,1678,Tax Collector, ,355000,OverVotes, ,"4
+"
+40,FRA,11/06/2018,1,Eastpoint,1678,Tax Collector, ,355000,UnderVotes, ,"8
+"
+41,FRA,11/06/2018,1,Eastpoint,1678,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"599
+"
+42,FRA,11/06/2018,1,Eastpoint,1678,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"341
+"
+43,FRA,11/06/2018,1,Eastpoint,1678,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"2
+"
+44,FRA,11/06/2018,1,Eastpoint,1678,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"166
+"
+45,FRA,11/06/2018,1,Eastpoint,1678,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"564
+"
+46,FRA,11/06/2018,1,Eastpoint,1678,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"345
+"
+47,FRA,11/06/2018,1,Eastpoint,1678,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+48,FRA,11/06/2018,1,Eastpoint,1678,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"198
+"
+49,FRA,11/06/2018,1,Eastpoint,1678,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"572
+"
+50,FRA,11/06/2018,1,Eastpoint,1678,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"338
+"
+51,FRA,11/06/2018,1,Eastpoint,1678,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+52,FRA,11/06/2018,1,Eastpoint,1678,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"198
+"
+53,FRA,11/06/2018,1,Eastpoint,1678,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"567
+"
+54,FRA,11/06/2018,1,Eastpoint,1678,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"336
+"
+55,FRA,11/06/2018,1,Eastpoint,1678,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+56,FRA,11/06/2018,1,Eastpoint,1678,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"205
+"
+57,FRA,11/06/2018,1,Eastpoint,1678,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"573
+"
+58,FRA,11/06/2018,1,Eastpoint,1678,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"332
+"
+59,FRA,11/06/2018,1,Eastpoint,1678,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+60,FRA,11/06/2018,1,Eastpoint,1678,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"203
+"
+61,FRA,11/06/2018,1,Eastpoint,1678,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"562
+"
+62,FRA,11/06/2018,1,Eastpoint,1678,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"342
+"
+63,FRA,11/06/2018,1,Eastpoint,1678,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+64,FRA,11/06/2018,1,Eastpoint,1678,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"204
+"
+65,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"608
+"
+66,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"425
+"
+67,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"6
+"
+68,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"69
+"
+69,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"636
+"
+70,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"362
+"
+71,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"4
+"
+72,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"106
+"
+73,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"754
+"
+74,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"290
+"
+75,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+76,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"63
+"
+77,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"566
+"
+78,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"466
+"
+79,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+80,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"75
+"
+81,FRA,11/06/2018,1,Eastpoint,1678,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"683
+"
+82,FRA,11/06/2018,1,Eastpoint,1678,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"324
+"
+83,FRA,11/06/2018,1,Eastpoint,1678,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+84,FRA,11/06/2018,1,Eastpoint,1678,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"101
+"
+85,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"622
+"
+86,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"380
+"
+87,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+88,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"106
+"
+89,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"708
+"
+90,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"284
+"
+91,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+92,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"116
+"
+93,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"520
+"
+94,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"489
+"
+95,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+96,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"98
+"
+97,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"664
+"
+98,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"322
+"
+99,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+100,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"121
+"
+101,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"505
+"
+102,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"440
+"
+103,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+104,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"163
+"
+105,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"733
+"
+106,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"247
+"
+107,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+108,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"128
+"
+109,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"488
+"
+110,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"539
+"
+111,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+112,FRA,11/06/2018,1,Eastpoint,1678,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"79
+"
+113,FRA,11/06/2018,2,Alligator Point,382,United States Senator, ,120000,Rick Scott,REP,"199
+"
+114,FRA,11/06/2018,2,Alligator Point,382,United States Senator, ,120000,Bill Nelson,DEM,"106
+"
+115,FRA,11/06/2018,2,Alligator Point,382,United States Senator, ,120000,WriteinVotes, ,"0
+"
+116,FRA,11/06/2018,2,Alligator Point,382,United States Senator, ,120000,OverVotes, ,"2
+"
+117,FRA,11/06/2018,2,Alligator Point,382,United States Senator, ,120000,UnderVotes, ,"0
+"
+118,FRA,11/06/2018,2,Alligator Point,382,Representative in Congress, District 2,140020,Neal Dunn,REP,"206
+"
+119,FRA,11/06/2018,2,Alligator Point,382,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"98
+"
+120,FRA,11/06/2018,2,Alligator Point,382,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+121,FRA,11/06/2018,2,Alligator Point,382,Representative in Congress, District 2,140020,UnderVotes, ,"3
+"
+122,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,DeSantis / NuÃ±ez,REP,"207
+"
+123,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,Gillum / King,DEM,"98
+"
+124,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+125,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+126,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+127,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+128,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,WriteinVotes, ,"0
+"
+129,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,OverVotes, ,"0
+"
+130,FRA,11/06/2018,2,Alligator Point,382,Governor, ,160000,UnderVotes, ,"0
+"
+131,FRA,11/06/2018,2,Alligator Point,382,Attorney General, ,160200,Ashley Moody,REP,"209
+"
+132,FRA,11/06/2018,2,Alligator Point,382,Attorney General, ,160200,Sean Shaw,DEM,"91
+"
+133,FRA,11/06/2018,2,Alligator Point,382,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"3
+"
+134,FRA,11/06/2018,2,Alligator Point,382,Attorney General, ,160200,OverVotes, ,"0
+"
+135,FRA,11/06/2018,2,Alligator Point,382,Attorney General, ,160200,UnderVotes, ,"4
+"
+136,FRA,11/06/2018,2,Alligator Point,382,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"214
+"
+137,FRA,11/06/2018,2,Alligator Point,382,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"85
+"
+138,FRA,11/06/2018,2,Alligator Point,382,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+139,FRA,11/06/2018,2,Alligator Point,382,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+140,FRA,11/06/2018,2,Alligator Point,382,Chief Financial Officer, ,160500,UnderVotes, ,"8
+"
+141,FRA,11/06/2018,2,Alligator Point,382,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"208
+"
+142,FRA,11/06/2018,2,Alligator Point,382,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"96
+"
+143,FRA,11/06/2018,2,Alligator Point,382,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+144,FRA,11/06/2018,2,Alligator Point,382,Commissioner of Agriculture, ,160800,UnderVotes, ,"3
+"
+145,FRA,11/06/2018,2,Alligator Point,382,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"107
+"
+146,FRA,11/06/2018,2,Alligator Point,382,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"152
+"
+147,FRA,11/06/2018,2,Alligator Point,382,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+148,FRA,11/06/2018,2,Alligator Point,382,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"48
+"
+149,FRA,11/06/2018,2,Alligator Point,382,Tax Collector, ,355000,Rick Watson,REP,"199
+"
+150,FRA,11/06/2018,2,Alligator Point,382,Tax Collector, ,355000,Teresa Ann Martin,DEM,"79
+"
+151,FRA,11/06/2018,2,Alligator Point,382,Tax Collector, ,355000,Connie Dykes Polous,NPA,"25
+"
+152,FRA,11/06/2018,2,Alligator Point,382,Tax Collector, ,355000,OverVotes, ,"0
+"
+153,FRA,11/06/2018,2,Alligator Point,382,Tax Collector, ,355000,UnderVotes, ,"4
+"
+154,FRA,11/06/2018,2,Alligator Point,382,County Commissioner, District 2,380020,Bert Boldt,REP,"207
+"
+155,FRA,11/06/2018,2,Alligator Point,382,County Commissioner, District 2,380020,Tamara Allen,DEM,"82
+"
+156,FRA,11/06/2018,2,Alligator Point,382,County Commissioner, District 2,380020,Mark Nobles,NPA,"16
+"
+157,FRA,11/06/2018,2,Alligator Point,382,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+158,FRA,11/06/2018,2,Alligator Point,382,County Commissioner, District 2,380020,UnderVotes, ,"2
+"
+159,FRA,11/06/2018,2,Alligator Point,382,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"185
+"
+160,FRA,11/06/2018,2,Alligator Point,382,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"83
+"
+161,FRA,11/06/2018,2,Alligator Point,382,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+162,FRA,11/06/2018,2,Alligator Point,382,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"39
+"
+163,FRA,11/06/2018,2,Alligator Point,382,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"185
+"
+164,FRA,11/06/2018,2,Alligator Point,382,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"78
+"
+165,FRA,11/06/2018,2,Alligator Point,382,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+166,FRA,11/06/2018,2,Alligator Point,382,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"43
+"
+167,FRA,11/06/2018,2,Alligator Point,382,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"181
+"
+168,FRA,11/06/2018,2,Alligator Point,382,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"79
+"
+169,FRA,11/06/2018,2,Alligator Point,382,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+170,FRA,11/06/2018,2,Alligator Point,382,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"47
+"
+171,FRA,11/06/2018,2,Alligator Point,382,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"180
+"
+172,FRA,11/06/2018,2,Alligator Point,382,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"80
+"
+173,FRA,11/06/2018,2,Alligator Point,382,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+174,FRA,11/06/2018,2,Alligator Point,382,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"46
+"
+175,FRA,11/06/2018,2,Alligator Point,382,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"175
+"
+176,FRA,11/06/2018,2,Alligator Point,382,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"84
+"
+177,FRA,11/06/2018,2,Alligator Point,382,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+178,FRA,11/06/2018,2,Alligator Point,382,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"47
+"
+179,FRA,11/06/2018,2,Alligator Point,382,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"173
+"
+180,FRA,11/06/2018,2,Alligator Point,382,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"86
+"
+181,FRA,11/06/2018,2,Alligator Point,382,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+182,FRA,11/06/2018,2,Alligator Point,382,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"48
+"
+183,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"189
+"
+184,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"104
+"
+185,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+186,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"14
+"
+187,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"199
+"
+188,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"96
+"
+189,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+190,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"12
+"
+191,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"212
+"
+192,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"85
+"
+193,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+194,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"10
+"
+195,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"159
+"
+196,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"139
+"
+197,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+198,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"8
+"
+199,FRA,11/06/2018,2,Alligator Point,382,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"210
+"
+200,FRA,11/06/2018,2,Alligator Point,382,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"89
+"
+201,FRA,11/06/2018,2,Alligator Point,382,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+202,FRA,11/06/2018,2,Alligator Point,382,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"8
+"
+203,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"164
+"
+204,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"133
+"
+205,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+206,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"10
+"
+207,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"168
+"
+208,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"124
+"
+209,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+210,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"15
+"
+211,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"192
+"
+212,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"107
+"
+213,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+214,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"8
+"
+215,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"179
+"
+216,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"106
+"
+217,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+218,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"22
+"
+219,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"180
+"
+220,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"97
+"
+221,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+222,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"30
+"
+223,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"228
+"
+224,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"65
+"
+225,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+226,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"14
+"
+227,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"173
+"
+228,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"123
+"
+229,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+230,FRA,11/06/2018,2,Alligator Point,382,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"11
+"
+231,FRA,11/06/2018,3,National Guard Armory,1336,United States Senator, ,120000,Rick Scott,REP,"344
+"
+232,FRA,11/06/2018,3,National Guard Armory,1336,United States Senator, ,120000,Bill Nelson,DEM,"598
+"
+233,FRA,11/06/2018,3,National Guard Armory,1336,United States Senator, ,120000,WriteinVotes, ,"3
+"
+234,FRA,11/06/2018,3,National Guard Armory,1336,United States Senator, ,120000,OverVotes, ,"0
+"
+235,FRA,11/06/2018,3,National Guard Armory,1336,United States Senator, ,120000,UnderVotes, ,"20
+"
+236,FRA,11/06/2018,3,National Guard Armory,1336,Representative in Congress, District 2,140020,Neal Dunn,REP,"364
+"
+237,FRA,11/06/2018,3,National Guard Armory,1336,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"563
+"
+238,FRA,11/06/2018,3,National Guard Armory,1336,Representative in Congress, District 2,140020,OverVotes, ,"1
+"
+239,FRA,11/06/2018,3,National Guard Armory,1336,Representative in Congress, District 2,140020,UnderVotes, ,"37
+"
+240,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,DeSantis / NuÃ±ez,REP,"329
+"
+241,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,Gillum / King,DEM,"601
+"
+242,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+243,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,Gibson / Wilds,NPA,"8
+"
+244,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+245,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,Stanley / McJury,NPA,"3
+"
+246,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,WriteinVotes, ,"0
+"
+247,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,OverVotes, ,"3
+"
+248,FRA,11/06/2018,3,National Guard Armory,1336,Governor, ,160000,UnderVotes, ,"19
+"
+249,FRA,11/06/2018,3,National Guard Armory,1336,Attorney General, ,160200,Ashley Moody,REP,"328
+"
+250,FRA,11/06/2018,3,National Guard Armory,1336,Attorney General, ,160200,Sean Shaw,DEM,"583
+"
+251,FRA,11/06/2018,3,National Guard Armory,1336,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"15
+"
+252,FRA,11/06/2018,3,National Guard Armory,1336,Attorney General, ,160200,OverVotes, ,"0
+"
+253,FRA,11/06/2018,3,National Guard Armory,1336,Attorney General, ,160200,UnderVotes, ,"38
+"
+254,FRA,11/06/2018,3,National Guard Armory,1336,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"406
+"
+255,FRA,11/06/2018,3,National Guard Armory,1336,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"524
+"
+256,FRA,11/06/2018,3,National Guard Armory,1336,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+257,FRA,11/06/2018,3,National Guard Armory,1336,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+258,FRA,11/06/2018,3,National Guard Armory,1336,Chief Financial Officer, ,160500,UnderVotes, ,"35
+"
+259,FRA,11/06/2018,3,National Guard Armory,1336,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"311
+"
+260,FRA,11/06/2018,3,National Guard Armory,1336,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"607
+"
+261,FRA,11/06/2018,3,National Guard Armory,1336,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+262,FRA,11/06/2018,3,National Guard Armory,1336,Commissioner of Agriculture, ,160800,UnderVotes, ,"46
+"
+263,FRA,11/06/2018,3,National Guard Armory,1336,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"311
+"
+264,FRA,11/06/2018,3,National Guard Armory,1336,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"462
+"
+265,FRA,11/06/2018,3,National Guard Armory,1336,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+266,FRA,11/06/2018,3,National Guard Armory,1336,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"192
+"
+267,FRA,11/06/2018,3,National Guard Armory,1336,Tax Collector, ,355000,Rick Watson,REP,"184
+"
+268,FRA,11/06/2018,3,National Guard Armory,1336,Tax Collector, ,355000,Teresa Ann Martin,DEM,"626
+"
+269,FRA,11/06/2018,3,National Guard Armory,1336,Tax Collector, ,355000,Connie Dykes Polous,NPA,"147
+"
+270,FRA,11/06/2018,3,National Guard Armory,1336,Tax Collector, ,355000,OverVotes, ,"1
+"
+271,FRA,11/06/2018,3,National Guard Armory,1336,Tax Collector, ,355000,UnderVotes, ,"7
+"
+272,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"529
+"
+273,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"308
+"
+274,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+275,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"128
+"
+276,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"450
+"
+277,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"355
+"
+278,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+279,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"160
+"
+280,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"485
+"
+281,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"322
+"
+282,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+283,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"158
+"
+284,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"472
+"
+285,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"334
+"
+286,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+287,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"158
+"
+288,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"476
+"
+289,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"335
+"
+290,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+291,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"154
+"
+292,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"451
+"
+293,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"359
+"
+294,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+295,FRA,11/06/2018,3,National Guard Armory,1336,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"155
+"
+296,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"434
+"
+297,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"470
+"
+298,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+299,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"61
+"
+300,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"502
+"
+301,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"392
+"
+302,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+303,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"71
+"
+304,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"692
+"
+305,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"192
+"
+306,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+307,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"81
+"
+308,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"672
+"
+309,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"226
+"
+310,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+311,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"67
+"
+312,FRA,11/06/2018,3,National Guard Armory,1336,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"454
+"
+313,FRA,11/06/2018,3,National Guard Armory,1336,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"422
+"
+314,FRA,11/06/2018,3,National Guard Armory,1336,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+315,FRA,11/06/2018,3,National Guard Armory,1336,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"88
+"
+316,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"496
+"
+317,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"383
+"
+318,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"2
+"
+319,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"84
+"
+320,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"545
+"
+321,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"325
+"
+322,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+323,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"94
+"
+324,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"597
+"
+325,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"285
+"
+326,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+327,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"81
+"
+328,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"499
+"
+329,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"358
+"
+330,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+331,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"107
+"
+332,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"471
+"
+333,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"374
+"
+334,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+335,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"119
+"
+336,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"584
+"
+337,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"275
+"
+338,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+339,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"105
+"
+340,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"546
+"
+341,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"340
+"
+342,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+343,FRA,11/06/2018,3,National Guard Armory,1336,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"78
+"
+344,FRA,11/06/2018,4,Fort Coombs Armory,379,United States Senator, ,120000,Rick Scott,REP,"167
+"
+345,FRA,11/06/2018,4,Fort Coombs Armory,379,United States Senator, ,120000,Bill Nelson,DEM,"134
+"
+346,FRA,11/06/2018,4,Fort Coombs Armory,379,United States Senator, ,120000,WriteinVotes, ,"1
+"
+347,FRA,11/06/2018,4,Fort Coombs Armory,379,United States Senator, ,120000,OverVotes, ,"0
+"
+348,FRA,11/06/2018,4,Fort Coombs Armory,379,United States Senator, ,120000,UnderVotes, ,"2
+"
+349,FRA,11/06/2018,4,Fort Coombs Armory,379,Representative in Congress, District 2,140020,Neal Dunn,REP,"174
+"
+350,FRA,11/06/2018,4,Fort Coombs Armory,379,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"125
+"
+351,FRA,11/06/2018,4,Fort Coombs Armory,379,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+352,FRA,11/06/2018,4,Fort Coombs Armory,379,Representative in Congress, District 2,140020,UnderVotes, ,"5
+"
+353,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,DeSantis / NuÃ±ez,REP,"173
+"
+354,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,Gillum / King,DEM,"121
+"
+355,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+356,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+357,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+358,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+359,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,WriteinVotes, ,"0
+"
+360,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,OverVotes, ,"1
+"
+361,FRA,11/06/2018,4,Fort Coombs Armory,379,Governor, ,160000,UnderVotes, ,"2
+"
+362,FRA,11/06/2018,4,Fort Coombs Armory,379,Attorney General, ,160200,Ashley Moody,REP,"170
+"
+363,FRA,11/06/2018,4,Fort Coombs Armory,379,Attorney General, ,160200,Sean Shaw,DEM,"113
+"
+364,FRA,11/06/2018,4,Fort Coombs Armory,379,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"9
+"
+365,FRA,11/06/2018,4,Fort Coombs Armory,379,Attorney General, ,160200,OverVotes, ,"0
+"
+366,FRA,11/06/2018,4,Fort Coombs Armory,379,Attorney General, ,160200,UnderVotes, ,"12
+"
+367,FRA,11/06/2018,4,Fort Coombs Armory,379,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"200
+"
+368,FRA,11/06/2018,4,Fort Coombs Armory,379,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"96
+"
+369,FRA,11/06/2018,4,Fort Coombs Armory,379,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+370,FRA,11/06/2018,4,Fort Coombs Armory,379,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+371,FRA,11/06/2018,4,Fort Coombs Armory,379,Chief Financial Officer, ,160500,UnderVotes, ,"8
+"
+372,FRA,11/06/2018,4,Fort Coombs Armory,379,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"172
+"
+373,FRA,11/06/2018,4,Fort Coombs Armory,379,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"119
+"
+374,FRA,11/06/2018,4,Fort Coombs Armory,379,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+375,FRA,11/06/2018,4,Fort Coombs Armory,379,Commissioner of Agriculture, ,160800,UnderVotes, ,"13
+"
+376,FRA,11/06/2018,4,Fort Coombs Armory,379,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"116
+"
+377,FRA,11/06/2018,4,Fort Coombs Armory,379,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"125
+"
+378,FRA,11/06/2018,4,Fort Coombs Armory,379,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+379,FRA,11/06/2018,4,Fort Coombs Armory,379,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"63
+"
+380,FRA,11/06/2018,4,Fort Coombs Armory,379,Tax Collector, ,355000,Rick Watson,REP,"135
+"
+381,FRA,11/06/2018,4,Fort Coombs Armory,379,Tax Collector, ,355000,Teresa Ann Martin,DEM,"112
+"
+382,FRA,11/06/2018,4,Fort Coombs Armory,379,Tax Collector, ,355000,Connie Dykes Polous,NPA,"52
+"
+383,FRA,11/06/2018,4,Fort Coombs Armory,379,Tax Collector, ,355000,OverVotes, ,"0
+"
+384,FRA,11/06/2018,4,Fort Coombs Armory,379,Tax Collector, ,355000,UnderVotes, ,"5
+"
+385,FRA,11/06/2018,4,Fort Coombs Armory,379,County Commissioner, District 4,380040,"Joseph ""Smokey"" Parrish",DEM,"159
+"
+386,FRA,11/06/2018,4,Fort Coombs Armory,379,County Commissioner, District 4,380040,Howard E. Wesson,NPA,"134
+"
+387,FRA,11/06/2018,4,Fort Coombs Armory,379,County Commissioner, District 4,380040,OverVotes, ,"0
+"
+388,FRA,11/06/2018,4,Fort Coombs Armory,379,County Commissioner, District 4,380040,UnderVotes, ,"11
+"
+389,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"147
+"
+390,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"107
+"
+391,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+392,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"50
+"
+393,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"143
+"
+394,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"104
+"
+395,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+396,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"57
+"
+397,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"147
+"
+398,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"103
+"
+399,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+400,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"54
+"
+401,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"151
+"
+402,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"100
+"
+403,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+404,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"53
+"
+405,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"145
+"
+406,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"105
+"
+407,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+408,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"53
+"
+409,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"148
+"
+410,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"103
+"
+411,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+412,FRA,11/06/2018,4,Fort Coombs Armory,379,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"53
+"
+413,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"167
+"
+414,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"123
+"
+415,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+416,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"13
+"
+417,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"181
+"
+418,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"108
+"
+419,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+420,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"14
+"
+421,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"222
+"
+422,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"66
+"
+423,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+424,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"16
+"
+425,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"170
+"
+426,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"121
+"
+427,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+428,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"13
+"
+429,FRA,11/06/2018,4,Fort Coombs Armory,379,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"170
+"
+430,FRA,11/06/2018,4,Fort Coombs Armory,379,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"110
+"
+431,FRA,11/06/2018,4,Fort Coombs Armory,379,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+432,FRA,11/06/2018,4,Fort Coombs Armory,379,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"24
+"
+433,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"170
+"
+434,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"116
+"
+435,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+436,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"18
+"
+437,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"168
+"
+438,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"114
+"
+439,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+440,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"22
+"
+441,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"203
+"
+442,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"82
+"
+443,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+444,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"19
+"
+445,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"155
+"
+446,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"119
+"
+447,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"2
+"
+448,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"28
+"
+449,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"143
+"
+450,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"125
+"
+451,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+452,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"36
+"
+453,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"211
+"
+454,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"68
+"
+455,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+456,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"25
+"
+457,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"194
+"
+458,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"93
+"
+459,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+460,FRA,11/06/2018,4,Fort Coombs Armory,379,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"17
+"
+461,FRA,11/06/2018,5,Carrabelle,1631,United States Senator, ,120000,Rick Scott,REP,"737
+"
+462,FRA,11/06/2018,5,Carrabelle,1631,United States Senator, ,120000,Bill Nelson,DEM,"342
+"
+463,FRA,11/06/2018,5,Carrabelle,1631,United States Senator, ,120000,WriteinVotes, ,"7
+"
+464,FRA,11/06/2018,5,Carrabelle,1631,United States Senator, ,120000,OverVotes, ,"0
+"
+465,FRA,11/06/2018,5,Carrabelle,1631,United States Senator, ,120000,UnderVotes, ,"18
+"
+466,FRA,11/06/2018,5,Carrabelle,1631,Representative in Congress, District 2,140020,Neal Dunn,REP,"798
+"
+467,FRA,11/06/2018,5,Carrabelle,1631,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"283
+"
+468,FRA,11/06/2018,5,Carrabelle,1631,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+469,FRA,11/06/2018,5,Carrabelle,1631,Representative in Congress, District 2,140020,UnderVotes, ,"23
+"
+470,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,DeSantis / NuÃ±ez,REP,"774
+"
+471,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,Gillum / King,DEM,"273
+"
+472,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,Richardson / Argenziano,REF,"10
+"
+473,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,Gibson / Wilds,NPA,"8
+"
+474,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,Foley / Tutton,NPA,"7
+"
+475,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,Stanley / McJury,NPA,"5
+"
+476,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,WriteinVotes, ,"4
+"
+477,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,OverVotes, ,"2
+"
+478,FRA,11/06/2018,5,Carrabelle,1631,Governor, ,160000,UnderVotes, ,"21
+"
+479,FRA,11/06/2018,5,Carrabelle,1631,Attorney General, ,160200,Ashley Moody,REP,"758
+"
+480,FRA,11/06/2018,5,Carrabelle,1631,Attorney General, ,160200,Sean Shaw,DEM,"279
+"
+481,FRA,11/06/2018,5,Carrabelle,1631,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"33
+"
+482,FRA,11/06/2018,5,Carrabelle,1631,Attorney General, ,160200,OverVotes, ,"0
+"
+483,FRA,11/06/2018,5,Carrabelle,1631,Attorney General, ,160200,UnderVotes, ,"34
+"
+484,FRA,11/06/2018,5,Carrabelle,1631,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"806
+"
+485,FRA,11/06/2018,5,Carrabelle,1631,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"263
+"
+486,FRA,11/06/2018,5,Carrabelle,1631,Chief Financial Officer, ,160500,WriteinVotes, ,"4
+"
+487,FRA,11/06/2018,5,Carrabelle,1631,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+488,FRA,11/06/2018,5,Carrabelle,1631,Chief Financial Officer, ,160500,UnderVotes, ,"31
+"
+489,FRA,11/06/2018,5,Carrabelle,1631,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"762
+"
+490,FRA,11/06/2018,5,Carrabelle,1631,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"307
+"
+491,FRA,11/06/2018,5,Carrabelle,1631,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+492,FRA,11/06/2018,5,Carrabelle,1631,Commissioner of Agriculture, ,160800,UnderVotes, ,"35
+"
+493,FRA,11/06/2018,5,Carrabelle,1631,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"447
+"
+494,FRA,11/06/2018,5,Carrabelle,1631,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"495
+"
+495,FRA,11/06/2018,5,Carrabelle,1631,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"1
+"
+496,FRA,11/06/2018,5,Carrabelle,1631,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"161
+"
+497,FRA,11/06/2018,5,Carrabelle,1631,Tax Collector, ,355000,Rick Watson,REP,"371
+"
+498,FRA,11/06/2018,5,Carrabelle,1631,Tax Collector, ,355000,Teresa Ann Martin,DEM,"230
+"
+499,FRA,11/06/2018,5,Carrabelle,1631,Tax Collector, ,355000,Connie Dykes Polous,NPA,"491
+"
+500,FRA,11/06/2018,5,Carrabelle,1631,Tax Collector, ,355000,OverVotes, ,"1
+"
+501,FRA,11/06/2018,5,Carrabelle,1631,Tax Collector, ,355000,UnderVotes, ,"11
+"
+502,FRA,11/06/2018,5,Carrabelle,1631,County Commissioner, District 2,380020,Bert Boldt,REP,"143
+"
+503,FRA,11/06/2018,5,Carrabelle,1631,County Commissioner, District 2,380020,Tamara Allen,DEM,"119
+"
+504,FRA,11/06/2018,5,Carrabelle,1631,County Commissioner, District 2,380020,Mark Nobles,NPA,"174
+"
+505,FRA,11/06/2018,5,Carrabelle,1631,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+506,FRA,11/06/2018,5,Carrabelle,1631,County Commissioner, District 2,380020,UnderVotes, ,"7
+"
+507,FRA,11/06/2018,5,Carrabelle,1631,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"591
+"
+508,FRA,11/06/2018,5,Carrabelle,1631,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"351
+"
+509,FRA,11/06/2018,5,Carrabelle,1631,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+510,FRA,11/06/2018,5,Carrabelle,1631,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"162
+"
+511,FRA,11/06/2018,5,Carrabelle,1631,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"589
+"
+512,FRA,11/06/2018,5,Carrabelle,1631,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"346
+"
+513,FRA,11/06/2018,5,Carrabelle,1631,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+514,FRA,11/06/2018,5,Carrabelle,1631,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"169
+"
+515,FRA,11/06/2018,5,Carrabelle,1631,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"596
+"
+516,FRA,11/06/2018,5,Carrabelle,1631,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"338
+"
+517,FRA,11/06/2018,5,Carrabelle,1631,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"1
+"
+518,FRA,11/06/2018,5,Carrabelle,1631,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"169
+"
+519,FRA,11/06/2018,5,Carrabelle,1631,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"588
+"
+520,FRA,11/06/2018,5,Carrabelle,1631,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"349
+"
+521,FRA,11/06/2018,5,Carrabelle,1631,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"2
+"
+522,FRA,11/06/2018,5,Carrabelle,1631,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"165
+"
+523,FRA,11/06/2018,5,Carrabelle,1631,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"594
+"
+524,FRA,11/06/2018,5,Carrabelle,1631,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"345
+"
+525,FRA,11/06/2018,5,Carrabelle,1631,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+526,FRA,11/06/2018,5,Carrabelle,1631,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"165
+"
+527,FRA,11/06/2018,5,Carrabelle,1631,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"568
+"
+528,FRA,11/06/2018,5,Carrabelle,1631,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"366
+"
+529,FRA,11/06/2018,5,Carrabelle,1631,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+530,FRA,11/06/2018,5,Carrabelle,1631,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"170
+"
+531,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"636
+"
+532,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"412
+"
+533,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+534,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"55
+"
+535,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"705
+"
+536,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"334
+"
+537,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"5
+"
+538,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"60
+"
+539,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"777
+"
+540,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"251
+"
+541,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"4
+"
+542,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"72
+"
+543,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"628
+"
+544,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"404
+"
+545,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+546,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"71
+"
+547,FRA,11/06/2018,5,Carrabelle,1631,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"728
+"
+548,FRA,11/06/2018,5,Carrabelle,1631,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"281
+"
+549,FRA,11/06/2018,5,Carrabelle,1631,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"3
+"
+550,FRA,11/06/2018,5,Carrabelle,1631,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"92
+"
+551,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"664
+"
+552,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"354
+"
+553,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+554,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"85
+"
+555,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"702
+"
+556,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"304
+"
+557,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+558,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"97
+"
+559,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"521
+"
+560,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"503
+"
+561,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+562,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"78
+"
+563,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"668
+"
+564,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"326
+"
+565,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"4
+"
+566,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"106
+"
+567,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"591
+"
+568,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"388
+"
+569,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"2
+"
+570,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"123
+"
+571,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"771
+"
+572,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"228
+"
+573,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+574,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"105
+"
+575,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"556
+"
+576,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"479
+"
+577,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+578,FRA,11/06/2018,5,Carrabelle,1631,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"67
+"
+579,FRA,11/06/2018,6,Lanark Village,584,United States Senator, ,120000,Rick Scott,REP,"275
+"
+580,FRA,11/06/2018,6,Lanark Village,584,United States Senator, ,120000,Bill Nelson,DEM,"123
+"
+581,FRA,11/06/2018,6,Lanark Village,584,United States Senator, ,120000,WriteinVotes, ,"1
+"
+582,FRA,11/06/2018,6,Lanark Village,584,United States Senator, ,120000,OverVotes, ,"0
+"
+583,FRA,11/06/2018,6,Lanark Village,584,United States Senator, ,120000,UnderVotes, ,"9
+"
+584,FRA,11/06/2018,6,Lanark Village,584,Representative in Congress, District 2,140020,Neal Dunn,REP,"283
+"
+585,FRA,11/06/2018,6,Lanark Village,584,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"117
+"
+586,FRA,11/06/2018,6,Lanark Village,584,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+587,FRA,11/06/2018,6,Lanark Village,584,Representative in Congress, District 2,140020,UnderVotes, ,"8
+"
+588,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,DeSantis / NuÃ±ez,REP,"287
+"
+589,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,Gillum / King,DEM,"108
+"
+590,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+591,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+592,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+593,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,Stanley / McJury,NPA,"4
+"
+594,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,WriteinVotes, ,"2
+"
+595,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,OverVotes, ,"0
+"
+596,FRA,11/06/2018,6,Lanark Village,584,Governor, ,160000,UnderVotes, ,"4
+"
+597,FRA,11/06/2018,6,Lanark Village,584,Attorney General, ,160200,Ashley Moody,REP,"283
+"
+598,FRA,11/06/2018,6,Lanark Village,584,Attorney General, ,160200,Sean Shaw,DEM,"109
+"
+599,FRA,11/06/2018,6,Lanark Village,584,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"8
+"
+600,FRA,11/06/2018,6,Lanark Village,584,Attorney General, ,160200,OverVotes, ,"0
+"
+601,FRA,11/06/2018,6,Lanark Village,584,Attorney General, ,160200,UnderVotes, ,"8
+"
+602,FRA,11/06/2018,6,Lanark Village,584,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"289
+"
+603,FRA,11/06/2018,6,Lanark Village,584,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"110
+"
+604,FRA,11/06/2018,6,Lanark Village,584,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+605,FRA,11/06/2018,6,Lanark Village,584,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+606,FRA,11/06/2018,6,Lanark Village,584,Chief Financial Officer, ,160500,UnderVotes, ,"9
+"
+607,FRA,11/06/2018,6,Lanark Village,584,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"286
+"
+608,FRA,11/06/2018,6,Lanark Village,584,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"114
+"
+609,FRA,11/06/2018,6,Lanark Village,584,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+610,FRA,11/06/2018,6,Lanark Village,584,Commissioner of Agriculture, ,160800,UnderVotes, ,"8
+"
+611,FRA,11/06/2018,6,Lanark Village,584,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"176
+"
+612,FRA,11/06/2018,6,Lanark Village,584,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"174
+"
+613,FRA,11/06/2018,6,Lanark Village,584,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+614,FRA,11/06/2018,6,Lanark Village,584,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"58
+"
+615,FRA,11/06/2018,6,Lanark Village,584,Tax Collector, ,355000,Rick Watson,REP,"188
+"
+616,FRA,11/06/2018,6,Lanark Village,584,Tax Collector, ,355000,Teresa Ann Martin,DEM,"88
+"
+617,FRA,11/06/2018,6,Lanark Village,584,Tax Collector, ,355000,Connie Dykes Polous,NPA,"124
+"
+618,FRA,11/06/2018,6,Lanark Village,584,Tax Collector, ,355000,OverVotes, ,"0
+"
+619,FRA,11/06/2018,6,Lanark Village,584,Tax Collector, ,355000,UnderVotes, ,"8
+"
+620,FRA,11/06/2018,6,Lanark Village,584,County Commissioner, District 2,380020,Bert Boldt,REP,"217
+"
+621,FRA,11/06/2018,6,Lanark Village,584,County Commissioner, District 2,380020,Tamara Allen,DEM,"105
+"
+622,FRA,11/06/2018,6,Lanark Village,584,County Commissioner, District 2,380020,Mark Nobles,NPA,"78
+"
+623,FRA,11/06/2018,6,Lanark Village,584,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+624,FRA,11/06/2018,6,Lanark Village,584,County Commissioner, District 2,380020,UnderVotes, ,"8
+"
+625,FRA,11/06/2018,6,Lanark Village,584,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"227
+"
+626,FRA,11/06/2018,6,Lanark Village,584,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"127
+"
+627,FRA,11/06/2018,6,Lanark Village,584,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+628,FRA,11/06/2018,6,Lanark Village,584,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"54
+"
+629,FRA,11/06/2018,6,Lanark Village,584,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"238
+"
+630,FRA,11/06/2018,6,Lanark Village,584,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"116
+"
+631,FRA,11/06/2018,6,Lanark Village,584,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+632,FRA,11/06/2018,6,Lanark Village,584,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"54
+"
+633,FRA,11/06/2018,6,Lanark Village,584,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"226
+"
+634,FRA,11/06/2018,6,Lanark Village,584,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"128
+"
+635,FRA,11/06/2018,6,Lanark Village,584,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+636,FRA,11/06/2018,6,Lanark Village,584,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"54
+"
+637,FRA,11/06/2018,6,Lanark Village,584,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"236
+"
+638,FRA,11/06/2018,6,Lanark Village,584,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"119
+"
+639,FRA,11/06/2018,6,Lanark Village,584,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+640,FRA,11/06/2018,6,Lanark Village,584,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"53
+"
+641,FRA,11/06/2018,6,Lanark Village,584,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"225
+"
+642,FRA,11/06/2018,6,Lanark Village,584,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"130
+"
+643,FRA,11/06/2018,6,Lanark Village,584,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"2
+"
+644,FRA,11/06/2018,6,Lanark Village,584,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"51
+"
+645,FRA,11/06/2018,6,Lanark Village,584,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"224
+"
+646,FRA,11/06/2018,6,Lanark Village,584,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"129
+"
+647,FRA,11/06/2018,6,Lanark Village,584,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+648,FRA,11/06/2018,6,Lanark Village,584,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"55
+"
+649,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"238
+"
+650,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"155
+"
+651,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+652,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"15
+"
+653,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"272
+"
+654,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"121
+"
+655,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+656,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"15
+"
+657,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"295
+"
+658,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"102
+"
+659,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+660,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"11
+"
+661,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"212
+"
+662,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"185
+"
+663,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+664,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"11
+"
+665,FRA,11/06/2018,6,Lanark Village,584,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"276
+"
+666,FRA,11/06/2018,6,Lanark Village,584,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"116
+"
+667,FRA,11/06/2018,6,Lanark Village,584,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+668,FRA,11/06/2018,6,Lanark Village,584,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"16
+"
+669,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"249
+"
+670,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"141
+"
+671,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+672,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"18
+"
+673,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"264
+"
+674,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"126
+"
+675,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+676,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"18
+"
+677,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"220
+"
+678,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"170
+"
+679,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+680,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"18
+"
+681,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"257
+"
+682,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"127
+"
+683,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+684,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"24
+"
+685,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"225
+"
+686,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"148
+"
+687,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+688,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"35
+"
+689,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"287
+"
+690,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"99
+"
+691,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"1
+"
+692,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"21
+"
+693,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"235
+"
+694,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"157
+"
+695,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+696,FRA,11/06/2018,6,Lanark Village,584,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"16
+"
+697,FRA,11/06/2018,7,St. George Island,889,United States Senator, ,120000,Rick Scott,REP,"419
+"
+698,FRA,11/06/2018,7,St. George Island,889,United States Senator, ,120000,Bill Nelson,DEM,"262
+"
+699,FRA,11/06/2018,7,St. George Island,889,United States Senator, ,120000,WriteinVotes, ,"0
+"
+700,FRA,11/06/2018,7,St. George Island,889,United States Senator, ,120000,OverVotes, ,"0
+"
+701,FRA,11/06/2018,7,St. George Island,889,United States Senator, ,120000,UnderVotes, ,"5
+"
+702,FRA,11/06/2018,7,St. George Island,889,Representative in Congress, District 2,140020,Neal Dunn,REP,"426
+"
+703,FRA,11/06/2018,7,St. George Island,889,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"254
+"
+704,FRA,11/06/2018,7,St. George Island,889,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+705,FRA,11/06/2018,7,St. George Island,889,Representative in Congress, District 2,140020,UnderVotes, ,"6
+"
+706,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,DeSantis / NuÃ±ez,REP,"423
+"
+707,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,Gillum / King,DEM,"252
+"
+708,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+709,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+710,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+711,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+712,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,WriteinVotes, ,"1
+"
+713,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,OverVotes, ,"1
+"
+714,FRA,11/06/2018,7,St. George Island,889,Governor, ,160000,UnderVotes, ,"4
+"
+715,FRA,11/06/2018,7,St. George Island,889,Attorney General, ,160200,Ashley Moody,REP,"427
+"
+716,FRA,11/06/2018,7,St. George Island,889,Attorney General, ,160200,Sean Shaw,DEM,"238
+"
+717,FRA,11/06/2018,7,St. George Island,889,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"8
+"
+718,FRA,11/06/2018,7,St. George Island,889,Attorney General, ,160200,OverVotes, ,"0
+"
+719,FRA,11/06/2018,7,St. George Island,889,Attorney General, ,160200,UnderVotes, ,"13
+"
+720,FRA,11/06/2018,7,St. George Island,889,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"443
+"
+721,FRA,11/06/2018,7,St. George Island,889,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"236
+"
+722,FRA,11/06/2018,7,St. George Island,889,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+723,FRA,11/06/2018,7,St. George Island,889,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+724,FRA,11/06/2018,7,St. George Island,889,Chief Financial Officer, ,160500,UnderVotes, ,"7
+"
+725,FRA,11/06/2018,7,St. George Island,889,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"409
+"
+726,FRA,11/06/2018,7,St. George Island,889,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"267
+"
+727,FRA,11/06/2018,7,St. George Island,889,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+728,FRA,11/06/2018,7,St. George Island,889,Commissioner of Agriculture, ,160800,UnderVotes, ,"10
+"
+729,FRA,11/06/2018,7,St. George Island,889,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"300
+"
+730,FRA,11/06/2018,7,St. George Island,889,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"250
+"
+731,FRA,11/06/2018,7,St. George Island,889,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"1
+"
+732,FRA,11/06/2018,7,St. George Island,889,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"135
+"
+733,FRA,11/06/2018,7,St. George Island,889,Tax Collector, ,355000,Rick Watson,REP,"393
+"
+734,FRA,11/06/2018,7,St. George Island,889,Tax Collector, ,355000,Teresa Ann Martin,DEM,"201
+"
+735,FRA,11/06/2018,7,St. George Island,889,Tax Collector, ,355000,Connie Dykes Polous,NPA,"82
+"
+736,FRA,11/06/2018,7,St. George Island,889,Tax Collector, ,355000,OverVotes, ,"1
+"
+737,FRA,11/06/2018,7,St. George Island,889,Tax Collector, ,355000,UnderVotes, ,"9
+"
+738,FRA,11/06/2018,7,St. George Island,889,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"423
+"
+739,FRA,11/06/2018,7,St. George Island,889,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"153
+"
+740,FRA,11/06/2018,7,St. George Island,889,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+741,FRA,11/06/2018,7,St. George Island,889,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"110
+"
+742,FRA,11/06/2018,7,St. George Island,889,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"403
+"
+743,FRA,11/06/2018,7,St. George Island,889,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"154
+"
+744,FRA,11/06/2018,7,St. George Island,889,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+745,FRA,11/06/2018,7,St. George Island,889,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"129
+"
+746,FRA,11/06/2018,7,St. George Island,889,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"417
+"
+747,FRA,11/06/2018,7,St. George Island,889,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"139
+"
+748,FRA,11/06/2018,7,St. George Island,889,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+749,FRA,11/06/2018,7,St. George Island,889,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"130
+"
+750,FRA,11/06/2018,7,St. George Island,889,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"396
+"
+751,FRA,11/06/2018,7,St. George Island,889,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"162
+"
+752,FRA,11/06/2018,7,St. George Island,889,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+753,FRA,11/06/2018,7,St. George Island,889,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"128
+"
+754,FRA,11/06/2018,7,St. George Island,889,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"400
+"
+755,FRA,11/06/2018,7,St. George Island,889,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"156
+"
+756,FRA,11/06/2018,7,St. George Island,889,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+757,FRA,11/06/2018,7,St. George Island,889,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"130
+"
+758,FRA,11/06/2018,7,St. George Island,889,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"389
+"
+759,FRA,11/06/2018,7,St. George Island,889,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"166
+"
+760,FRA,11/06/2018,7,St. George Island,889,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+761,FRA,11/06/2018,7,St. George Island,889,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"131
+"
+762,FRA,11/06/2018,7,St. George Island,889,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"463
+"
+763,FRA,11/06/2018,7,St. George Island,889,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"210
+"
+764,FRA,11/06/2018,7,St. George Island,889,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+765,FRA,11/06/2018,7,St. George Island,889,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"13
+"
+766,FRA,11/06/2018,7,St. George Island,889,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"482
+"
+767,FRA,11/06/2018,7,St. George Island,889,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"188
+"
+768,FRA,11/06/2018,7,St. George Island,889,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+769,FRA,11/06/2018,7,St. George Island,889,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"16
+"
+770,FRA,11/06/2018,7,St. George Island,889,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"503
+"
+771,FRA,11/06/2018,7,St. George Island,889,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"165
+"
+772,FRA,11/06/2018,7,St. George Island,889,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+773,FRA,11/06/2018,7,St. George Island,889,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"18
+"
+774,FRA,11/06/2018,7,St. George Island,889,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"380
+"
+775,FRA,11/06/2018,7,St. George Island,889,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"288
+"
+776,FRA,11/06/2018,7,St. George Island,889,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+777,FRA,11/06/2018,7,St. George Island,889,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"18
+"
+778,FRA,11/06/2018,7,St. George Island,889,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"475
+"
+779,FRA,11/06/2018,7,St. George Island,889,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"189
+"
+780,FRA,11/06/2018,7,St. George Island,889,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+781,FRA,11/06/2018,7,St. George Island,889,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"22
+"
+782,FRA,11/06/2018,7,St. George Island,889,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"395
+"
+783,FRA,11/06/2018,7,St. George Island,889,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"264
+"
+784,FRA,11/06/2018,7,St. George Island,889,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+785,FRA,11/06/2018,7,St. George Island,889,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"26
+"
+786,FRA,11/06/2018,7,St. George Island,889,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"404
+"
+787,FRA,11/06/2018,7,St. George Island,889,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"244
+"
+788,FRA,11/06/2018,7,St. George Island,889,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+789,FRA,11/06/2018,7,St. George Island,889,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"38
+"
+790,FRA,11/06/2018,7,St. George Island,889,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"477
+"
+791,FRA,11/06/2018,7,St. George Island,889,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"185
+"
+792,FRA,11/06/2018,7,St. George Island,889,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+793,FRA,11/06/2018,7,St. George Island,889,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"23
+"
+794,FRA,11/06/2018,7,St. George Island,889,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"424
+"
+795,FRA,11/06/2018,7,St. George Island,889,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"232
+"
+796,FRA,11/06/2018,7,St. George Island,889,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+797,FRA,11/06/2018,7,St. George Island,889,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"30
+"
+798,FRA,11/06/2018,7,St. George Island,889,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"421
+"
+799,FRA,11/06/2018,7,St. George Island,889,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"219
+"
+800,FRA,11/06/2018,7,St. George Island,889,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+801,FRA,11/06/2018,7,St. George Island,889,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"45
+"
+802,FRA,11/06/2018,7,St. George Island,889,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"567
+"
+803,FRA,11/06/2018,7,St. George Island,889,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"93
+"
+804,FRA,11/06/2018,7,St. George Island,889,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+805,FRA,11/06/2018,7,St. George Island,889,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"26
+"
+806,FRA,11/06/2018,7,St. George Island,889,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"458
+"
+807,FRA,11/06/2018,7,St. George Island,889,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"208
+"
+808,FRA,11/06/2018,7,St. George Island,889,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+809,FRA,11/06/2018,7,St. George Island,889,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"20
+"
+810,FRA,11/06/2018,8,American Legion,904,United States Senator, ,120000,Rick Scott,REP,"452
+"
+811,FRA,11/06/2018,8,American Legion,904,United States Senator, ,120000,Bill Nelson,DEM,"182
+"
+812,FRA,11/06/2018,8,American Legion,904,United States Senator, ,120000,WriteinVotes, ,"3
+"
+813,FRA,11/06/2018,8,American Legion,904,United States Senator, ,120000,OverVotes, ,"0
+"
+814,FRA,11/06/2018,8,American Legion,904,United States Senator, ,120000,UnderVotes, ,"13
+"
+815,FRA,11/06/2018,8,American Legion,904,Representative in Congress, District 2,140020,Neal Dunn,REP,"486
+"
+816,FRA,11/06/2018,8,American Legion,904,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"140
+"
+817,FRA,11/06/2018,8,American Legion,904,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+818,FRA,11/06/2018,8,American Legion,904,Representative in Congress, District 2,140020,UnderVotes, ,"24
+"
+819,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,DeSantis / NuÃ±ez,REP,"477
+"
+820,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,Gillum / King,DEM,"134
+"
+821,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,Richardson / Argenziano,REF,"10
+"
+822,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,Gibson / Wilds,NPA,"7
+"
+823,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,Foley / Tutton,NPA,"3
+"
+824,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,Stanley / McJury,NPA,"3
+"
+825,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,WriteinVotes, ,"2
+"
+826,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,OverVotes, ,"0
+"
+827,FRA,11/06/2018,8,American Legion,904,Governor, ,160000,UnderVotes, ,"14
+"
+828,FRA,11/06/2018,8,American Legion,904,Attorney General, ,160200,Ashley Moody,REP,"459
+"
+829,FRA,11/06/2018,8,American Legion,904,Attorney General, ,160200,Sean Shaw,DEM,"139
+"
+830,FRA,11/06/2018,8,American Legion,904,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"18
+"
+831,FRA,11/06/2018,8,American Legion,904,Attorney General, ,160200,OverVotes, ,"0
+"
+832,FRA,11/06/2018,8,American Legion,904,Attorney General, ,160200,UnderVotes, ,"34
+"
+833,FRA,11/06/2018,8,American Legion,904,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"528
+"
+834,FRA,11/06/2018,8,American Legion,904,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"107
+"
+835,FRA,11/06/2018,8,American Legion,904,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+836,FRA,11/06/2018,8,American Legion,904,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+837,FRA,11/06/2018,8,American Legion,904,Chief Financial Officer, ,160500,UnderVotes, ,"15
+"
+838,FRA,11/06/2018,8,American Legion,904,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"470
+"
+839,FRA,11/06/2018,8,American Legion,904,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"150
+"
+840,FRA,11/06/2018,8,American Legion,904,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+841,FRA,11/06/2018,8,American Legion,904,Commissioner of Agriculture, ,160800,UnderVotes, ,"30
+"
+842,FRA,11/06/2018,8,American Legion,904,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"218
+"
+843,FRA,11/06/2018,8,American Legion,904,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"307
+"
+844,FRA,11/06/2018,8,American Legion,904,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+845,FRA,11/06/2018,8,American Legion,904,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"125
+"
+846,FRA,11/06/2018,8,American Legion,904,Tax Collector, ,355000,Rick Watson,REP,"153
+"
+847,FRA,11/06/2018,8,American Legion,904,Tax Collector, ,355000,Teresa Ann Martin,DEM,"230
+"
+848,FRA,11/06/2018,8,American Legion,904,Tax Collector, ,355000,Connie Dykes Polous,NPA,"264
+"
+849,FRA,11/06/2018,8,American Legion,904,Tax Collector, ,355000,OverVotes, ,"0
+"
+850,FRA,11/06/2018,8,American Legion,904,Tax Collector, ,355000,UnderVotes, ,"3
+"
+851,FRA,11/06/2018,8,American Legion,904,County Commissioner, District 4,380040,"Joseph ""Smokey"" Parrish",DEM,"339
+"
+852,FRA,11/06/2018,8,American Legion,904,County Commissioner, District 4,380040,Howard E. Wesson,NPA,"297
+"
+853,FRA,11/06/2018,8,American Legion,904,County Commissioner, District 4,380040,OverVotes, ,"0
+"
+854,FRA,11/06/2018,8,American Legion,904,County Commissioner, District 4,380040,UnderVotes, ,"14
+"
+855,FRA,11/06/2018,8,American Legion,904,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"298
+"
+856,FRA,11/06/2018,8,American Legion,904,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"234
+"
+857,FRA,11/06/2018,8,American Legion,904,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+858,FRA,11/06/2018,8,American Legion,904,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"118
+"
+859,FRA,11/06/2018,8,American Legion,904,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"287
+"
+860,FRA,11/06/2018,8,American Legion,904,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"238
+"
+861,FRA,11/06/2018,8,American Legion,904,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+862,FRA,11/06/2018,8,American Legion,904,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"125
+"
+863,FRA,11/06/2018,8,American Legion,904,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"292
+"
+864,FRA,11/06/2018,8,American Legion,904,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"229
+"
+865,FRA,11/06/2018,8,American Legion,904,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+866,FRA,11/06/2018,8,American Legion,904,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"129
+"
+867,FRA,11/06/2018,8,American Legion,904,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"292
+"
+868,FRA,11/06/2018,8,American Legion,904,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"234
+"
+869,FRA,11/06/2018,8,American Legion,904,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+870,FRA,11/06/2018,8,American Legion,904,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"124
+"
+871,FRA,11/06/2018,8,American Legion,904,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"290
+"
+872,FRA,11/06/2018,8,American Legion,904,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"230
+"
+873,FRA,11/06/2018,8,American Legion,904,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"2
+"
+874,FRA,11/06/2018,8,American Legion,904,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"128
+"
+875,FRA,11/06/2018,8,American Legion,904,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"282
+"
+876,FRA,11/06/2018,8,American Legion,904,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"233
+"
+877,FRA,11/06/2018,8,American Legion,904,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+878,FRA,11/06/2018,8,American Legion,904,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"135
+"
+879,FRA,11/06/2018,8,American Legion,904,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"362
+"
+880,FRA,11/06/2018,8,American Legion,904,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"226
+"
+881,FRA,11/06/2018,8,American Legion,904,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"3
+"
+882,FRA,11/06/2018,8,American Legion,904,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"59
+"
+883,FRA,11/06/2018,8,American Legion,904,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"376
+"
+884,FRA,11/06/2018,8,American Legion,904,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"201
+"
+885,FRA,11/06/2018,8,American Legion,904,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+886,FRA,11/06/2018,8,American Legion,904,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"72
+"
+887,FRA,11/06/2018,8,American Legion,904,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"451
+"
+888,FRA,11/06/2018,8,American Legion,904,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"145
+"
+889,FRA,11/06/2018,8,American Legion,904,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+890,FRA,11/06/2018,8,American Legion,904,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"54
+"
+891,FRA,11/06/2018,8,American Legion,904,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"355
+"
+892,FRA,11/06/2018,8,American Legion,904,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"239
+"
+893,FRA,11/06/2018,8,American Legion,904,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"2
+"
+894,FRA,11/06/2018,8,American Legion,904,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"54
+"
+895,FRA,11/06/2018,8,American Legion,904,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"410
+"
+896,FRA,11/06/2018,8,American Legion,904,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"166
+"
+897,FRA,11/06/2018,8,American Legion,904,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+898,FRA,11/06/2018,8,American Legion,904,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"73
+"
+899,FRA,11/06/2018,8,American Legion,904,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"371
+"
+900,FRA,11/06/2018,8,American Legion,904,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"202
+"
+901,FRA,11/06/2018,8,American Legion,904,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"2
+"
+902,FRA,11/06/2018,8,American Legion,904,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"75
+"
+903,FRA,11/06/2018,8,American Legion,904,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"383
+"
+904,FRA,11/06/2018,8,American Legion,904,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"187
+"
+905,FRA,11/06/2018,8,American Legion,904,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+906,FRA,11/06/2018,8,American Legion,904,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"79
+"
+907,FRA,11/06/2018,8,American Legion,904,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"297
+"
+908,FRA,11/06/2018,8,American Legion,904,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"276
+"
+909,FRA,11/06/2018,8,American Legion,904,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+910,FRA,11/06/2018,8,American Legion,904,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"77
+"
+911,FRA,11/06/2018,8,American Legion,904,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"392
+"
+912,FRA,11/06/2018,8,American Legion,904,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"172
+"
+913,FRA,11/06/2018,8,American Legion,904,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"2
+"
+914,FRA,11/06/2018,8,American Legion,904,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"84
+"
+915,FRA,11/06/2018,8,American Legion,904,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"300
+"
+916,FRA,11/06/2018,8,American Legion,904,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"239
+"
+917,FRA,11/06/2018,8,American Legion,904,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+918,FRA,11/06/2018,8,American Legion,904,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"110
+"
+919,FRA,11/06/2018,8,American Legion,904,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"421
+"
+920,FRA,11/06/2018,8,American Legion,904,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"137
+"
+921,FRA,11/06/2018,8,American Legion,904,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"1
+"
+922,FRA,11/06/2018,8,American Legion,904,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"91
+"
+923,FRA,11/06/2018,8,American Legion,904,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"259
+"
+924,FRA,11/06/2018,8,American Legion,904,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"338
+"
+925,FRA,11/06/2018,8,American Legion,904,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+926,FRA,11/06/2018,8,American Legion,904,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"51
+"
