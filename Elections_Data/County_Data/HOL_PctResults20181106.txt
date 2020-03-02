@@ -1,0 +1,932 @@
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	601
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	97
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	69668	611
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Representative in Congress	 District 1	140010	Jennifer M. Zimmerman	DEM	0	70383	90
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	612
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	77
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	4
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	612
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	78
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	627
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	70
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	9
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	611
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	86
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	11
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	614
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	79
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	15
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	417
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	227
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	64
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	410
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	222
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	75
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	394
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	234
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	80
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	408
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	225
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	75
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	394
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	237
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	77
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	406
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	226
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	76
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	461
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	194
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	52
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	411
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	223
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	73
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	460
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	230
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	17
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	479
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	205
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	24
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	507
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	185
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	16
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	362
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	326
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	20
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	516
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	164
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	28
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	430
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	255
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	23
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	470
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	206
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	32
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	331
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	347
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	30
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	488
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	177
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	42
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	362
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	291
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	55
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	492
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	180
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	36
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	227
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	451
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	1	Ponce de Leon	1152	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	29
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	647
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	117
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	69668	661
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Representative in Congress	 District 1	140010	Jennifer M. Zimmerman	DEM	0	70383	101
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	6
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	666
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	85
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	4
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	672
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	85
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	678
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	83
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	666
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	98
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	671
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	90
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	405
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	251
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	112
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	399
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	256
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	113
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	388
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	258
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	122
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	390
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	255
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	123
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	377
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	269
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	122
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	391
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	259
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	118
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	509
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	186
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	73
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	412
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	256
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	100
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	475
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	268
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	24
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	530
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	200
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	38
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	558
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	184
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	26
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	366
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	367
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	34
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	576
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	155
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	37
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	474
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	261
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	33
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	508
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	212
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	47
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	338
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	388
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	41
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	504
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	216
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	48
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	351
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	345
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	72
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	509
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	214
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	45
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	243
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	488
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	2	Pine Log	1091	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	37
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	508
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	83
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	69668	516
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Representative in Congress	 District 1	140010	Jennifer M. Zimmerman	DEM	0	70383	73
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	11
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	526
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	64
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	516
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	61
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	13
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	525
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	64
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	525
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	66
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	525
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	64
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	344
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	197
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	59
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	329
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	207
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	63
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	321
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	213
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	67
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	321
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	212
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	68
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	313
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	219
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	69
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	327
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	209
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	65
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	362
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	173
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	66
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	343
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	183
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	75
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	409
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	166
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	26
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	450
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	123
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	28
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	462
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	118
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	21
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	298
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	275
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	28
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	464
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	102
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	35
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	391
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	179
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	31
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	405
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	162
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	34
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	283
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	282
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	36
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	415
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	139
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	47
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	316
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	227
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	57
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	440
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	122
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	39
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	238
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	333
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	3	New Hope	921	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	30
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	861
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	110
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	69668	862
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Representative in Congress	 District 1	140010	Jennifer M. Zimmerman	DEM	0	70383	106
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	868
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	104
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	860
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	96
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	11
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	872
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	92
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	858
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	106
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	867
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	92
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	22
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	514
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	330
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	137
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	503
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	342
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	136
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	486
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	338
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	156
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	487
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	351
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	142
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	488
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	347
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	145
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	491
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	351
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	139
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	571
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	331
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	78
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	447
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	427
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	106
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	657
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	283
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	41
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	695
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	228
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	58
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	749
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	197
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	35
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	481
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	452
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	46
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	742
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	185
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	54
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	638
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	282
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	61
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	687
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	228
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	66
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	431
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	482
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	68
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	653
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	248
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	80
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	558
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	330
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	92
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	728
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	191
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	62
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	377
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	561
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	4	Bethlehem	1503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	43
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	305
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	25
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	69668	298
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Representative in Congress	 District 1	140010	Jennifer M. Zimmerman	DEM	0	70383	28
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	8
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	287
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	32
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Governor	 	160000	UnderVotes	 	0	902	6
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	294
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	30
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	297
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	30
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	301
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	28
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	300
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	29
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	190
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	106
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	38
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	193
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	99
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	42
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	194
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	100
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	40
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	192
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	98
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	44
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	193
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	97
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	44
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	186
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	106
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	42
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	180
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	132
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	22
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	169
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	130
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	35
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	212
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	113
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	9
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	223
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	97
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	14
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	245
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	82
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	177
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	148
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	9
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	241
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	76
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	16
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	221
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	93
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	20
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	254
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	61
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	19
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	160
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	157
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	17
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	226
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	84
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	24
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	179
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	123
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	32
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	244
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	72
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	18
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	115
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	207
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	5	Gritney	546	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1313
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	126
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 1	140010	Matt Gaetz	REP	114517363	69668	880
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 1	140010	Jennifer M. Zimmerman	DEM	0	70383	96
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 1	140010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 1	140010	UnderVotes	 	0	902	16
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	432
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	25
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1302
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	110
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	8
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	8
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Governor	 	160000	UnderVotes	 	0	902	11
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1300
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	110
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	21
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1329
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	103
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	20
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1318
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	114
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	1326
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	109
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	17
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	853
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	439
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	160
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	830
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	453
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	169
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	810
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	451
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	188
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	808
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	462
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	181
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	792
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	476
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	183
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	828
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	451
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	173
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	861
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	504
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	87
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	664
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	608
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	180
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	964
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	428
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	60
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	1014
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	359
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	79
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1055
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	345
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	52
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	650
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	741
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	61
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	1074
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	300
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	78
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	917
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	452
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	81
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	976
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	367
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	109
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	610
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	740
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	99
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	943
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	394
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	115
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	750
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	556
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	146
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	988
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	354
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	107
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	500
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	876
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	6	Noma	2333	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	76
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1006
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	141
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	1027
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	118
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1002
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	114
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	8
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	6
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	3
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	OverVotes	 	0	901	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Governor	 	160000	UnderVotes	 	0	902	8
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	997
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	123
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	23
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1029
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	114
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1011
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	134
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	1031
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	114
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	10
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	686
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	355
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	113
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	666
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	371
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	118
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	663
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	366
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	126
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	651
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	383
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	121
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	650
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	382
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	123
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	661
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	369
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	125
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	725
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	378
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	52
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	483
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	582
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	89
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	708
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	399
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	48
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	804
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	296
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	54
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	793
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	319
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	43
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	523
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	586
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	45
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	821
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	272
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	62
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	701
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	395
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	58
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	808
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	280
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	66
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	533
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	558
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	64
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	787
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	295
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	73
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	611
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	449
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	95
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	827
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	261
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	67
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	410
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	688
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+HOL	Holmes	10481	11/06/2018	2018 General Election	7	West Bonifay	1908	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	55
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	678
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	157
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	676
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	150
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	15
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	677
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	151
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Governor	 	160000	UnderVotes	 	0	902	7
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	670
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	149
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	10
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	696
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	132
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	668
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	159
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	State Senator	 District 2	240020	George B. Gainer	REP	100675522	69442	688
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	State Senator	 District 2	240020	Mary Jeanne "Gigi" Gibson	DEM	123912359	72045	143
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	State Senator	 District 2	240020	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	State Senator	 District 2	240020	UnderVotes	 	0	902	10
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	460
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	307
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	74
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	454
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	307
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	79
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	451
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	301
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	89
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	435
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	323
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	83
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	441
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	312
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	88
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	440
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	318
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	83
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	School Board	 District 1	690001	Kaci Howell Johnson	NOP	114796733	71394	545
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	School Board	 District 1	690001	Milton  Tad Wilson	NOP	104581444	71402	257
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	39
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Randall Baker	NOP	104582249	71794	305
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	Carlton Treadwell	NOP	104579130	72231	472
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Holmes Creek Soil and Water Conservation District	 Group 1	841001	UnderVotes	 	0	902	64
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	535
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	282
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	24
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	580
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	221
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	40
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	604
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	215
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	22
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	415
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	398
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	28
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	592
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	207
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	42
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	497
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	308
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	36
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	586
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	212
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	42
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	397
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	409
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	35
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	565
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	225
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	50
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	436
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	345
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	60
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	573
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	224
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	44
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	313
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	499
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+HOL	Holmes	10481	11/06/2018	2018 General Election	8	East Bonifay	0	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	28

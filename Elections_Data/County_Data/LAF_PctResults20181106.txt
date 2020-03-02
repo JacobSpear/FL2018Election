@@ -1,0 +1,545 @@
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	468
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	112
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	508
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	62
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	14
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	506
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	64
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	6
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Governor	 	160000	UnderVotes	 	0	902	5
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	509
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	56
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	7
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	497
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	68
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	19
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	506
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	65
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	12
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	County Commissioner	 District 2	380020	Henry McCray	REP	104748377	71443	279
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	County Commissioner	 District 2	380020	Kevin Barrington	DEM	104749005	71433	216
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	County Commissioner	 District 2	380020	James Bradley Knight	NPA	105223912	71441	80
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	8
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	326
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	210
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	47
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	329
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	209
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	44
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	336
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	204
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	42
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	323
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	216
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	44
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	311
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	230
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	42
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	327
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	211
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	44
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	300
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	267
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	16
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	410
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	158
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	15
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	370
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	202
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	12
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	203
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	367
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	14
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	392
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	171
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	20
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	336
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	229
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	19
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	335
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	229
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	20
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	241
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	317
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	25
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	354
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	207
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	23
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	271
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	282
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	29
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	358
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	202
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	24
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	167
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	398
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	1	Day Community Center	903	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	19
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	340
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	89
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	365
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	66
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	375
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	51
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	367
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	54
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	10
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	365
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	64
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	10
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	372
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	57
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	County Commissioner	 District 2	380020	Henry McCray	REP	104748377	71443	177
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	County Commissioner	 District 2	380020	Kevin Barrington	DEM	104749005	71433	166
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	County Commissioner	 District 2	380020	James Bradley Knight	NPA	105223912	71441	93
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	209
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	192
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	38
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	212
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	184
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	43
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	208
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	189
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	41
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	208
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	189
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	42
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	207
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	187
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	45
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	209
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	186
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	44
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	200
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	225
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	13
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	292
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	133
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	13
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	267
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	157
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	15
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	191
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	233
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	15
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	281
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	140
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	18
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	241
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	182
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	15
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	273
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	147
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	19
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	176
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	245
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	18
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	268
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	148
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	23
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	207
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	208
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	24
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	263
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	155
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	21
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	136
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	285
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	2	Lafayette Public Libary	692	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	17
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	548
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	123
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	579
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	83
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	20
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	601
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	63
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	4
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Governor	 	160000	UnderVotes	 	0	902	5
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	590
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	74
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	6
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	573
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	87
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	22
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	580
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	87
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	County Commissioner	 District 2	380020	Henry McCray	REP	104748377	71443	340
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	County Commissioner	 District 2	380020	Kevin Barrington	DEM	104749005	71433	237
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	County Commissioner	 District 2	380020	James Bradley Knight	NPA	105223912	71441	101
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	4
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	384
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	230
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	67
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	376
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	239
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	67
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	381
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	229
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	72
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	368
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	239
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	75
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	372
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	239
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	71
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	378
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	233
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	71
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	318
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	345
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	19
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	486
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	169
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	25
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	381
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	273
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	28
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	248
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	403
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	30
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	437
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	205
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	39
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	376
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	274
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	30
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	385
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	258
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	39
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	241
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	402
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	39
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	399
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	243
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	40
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	279
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	349
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	53
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	399
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	241
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	42
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	216
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	440
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	3	Airline Community Center	1002	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	23
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	631
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	130
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	660
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	94
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	17
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	671
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	87
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	661
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	92
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	11
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	652
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	103
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	16
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	666
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	97
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	County Commissioner	 District 2	380020	Henry McCray	REP	104748377	71443	447
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	County Commissioner	 District 2	380020	Kevin Barrington	DEM	104749005	71433	206
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	County Commissioner	 District 2	380020	James Bradley Knight	NPA	105223912	71441	106
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	12
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	409
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	313
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	49
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	407
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	310
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	54
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	407
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	311
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	53
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	403
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	317
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	50
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	392
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	326
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	53
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	395
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	325
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	51
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	393
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	361
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	17
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	505
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	246
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	20
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	419
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	339
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	12
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	293
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	463
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	15
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	487
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	267
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	17
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	407
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	339
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	25
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	418
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	328
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	24
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	278
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	467
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	26
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	437
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	307
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	27
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	289
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	443
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	39
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	445
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	295
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	30
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	182
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	571
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	4	4TH District Community Center	1109	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	18
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	207
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	167
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	216
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	153
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	210
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	154
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	4
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	228
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	139
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	5
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	214
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	155
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	216
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	155
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	County Commissioner	 District 2	380020	Henry McCray	REP	104748377	71443	136
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	County Commissioner	 District 2	380020	Kevin Barrington	DEM	104749005	71433	165
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	County Commissioner	 District 2	380020	James Bradley Knight	NPA	105223912	71441	71
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	5
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	214
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	141
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	22
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	211
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	140
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	26
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	224
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	129
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	24
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	217
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	135
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	25
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	222
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	128
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	212
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	139
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	26
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	182
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	185
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	10
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	251
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	114
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	12
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	234
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	131
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	11
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	219
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	148
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	10
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	241
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	120
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	16
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	235
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	125
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	17
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	253
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	105
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	19
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	196
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	162
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	18
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	248
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	110
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	19
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	208
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	146
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	23
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	232
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	120
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	25
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	156
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	204
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+LAF	Lafayette	10481	11/06/2018	2018 General Election	5	Mayo Community Center	650	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	17

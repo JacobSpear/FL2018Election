@@ -1,0 +1,1035 @@
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	871
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	545
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	6
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	860
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	540
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	32
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	895
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	517
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	6
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	895
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	497
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	14
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	26
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	891
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	495
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	46
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	894
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	498
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	40
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	908
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	485
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	18
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	10
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	815
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	505
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	111
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	750
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	543
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	139
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	782
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	501
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	149
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	740
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	534
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	157
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	756
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	520
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	156
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	738
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	525
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	168
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	732
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	590
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	110
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	739
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	626
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	67
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	938
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	403
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	89
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	904
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	448
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	79
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	736
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	630
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	65
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	931
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	402
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	99
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	812
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	523
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	95
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	966
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	371
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	95
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	680
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	642
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	110
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	909
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	412
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	110
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	738
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	568
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	125
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	939
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	380
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	112
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	568
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	790
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	1A	Sanderson Community Center	2148	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	74
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1567
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	436
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	1537
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	440
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	42
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1589
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	400
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	8
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	6
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Governor	 	160000	UnderVotes	 	0	902	9
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1609
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	361
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	24
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	26
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1597
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	373
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	2
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	47
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1593
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	387
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	39
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	1625
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	341
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	20
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	12
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	22
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	1214
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	598
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	207
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	1201
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	580
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	239
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	1214
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	555
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	250
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	1169
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	597
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	253
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	1145
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	617
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	257
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	1140
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	606
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	273
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	1262
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	560
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	197
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	1152
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	779
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	88
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	1415
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	513
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	3
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	89
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1296
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	657
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	67
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	937
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	1003
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	3
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	77
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	1377
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	528
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	113
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	1213
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	715
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	4
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	88
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	1315
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	583
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	121
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	936
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	947
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	8
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	129
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	1311
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	575
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	133
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	1053
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	811
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	156
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	1337
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	553
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	3
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	127
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	930
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	1013
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	3
+BAK	Baker	10481	11/06/2018	2018 General Election	2A	Macclenny Baptist Gym	2966	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	74
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1737
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	366
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	1696
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	381
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	40
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1743
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	338
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	9
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	7
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	4
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	OverVotes	 	0	901	5
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Governor	 	160000	UnderVotes	 	0	902	8
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1769
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	305
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	21
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	22
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1747
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	326
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	43
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1742
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	331
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	44
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	1777
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	276
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	19
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	20
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	25
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	1300
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	641
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	175
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	1290
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	630
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	197
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	1271
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	640
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	205
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	1265
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	644
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	208
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	1226
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	671
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	219
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	1244
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	643
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	230
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	1371
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	541
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	204
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	1228
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	811
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	77
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	1518
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	527
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	70
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1370
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	697
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	49
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	917
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	1136
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	63
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	1473
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	550
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	93
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	1274
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	755
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	88
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	1366
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	645
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	106
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	959
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	1042
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	114
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	1356
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	647
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	114
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	1077
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	891
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	147
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	1432
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	573
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	111
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	949
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	1093
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	3A	Center of the Agriculture	2982	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	75
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	113
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	13
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	118
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	11
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	117
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	119
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	117
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	114
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	15
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	117
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	9
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	3
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	83
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	34
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	12
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	86
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	33
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	89
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	30
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	82
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	37
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	75
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	43
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	86
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	33
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	83
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	34
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	12
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	79
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	47
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	3
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	99
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	28
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	79
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	49
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	48
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	77
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	4
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	97
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	28
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	4
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	68
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	56
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	5
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	91
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	33
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	5
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	50
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	73
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	6
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	79
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	42
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	8
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	49
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	69
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	79
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	42
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	8
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	46
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	79
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4A	Baxter Fire Station	202	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	4
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	355
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	41
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	354
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	42
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	350
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	35
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	5
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	362
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	35
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	359
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	34
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	362
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	34
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	346
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	34
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	5
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	3
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	255
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	109
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	33
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	258
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	102
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	38
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	258
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	101
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	38
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	256
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	106
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	36
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	250
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	107
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	40
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	255
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	103
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	40
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	297
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	71
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	30
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	233
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	153
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	291
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	97
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	274
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	115
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	9
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	172
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	217
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	9
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	284
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	98
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	16
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	269
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	117
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	12
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	267
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	112
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	19
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	157
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	220
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	20
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	276
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	102
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	20
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	227
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	150
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	21
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	253
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	129
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	16
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	134
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	252
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4B	Taylor Voting House	613	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	12
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1263
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	153
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	1246
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	151
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	27
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1282
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	127
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	6
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Governor	 	160000	UnderVotes	 	0	902	5
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1282
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	118
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	7
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	17
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1276
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	119
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	28
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1272
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	131
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	21
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	1278
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	109
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	4
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	20
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	13
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	850
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	417
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	156
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	853
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	395
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	175
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	858
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	379
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	186
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	825
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	419
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	180
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	803
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	435
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	185
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	814
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	422
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	188
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	986
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	274
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	164
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	852
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	518
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	52
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	988
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	382
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	54
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	890
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	495
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	39
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	470
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	900
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	53
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	994
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	367
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	62
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	828
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	538
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	58
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	844
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	505
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	75
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	553
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	791
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	80
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	862
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	475
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	87
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	652
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	664
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	107
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	905
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	438
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	81
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	529
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	845
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4C	Center of the Agriculture	1826	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	50
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	519
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	71
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	514
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	73
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	5
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	530
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	54
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	533
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	47
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	8
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	531
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	50
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	536
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	47
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	9
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	518
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	49
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	11
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	7
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	7
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	338
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	206
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	48
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	339
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	204
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	48
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	338
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	206
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	331
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	209
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	51
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	326
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	212
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	53
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	332
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	206
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	54
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	436
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	109
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	47
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	331
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	245
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	15
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	407
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	169
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	16
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	366
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	212
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	14
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	258
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	322
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	12
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	413
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	157
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	22
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	341
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	227
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	24
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	365
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	200
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	25
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	218
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	345
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	29
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	361
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	208
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	23
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	264
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	291
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	37
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	365
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	207
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	19
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	199
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	381
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	4D	Cuyler Church Hall	870	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	2052
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	262
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	2018
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	273
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	32
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	2080
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	221
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	4
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Governor	 	160000	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	2095
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	183
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	19
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	27
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	2078
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	202
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	43
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	2064
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	213
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	47
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	2089
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	170
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	24
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	13
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	28
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	1315
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	779
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	230
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	1334
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	736
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	253
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	1307
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	749
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	266
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	1286
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	766
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	6
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	266
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	1256
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	786
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	3
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	279
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	1303
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	736
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	284
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	1626
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	416
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	280
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	1427
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	808
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	88
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	1702
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	529
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	93
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1499
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	753
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	71
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	882
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	1373
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	67
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	1717
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	492
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	114
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	1410
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	819
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	95
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	1454
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	767
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	102
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	975
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	1229
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	118
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	1464
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	722
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	138
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	1118
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	1034
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	170
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	1559
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	633
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	132
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	895
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	1346
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	5A	Glen Baptist Hall	3245	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	82
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	103
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	56
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Representative in Congress	 District 5	140050	Virginia Fuller	REP	124196201	70253	105
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Representative in Congress	 District 5	140050	Al Lawson	DEM	104987227	70408	55
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Representative in Congress	 District 5	140050	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Representative in Congress	 District 5	140050	UnderVotes	 	0	902	3
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	102
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	58
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	113
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	49
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	107
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	53
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	3
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	106
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	54
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	3
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	State Representative	 District 10	260100	Chuck Brannan	REP	100590667	69626	112
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	State Representative	 District 10	260100	Ronald W. Williams II	DEM	103186822	71459	45
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	State Representative	 District 10	260100	Fred S. Martin	NPA	108362453	70290	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	State Representative	 District 10	260100	Merrillee Malwitz Jipson	NPA	103169106	70669	4
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	2
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	100
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	49
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	14
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	98
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	48
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	17
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	100
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	44
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	19
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	93
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	48
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	21
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	98
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	45
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	20
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	94
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	50
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	19
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	91
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	55
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	17
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	75
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	83
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	5
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	129
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	25
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	9
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	106
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	53
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	4
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	88
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	69
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	6
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	111
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	42
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	10
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	96
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	62
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	5
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	109
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	43
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	87
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	65
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	114
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	38
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	11
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	92
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	55
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	16
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	110
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	39
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	14
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	79
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	77
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+BAK	Baker	10481	11/06/2018	2018 General Election	6A	Olustee Baptist Hall	256	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	7

@@ -1,0 +1,1130 @@
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	509
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	138
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	537
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	108
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	526
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	109
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	540
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	98
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	518
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	122
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	533
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	112
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	7
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	548
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	98
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	6
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	399
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	176
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	77
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	391
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	178
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	83
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	385
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	182
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	84
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	377
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	190
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	372
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	198
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	82
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	381
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	189
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	82
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	411
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	179
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	58
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	340
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	294
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	432
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	204
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	411
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	227
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	12
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	284
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	357
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	452
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	187
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	380
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	258
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	14
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	394
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	242
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	309
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	326
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	427
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	203
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	302
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	314
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	36
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	422
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	206
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	239
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	396
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1A	1A Trenton Center 	1057	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	233
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	73
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	246
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	56
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	249
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	55
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Governor	 	160000	UnderVotes	 	0	902	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	253
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	51
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	243
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	60
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	250
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	55
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	255
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	50
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	198
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	84
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	195
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	80
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	31
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	191
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	83
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	32
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	191
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	83
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	32
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	187
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	31
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	185
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	87
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	34
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	189
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	94
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	189
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	110
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	7
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	195
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	98
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	195
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	106
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	136
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	165
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	210
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	89
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	7
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	185
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	112
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	9
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	188
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	110
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	151
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	145
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	206
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	89
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	11
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	153
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	136
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	203
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	90
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	112
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	185
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1B	1B County Library 	503	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	9
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	109
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	85
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	109
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	85
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	113
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	81
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	117
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	75
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	106
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	112
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	81
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	114
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	79
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	118
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	60
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	113
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	60
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	118
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	54
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	23
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	121
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	52
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	112
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	60
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	23
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	110
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	60
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	25
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	73
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	106
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	98
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	86
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	11
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	105
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	80
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	140
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	47
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	108
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	80
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	7
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	125
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	59
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	11
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	122
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	65
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	120
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	66
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	9
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	95
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	12
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	124
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	59
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	12
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	91
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	122
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	64
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	9
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	76
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	111
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	1C	1C County Library 	360	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	888
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	208
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	6
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	930
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	161
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	14
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	934
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	156
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	7
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	958
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	118
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	20
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	926
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	159
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	21
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	935
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	162
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	9
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	955
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	141
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	686
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	327
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	93
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	662
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	344
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	100
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	667
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	332
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	107
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	663
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	337
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	106
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	641
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	357
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	107
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	651
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	345
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	110
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	743
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	254
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	99
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	598
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	480
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	28
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	724
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	350
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	32
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	678
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	406
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	435
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	653
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	770
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	314
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	639
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	444
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	23
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	647
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	426
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	33
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	501
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	576
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	27
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	681
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	392
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	33
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	496
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	558
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	52
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	678
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	386
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	42
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	402
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	689
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	2A	2A Donnie Center 	1652	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	14
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	764
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	194
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	806
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	145
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	802
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	141
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Governor	 	160000	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	813
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	132
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	793
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	148
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	26
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	805
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	147
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	835
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	119
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	591
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	289
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	87
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	571
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	314
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	80
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	585
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	297
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	84
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	577
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	300
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	577
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	302
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	569
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	304
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	93
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	655
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	234
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	78
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	525
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	411
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	30
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	631
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	297
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	38
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	679
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	269
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	19
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	394
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	552
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	21
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	714
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	229
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	580
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	362
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	25
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	625
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	314
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	28
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	471
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	466
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	29
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	658
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	267
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	42
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	469
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	446
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	52
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	676
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	249
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	42
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	375
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	567
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	3A	3A Bell Community Center 	1512	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	23
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	711
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	234
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	774
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	172
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	20
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	770
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	169
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	14
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	791
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	143
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	18
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	757
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	174
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	34
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	771
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	171
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	803
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	146
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	592
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	280
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	94
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	572
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	298
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	95
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	577
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	295
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	94
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	554
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	312
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	100
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	551
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	319
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	96
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	555
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	311
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	100
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	611
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	266
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	89
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	577
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	363
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	26
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	653
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	289
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	23
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	698
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	250
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	18
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	424
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	521
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	21
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	717
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	225
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	591
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	351
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	615
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	320
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	31
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	512
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	422
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	30
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	635
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	291
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	39
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	510
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	402
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	54
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	702
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	225
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	39
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	414
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	520
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	4A	4A Cruse Center 	1598	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	32
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	453
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	126
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	479
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	100
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	7
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	473
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	97
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	OverVotes	 	0	901	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	488
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	468
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	104
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	474
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	104
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	490
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	90
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	6
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	354
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	166
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	66
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	348
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	175
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	62
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	352
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	170
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	64
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	342
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	181
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	63
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	343
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	176
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	66
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	341
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	179
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	66
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	355
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	159
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	69
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	355
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	215
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	408
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	161
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	418
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	158
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	278
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	300
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	433
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	138
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	15
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	348
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	220
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	18
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	362
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	199
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	25
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	297
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	268
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	21
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	389
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	172
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	25
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	289
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	259
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	38
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	432
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	132
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	265
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	311
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	5A	5A N Gilchrist Fire Station 	873	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	902
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	221
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	943
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	181
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	940
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	173
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Governor	 	160000	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	941
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	163
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	12
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	21
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	924
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	184
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	28
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	933
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	182
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	953
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	163
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	21
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	712
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	319
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	106
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	698
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	328
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	110
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	711
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	313
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	113
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	687
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	335
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	114
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	687
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	336
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	114
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	688
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	328
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	121
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	667
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	349
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	9
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	112
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	674
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	425
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	38
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	792
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	302
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	43
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	804
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	316
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	467
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	653
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	865
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	249
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	23
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	656
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	455
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	26
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	702
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	406
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	29
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	526
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	579
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	30
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	724
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	369
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	43
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	548
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	536
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	52
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	826
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	267
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	44
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	471
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	642
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	6A	6A Osteen Center 	1729	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	23
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	604
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	162
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	624
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	139
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	624
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	134
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	632
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	126
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	610
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	142
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	624
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	142
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	638
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	127
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	11
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	470
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	220
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	86
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	468
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	219
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	461
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	221
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	94
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	448
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	233
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	95
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	441
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	240
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	95
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	460
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	220
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	96
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	466
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	220
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	87
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	486
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	270
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	20
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	532
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	220
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	24
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	549
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	210
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	348
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	416
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	12
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	570
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	190
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	456
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	298
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	482
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	272
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	374
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	383
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	18
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	502
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	252
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	397
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	330
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	49
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	552
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	189
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	35
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	286
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	473
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	7A	7A Osceola Center 	1215	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	17
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	530
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	192
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	543
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	177
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	544
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	167
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	6
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	562
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	154
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	9
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	537
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	182
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	548
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	176
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	552
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	170
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	8
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	460
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	187
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	83
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	451
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	196
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	82
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	451
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	192
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	87
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	442
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	200
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	88
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	430
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	213
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	87
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	432
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	209
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	89
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	David Robertson	NOP	108362298	70410	413
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	Gloria Walker	NOP	100523119	70610	239
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	WriteinVotes	 	0	900	6
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 8	550808	UnderVotes	 	0	902	72
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	419
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	295
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	14
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	470
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	240
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	20
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	511
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	202
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	16
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	386
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	331
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	13
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	518
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	191
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	20
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	415
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	293
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	22
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	458
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	253
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	19
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	362
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	350
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	18
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	461
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	237
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	32
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	384
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	298
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	47
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	501
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	198
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	31
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	320
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	394
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+GIL	Gilchrist	10481	11/06/2018	2018 General Election	8A	8A Southeast Center 	1268	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	14

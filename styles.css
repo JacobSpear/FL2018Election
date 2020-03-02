@@ -1,0 +1,22 @@
+.bg-page{background-color:#EDEDED;}
+
+.extra-pad{padding-left:5%}
+
+.nav-item{text-align:right;}
+
+nav.nav-zoom{background-color:white;}
+
+h5.district-label{text-align:center; font-size:30px;}
+
+@media (max-width:800px) {
+    h5.district-label{text-align:center; font-size:1em;}
+}
+
+@media (max-width:800px) {
+    nav.nav-zoom{background-color:#17a2b8;}
+}
+
+#current_selection{border: thick solid #17a2b8;}
+
+#footer{color:blanchedalmond; text-align:center;margin:auto;}
+

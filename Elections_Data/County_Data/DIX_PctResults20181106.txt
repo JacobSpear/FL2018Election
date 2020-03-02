@@ -1,0 +1,1120 @@
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	985
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	303
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	1064
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	216
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1042
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	225
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	OverVotes	 	0	901	4
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1068
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	210
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	16
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1032
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	246
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1055
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	232
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	18
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	1089
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	204
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	747
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	499
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	59
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	754
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	427
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	124
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	748
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	424
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	133
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	763
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	412
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	129
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	742
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	429
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	133
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	739
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	429
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	137
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	746
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	429
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	130
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	736
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	528
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	40
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	882
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	370
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	53
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	923
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	350
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	32
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	650
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	613
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	914
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	341
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	50
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	854
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	404
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	46
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	889
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	354
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	62
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	622
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	620
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	60
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	895
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	347
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	63
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	691
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	509
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	105
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	960
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	292
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	53
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	530
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	734
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	1	1 1ST  DIST. COM. BLDG 	2231	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	210
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	64
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	232
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	227
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	45
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	233
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	36
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	4
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	228
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	40
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	232
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	39
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	242
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	33
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	153
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	117
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	11
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	151
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	99
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	31
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	145
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	103
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	33
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	143
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	103
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	35
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	146
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	100
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	35
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	147
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	100
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	34
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	146
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	102
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	33
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	146
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	119
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	16
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	164
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	95
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	22
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	171
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	89
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	21
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	120
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	143
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	18
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	155
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	101
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	155
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	105
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	21
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	167
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	95
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	116
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	139
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	170
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	87
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	109
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	142
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	30
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	167
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	89
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	83
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	176
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	2	2 MASONIC LODGE 	472	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	22
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	1204
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	356
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	1276
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	278
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	1241
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	266
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	10
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	10
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	9
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Governor	 	160000	UnderVotes	 	0	902	14
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	1265
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	257
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	32
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	1233
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	295
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	48
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	1242
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	302
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	34
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	1281
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	270
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	1029
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	463
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	84
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	903
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	502
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	173
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	904
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	496
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	178
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	911
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	485
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	182
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	902
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	490
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	185
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	880
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	511
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	186
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	894
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	501
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	183
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	875
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	663
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	40
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	1036
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	473
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	69
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	1084
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	458
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	36
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	815
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	724
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	37
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	1127
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	395
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	56
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	956
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	564
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	58
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	1057
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	450
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	71
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	752
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	752
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	73
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	1061
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	445
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	72
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	812
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	665
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	101
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	1166
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	347
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	63
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	659
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	875
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	4	4 Old Town CTR 	2684	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	44
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	226
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	35
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	236
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	234
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	237
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	231
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	30
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	229
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	29
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	238
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	22
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	151
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	88
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	145
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	79
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	39
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	139
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	79
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	45
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	140
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	78
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	45
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	138
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	77
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	48
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	138
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	78
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	47
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	138
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	79
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	46
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	146
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	105
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	160
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	91
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	175
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	77
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	11
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	125
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	125
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	171
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	77
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	15
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	165
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	81
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	17
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	169
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	73
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	21
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	129
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	121
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	173
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	70
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	20
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	131
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	102
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	30
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	199
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	48
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	16
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	105
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	145
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	5	5 SUWANNEE COM. CENTER 	368	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	485
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	101
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	515
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	66
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	521
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	58
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Governor	 	160000	UnderVotes	 	0	902	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	522
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	58
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	4
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	510
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	65
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	512
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	68
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	532
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	55
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	382
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	190
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	22
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	336
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	176
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	82
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	330
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	179
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	85
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	330
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	180
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	84
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	320
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	188
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	86
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	313
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	196
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	85
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	324
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	183
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	86
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	300
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	265
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	29
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	349
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	204
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	407
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	160
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	268
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	301
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	381
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	171
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	42
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	355
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	205
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	34
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	370
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	189
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	35
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	257
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	303
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	34
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	373
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	176
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	45
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	262
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	274
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	58
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	362
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	188
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	43
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	161
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	410
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	6	6 COM. BUILDING HWY 55A 	1034	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	23
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	179
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	38
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	203
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	18
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	203
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Governor	 	160000	UnderVotes	 	0	902	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	198
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	18
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	194
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	21
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	196
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	204
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	15
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	8
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	132
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	86
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	9
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	109
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	80
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	38
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	104
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	82
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	105
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	77
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	45
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	106
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	76
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	45
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	100
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	83
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	44
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	103
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	80
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	44
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	99
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	115
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	133
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	77
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	17
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	125
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	90
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	96
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	118
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	145
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	65
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	17
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	115
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	94
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	18
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	122
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	88
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	17
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	81
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	127
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	145
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	67
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	15
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	84
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	120
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	23
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	134
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	72
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	21
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	47
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	163
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	7	7 CO BLDG WARD AVE 	340	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	16
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	436
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	294
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	17
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	475
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	250
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	28
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	445
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	284
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	4
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Governor	 	160000	UnderVotes	 	0	902	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	465
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	249
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	23
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	16
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	448
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	276
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	28
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	459
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	268
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	491
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	248
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	14
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	422
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	307
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	404
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	257
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	92
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	387
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	268
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	98
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	393
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	261
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	99
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	398
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	255
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	100
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	386
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	264
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	103
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	383
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	274
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	96
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	357
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	355
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	453
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	250
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	49
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	506
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	212
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	35
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	434
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	281
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	38
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	429
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	268
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	56
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	452
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	257
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	44
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	502
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	195
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	54
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	328
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	360
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	64
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	474
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	209
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	70
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	378
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	299
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	74
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	487
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	195
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	70
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	268
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	435
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	9	9 CITY HALL	1272	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	49
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	302
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	48
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	322
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	31
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	318
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	30
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	323
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	29
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	318
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	34
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	321
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	33
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	328
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	221
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	129
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	9
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	184
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	124
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	50
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	178
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	131
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	50
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	185
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	123
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	51
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	179
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	131
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	49
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	174
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	136
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	49
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	173
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	137
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	49
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	170
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	167
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	21
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	214
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	120
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	222
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	118
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	164
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	176
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	19
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	242
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	89
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	27
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	181
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	152
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	211
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	120
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	28
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	151
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	183
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	208
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	120
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	31
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	130
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	187
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	209
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	118
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	32
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	107
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	232
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	10	10 COUNTY BLDG 292 Ave 	515	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	20
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	227
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	47
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	232
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	38
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	235
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	32
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Governor	 	160000	UnderVotes	 	0	902	5
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	230
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	36
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	222
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	39
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	15
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	227
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	35
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	233
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	35
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	8
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	84
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	174
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	18
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	163
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	76
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	36
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	161
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	78
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	37
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	150
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	86
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	40
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	154
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	84
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	38
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	153
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	82
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	41
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	154
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	82
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	40
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	151
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	109
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	16
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	173
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	78
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	157
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	101
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	17
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	126
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	129
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	20
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	184
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	63
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	28
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	141
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	109
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	25
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	165
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	85
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	93
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	155
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	28
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	154
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	92
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	30
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	99
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	137
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	40
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	177
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	70
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	28
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	58
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	198
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	11	11 JENA COM. CENTER 	397	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	20
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	187
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	32
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	193
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	196
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Governor	 	160000	UnderVotes	 	0	902	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	198
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	20
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	193
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	27
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	197
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	23
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	State Representative	 District 21	260210	Chuck Clemons	REP	100410371	69590	197
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	State Representative	 District 21	260210	Jason Lee Haeseler	DEM	100542583	70292	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	State Representative	 District 21	260210	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	State Representative	 District 21	260210	UnderVotes	 	0	902	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	County Commissioner	 District 4	380040	Jamie Storey	NPA	103229573	71296	95
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	County Commissioner	 District 4	380040	John "Lil John" Driggers JR	NPA	103230358	71295	103
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	24
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	122
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	74
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	26
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	121
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	70
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	31
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	116
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	72
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	33
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	124
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	66
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	32
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	115
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	71
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	36
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	116
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	72
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	34
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	134
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	80
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	146
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	64
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	11
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	140
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	75
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	7
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	101
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	108
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	3
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	10
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	153
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	58
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	10
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	120
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	90
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	11
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	125
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	86
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	11
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	82
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	128
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	12
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	128
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	81
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	103
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	102
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	16
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	158
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	51
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	13
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	82
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	127
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+DIX	Dixie	10481	11/06/2018	2018 General Election	12	12 HORSESHOE BCH CITY HALL 	357	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	12

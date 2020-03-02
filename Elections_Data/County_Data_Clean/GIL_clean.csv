@@ -1,0 +1,2261 @@
+,County Code,Election Date,Unique PCT Identifier,Precinct Polling Location,Total Registered,Contest Name,District,Contest Code,Candidate,Party,Vote Total
+0,GIL,11/06/2018,1A,1A Trenton Center ,1057,United States Senator, ,120000,Rick Scott,REP,"509
+"
+1,GIL,11/06/2018,1A,1A Trenton Center ,1057,United States Senator, ,120000,Bill Nelson,DEM,"138
+"
+2,GIL,11/06/2018,1A,1A Trenton Center ,1057,United States Senator, ,120000,WriteinVotes, ,"2
+"
+3,GIL,11/06/2018,1A,1A Trenton Center ,1057,United States Senator, ,120000,OverVotes, ,"0
+"
+4,GIL,11/06/2018,1A,1A Trenton Center ,1057,United States Senator, ,120000,UnderVotes, ,"3
+"
+5,GIL,11/06/2018,1A,1A Trenton Center ,1057,Representative in Congress, District 2,140020,Neal Dunn,REP,"537
+"
+6,GIL,11/06/2018,1A,1A Trenton Center ,1057,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"108
+"
+7,GIL,11/06/2018,1A,1A Trenton Center ,1057,Representative in Congress, District 2,140020,OverVotes, ,"1
+"
+8,GIL,11/06/2018,1A,1A Trenton Center ,1057,Representative in Congress, District 2,140020,UnderVotes, ,"6
+"
+9,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,DeSantis / NuÃ±ez,REP,"526
+"
+10,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,Gillum / King,DEM,"109
+"
+11,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,Richardson / Argenziano,REF,"5
+"
+12,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+13,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+14,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+15,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,WriteinVotes, ,"2
+"
+16,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,OverVotes, ,"0
+"
+17,GIL,11/06/2018,1A,1A Trenton Center ,1057,Governor, ,160000,UnderVotes, ,"4
+"
+18,GIL,11/06/2018,1A,1A Trenton Center ,1057,Attorney General, ,160200,Ashley Moody,REP,"540
+"
+19,GIL,11/06/2018,1A,1A Trenton Center ,1057,Attorney General, ,160200,Sean Shaw,DEM,"98
+"
+20,GIL,11/06/2018,1A,1A Trenton Center ,1057,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"10
+"
+21,GIL,11/06/2018,1A,1A Trenton Center ,1057,Attorney General, ,160200,OverVotes, ,"0
+"
+22,GIL,11/06/2018,1A,1A Trenton Center ,1057,Attorney General, ,160200,UnderVotes, ,"4
+"
+23,GIL,11/06/2018,1A,1A Trenton Center ,1057,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"518
+"
+24,GIL,11/06/2018,1A,1A Trenton Center ,1057,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"122
+"
+25,GIL,11/06/2018,1A,1A Trenton Center ,1057,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+26,GIL,11/06/2018,1A,1A Trenton Center ,1057,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+27,GIL,11/06/2018,1A,1A Trenton Center ,1057,Chief Financial Officer, ,160500,UnderVotes, ,"11
+"
+28,GIL,11/06/2018,1A,1A Trenton Center ,1057,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"533
+"
+29,GIL,11/06/2018,1A,1A Trenton Center ,1057,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"112
+"
+30,GIL,11/06/2018,1A,1A Trenton Center ,1057,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+31,GIL,11/06/2018,1A,1A Trenton Center ,1057,Commissioner of Agriculture, ,160800,UnderVotes, ,"7
+"
+32,GIL,11/06/2018,1A,1A Trenton Center ,1057,State Representative, District 21,260210,Chuck Clemons,REP,"548
+"
+33,GIL,11/06/2018,1A,1A Trenton Center ,1057,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"98
+"
+34,GIL,11/06/2018,1A,1A Trenton Center ,1057,State Representative, District 21,260210,OverVotes, ,"0
+"
+35,GIL,11/06/2018,1A,1A Trenton Center ,1057,State Representative, District 21,260210,UnderVotes, ,"6
+"
+36,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"399
+"
+37,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"176
+"
+38,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+39,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"77
+"
+40,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"391
+"
+41,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"178
+"
+42,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+43,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"83
+"
+44,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"385
+"
+45,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"182
+"
+46,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"1
+"
+47,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"84
+"
+48,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"377
+"
+49,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"190
+"
+50,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+51,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"85
+"
+52,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"372
+"
+53,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"198
+"
+54,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+55,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"82
+"
+56,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"381
+"
+57,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"189
+"
+58,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+59,GIL,11/06/2018,1A,1A Trenton Center ,1057,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"82
+"
+60,GIL,11/06/2018,1A,1A Trenton Center ,1057,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"411
+"
+61,GIL,11/06/2018,1A,1A Trenton Center ,1057,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"179
+"
+62,GIL,11/06/2018,1A,1A Trenton Center ,1057,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"4
+"
+63,GIL,11/06/2018,1A,1A Trenton Center ,1057,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+64,GIL,11/06/2018,1A,1A Trenton Center ,1057,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"58
+"
+65,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"340
+"
+66,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"294
+"
+67,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+68,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"17
+"
+69,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"432
+"
+70,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"204
+"
+71,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+72,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"16
+"
+73,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"411
+"
+74,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"227
+"
+75,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"2
+"
+76,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"12
+"
+77,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"284
+"
+78,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"357
+"
+79,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+80,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"10
+"
+81,GIL,11/06/2018,1A,1A Trenton Center ,1057,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"452
+"
+82,GIL,11/06/2018,1A,1A Trenton Center ,1057,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"187
+"
+83,GIL,11/06/2018,1A,1A Trenton Center ,1057,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+84,GIL,11/06/2018,1A,1A Trenton Center ,1057,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"13
+"
+85,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"380
+"
+86,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"258
+"
+87,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+88,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"14
+"
+89,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"394
+"
+90,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"242
+"
+91,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+92,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"16
+"
+93,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"309
+"
+94,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"326
+"
+95,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+96,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"17
+"
+97,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"427
+"
+98,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"203
+"
+99,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+100,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"22
+"
+101,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"302
+"
+102,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"314
+"
+103,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+104,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"36
+"
+105,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"422
+"
+106,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"206
+"
+107,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+108,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"24
+"
+109,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"239
+"
+110,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"396
+"
+111,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+112,GIL,11/06/2018,1A,1A Trenton Center ,1057,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"17
+"
+113,GIL,11/06/2018,1B,1B County Library ,503,United States Senator, ,120000,Rick Scott,REP,"233
+"
+114,GIL,11/06/2018,1B,1B County Library ,503,United States Senator, ,120000,Bill Nelson,DEM,"73
+"
+115,GIL,11/06/2018,1B,1B County Library ,503,United States Senator, ,120000,WriteinVotes, ,"0
+"
+116,GIL,11/06/2018,1B,1B County Library ,503,United States Senator, ,120000,OverVotes, ,"0
+"
+117,GIL,11/06/2018,1B,1B County Library ,503,United States Senator, ,120000,UnderVotes, ,"0
+"
+118,GIL,11/06/2018,1B,1B County Library ,503,Representative in Congress, District 2,140020,Neal Dunn,REP,"246
+"
+119,GIL,11/06/2018,1B,1B County Library ,503,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"56
+"
+120,GIL,11/06/2018,1B,1B County Library ,503,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+121,GIL,11/06/2018,1B,1B County Library ,503,Representative in Congress, District 2,140020,UnderVotes, ,"4
+"
+122,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,DeSantis / NuÃ±ez,REP,"249
+"
+123,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,Gillum / King,DEM,"55
+"
+124,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+125,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+126,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+127,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+128,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,WriteinVotes, ,"0
+"
+129,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,OverVotes, ,"0
+"
+130,GIL,11/06/2018,1B,1B County Library ,503,Governor, ,160000,UnderVotes, ,"0
+"
+131,GIL,11/06/2018,1B,1B County Library ,503,Attorney General, ,160200,Ashley Moody,REP,"253
+"
+132,GIL,11/06/2018,1B,1B County Library ,503,Attorney General, ,160200,Sean Shaw,DEM,"51
+"
+133,GIL,11/06/2018,1B,1B County Library ,503,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"1
+"
+134,GIL,11/06/2018,1B,1B County Library ,503,Attorney General, ,160200,OverVotes, ,"0
+"
+135,GIL,11/06/2018,1B,1B County Library ,503,Attorney General, ,160200,UnderVotes, ,"1
+"
+136,GIL,11/06/2018,1B,1B County Library ,503,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"243
+"
+137,GIL,11/06/2018,1B,1B County Library ,503,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"60
+"
+138,GIL,11/06/2018,1B,1B County Library ,503,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+139,GIL,11/06/2018,1B,1B County Library ,503,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+140,GIL,11/06/2018,1B,1B County Library ,503,Chief Financial Officer, ,160500,UnderVotes, ,"3
+"
+141,GIL,11/06/2018,1B,1B County Library ,503,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"250
+"
+142,GIL,11/06/2018,1B,1B County Library ,503,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"55
+"
+143,GIL,11/06/2018,1B,1B County Library ,503,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+144,GIL,11/06/2018,1B,1B County Library ,503,Commissioner of Agriculture, ,160800,UnderVotes, ,"1
+"
+145,GIL,11/06/2018,1B,1B County Library ,503,State Representative, District 21,260210,Chuck Clemons,REP,"255
+"
+146,GIL,11/06/2018,1B,1B County Library ,503,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"50
+"
+147,GIL,11/06/2018,1B,1B County Library ,503,State Representative, District 21,260210,OverVotes, ,"0
+"
+148,GIL,11/06/2018,1B,1B County Library ,503,State Representative, District 21,260210,UnderVotes, ,"1
+"
+149,GIL,11/06/2018,1B,1B County Library ,503,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"198
+"
+150,GIL,11/06/2018,1B,1B County Library ,503,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"84
+"
+151,GIL,11/06/2018,1B,1B County Library ,503,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+152,GIL,11/06/2018,1B,1B County Library ,503,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"24
+"
+153,GIL,11/06/2018,1B,1B County Library ,503,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"195
+"
+154,GIL,11/06/2018,1B,1B County Library ,503,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"80
+"
+155,GIL,11/06/2018,1B,1B County Library ,503,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+156,GIL,11/06/2018,1B,1B County Library ,503,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"31
+"
+157,GIL,11/06/2018,1B,1B County Library ,503,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"191
+"
+158,GIL,11/06/2018,1B,1B County Library ,503,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"83
+"
+159,GIL,11/06/2018,1B,1B County Library ,503,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+160,GIL,11/06/2018,1B,1B County Library ,503,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"32
+"
+161,GIL,11/06/2018,1B,1B County Library ,503,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"191
+"
+162,GIL,11/06/2018,1B,1B County Library ,503,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"83
+"
+163,GIL,11/06/2018,1B,1B County Library ,503,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+164,GIL,11/06/2018,1B,1B County Library ,503,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"32
+"
+165,GIL,11/06/2018,1B,1B County Library ,503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"187
+"
+166,GIL,11/06/2018,1B,1B County Library ,503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"88
+"
+167,GIL,11/06/2018,1B,1B County Library ,503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+168,GIL,11/06/2018,1B,1B County Library ,503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"31
+"
+169,GIL,11/06/2018,1B,1B County Library ,503,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"185
+"
+170,GIL,11/06/2018,1B,1B County Library ,503,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"87
+"
+171,GIL,11/06/2018,1B,1B County Library ,503,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+172,GIL,11/06/2018,1B,1B County Library ,503,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"34
+"
+173,GIL,11/06/2018,1B,1B County Library ,503,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"189
+"
+174,GIL,11/06/2018,1B,1B County Library ,503,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"94
+"
+175,GIL,11/06/2018,1B,1B County Library ,503,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"1
+"
+176,GIL,11/06/2018,1B,1B County Library ,503,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+177,GIL,11/06/2018,1B,1B County Library ,503,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"22
+"
+178,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"189
+"
+179,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"110
+"
+180,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+181,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"7
+"
+182,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"195
+"
+183,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"98
+"
+184,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+185,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"13
+"
+186,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"195
+"
+187,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"106
+"
+188,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+189,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"5
+"
+190,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"136
+"
+191,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"165
+"
+192,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+193,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"5
+"
+194,GIL,11/06/2018,1B,1B County Library ,503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"210
+"
+195,GIL,11/06/2018,1B,1B County Library ,503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"89
+"
+196,GIL,11/06/2018,1B,1B County Library ,503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+197,GIL,11/06/2018,1B,1B County Library ,503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"7
+"
+198,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"185
+"
+199,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"112
+"
+200,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+201,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"9
+"
+202,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"188
+"
+203,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"110
+"
+204,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+205,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"8
+"
+206,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"151
+"
+207,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"145
+"
+208,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+209,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"10
+"
+210,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"206
+"
+211,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"89
+"
+212,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+213,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"11
+"
+214,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"153
+"
+215,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"136
+"
+216,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+217,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"17
+"
+218,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"203
+"
+219,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"90
+"
+220,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+221,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"13
+"
+222,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"112
+"
+223,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"185
+"
+224,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+225,GIL,11/06/2018,1B,1B County Library ,503,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"9
+"
+226,GIL,11/06/2018,1C,1C County Library ,360,United States Senator, ,120000,Rick Scott,REP,"109
+"
+227,GIL,11/06/2018,1C,1C County Library ,360,United States Senator, ,120000,Bill Nelson,DEM,"85
+"
+228,GIL,11/06/2018,1C,1C County Library ,360,United States Senator, ,120000,WriteinVotes, ,"0
+"
+229,GIL,11/06/2018,1C,1C County Library ,360,United States Senator, ,120000,OverVotes, ,"0
+"
+230,GIL,11/06/2018,1C,1C County Library ,360,United States Senator, ,120000,UnderVotes, ,"1
+"
+231,GIL,11/06/2018,1C,1C County Library ,360,Representative in Congress, District 2,140020,Neal Dunn,REP,"109
+"
+232,GIL,11/06/2018,1C,1C County Library ,360,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"85
+"
+233,GIL,11/06/2018,1C,1C County Library ,360,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+234,GIL,11/06/2018,1C,1C County Library ,360,Representative in Congress, District 2,140020,UnderVotes, ,"1
+"
+235,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,DeSantis / NuÃ±ez,REP,"113
+"
+236,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,Gillum / King,DEM,"81
+"
+237,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,Richardson / Argenziano,REF,"0
+"
+238,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+239,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+240,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+241,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,WriteinVotes, ,"0
+"
+242,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,OverVotes, ,"0
+"
+243,GIL,11/06/2018,1C,1C County Library ,360,Governor, ,160000,UnderVotes, ,"1
+"
+244,GIL,11/06/2018,1C,1C County Library ,360,Attorney General, ,160200,Ashley Moody,REP,"117
+"
+245,GIL,11/06/2018,1C,1C County Library ,360,Attorney General, ,160200,Sean Shaw,DEM,"75
+"
+246,GIL,11/06/2018,1C,1C County Library ,360,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"1
+"
+247,GIL,11/06/2018,1C,1C County Library ,360,Attorney General, ,160200,OverVotes, ,"0
+"
+248,GIL,11/06/2018,1C,1C County Library ,360,Attorney General, ,160200,UnderVotes, ,"2
+"
+249,GIL,11/06/2018,1C,1C County Library ,360,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"106
+"
+250,GIL,11/06/2018,1C,1C County Library ,360,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"88
+"
+251,GIL,11/06/2018,1C,1C County Library ,360,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+252,GIL,11/06/2018,1C,1C County Library ,360,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+253,GIL,11/06/2018,1C,1C County Library ,360,Chief Financial Officer, ,160500,UnderVotes, ,"1
+"
+254,GIL,11/06/2018,1C,1C County Library ,360,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"112
+"
+255,GIL,11/06/2018,1C,1C County Library ,360,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"81
+"
+256,GIL,11/06/2018,1C,1C County Library ,360,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+257,GIL,11/06/2018,1C,1C County Library ,360,Commissioner of Agriculture, ,160800,UnderVotes, ,"2
+"
+258,GIL,11/06/2018,1C,1C County Library ,360,State Representative, District 21,260210,Chuck Clemons,REP,"114
+"
+259,GIL,11/06/2018,1C,1C County Library ,360,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"79
+"
+260,GIL,11/06/2018,1C,1C County Library ,360,State Representative, District 21,260210,OverVotes, ,"0
+"
+261,GIL,11/06/2018,1C,1C County Library ,360,State Representative, District 21,260210,UnderVotes, ,"2
+"
+262,GIL,11/06/2018,1C,1C County Library ,360,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"118
+"
+263,GIL,11/06/2018,1C,1C County Library ,360,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"60
+"
+264,GIL,11/06/2018,1C,1C County Library ,360,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+265,GIL,11/06/2018,1C,1C County Library ,360,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"17
+"
+266,GIL,11/06/2018,1C,1C County Library ,360,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"113
+"
+267,GIL,11/06/2018,1C,1C County Library ,360,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"60
+"
+268,GIL,11/06/2018,1C,1C County Library ,360,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+269,GIL,11/06/2018,1C,1C County Library ,360,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"22
+"
+270,GIL,11/06/2018,1C,1C County Library ,360,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"118
+"
+271,GIL,11/06/2018,1C,1C County Library ,360,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"54
+"
+272,GIL,11/06/2018,1C,1C County Library ,360,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+273,GIL,11/06/2018,1C,1C County Library ,360,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"23
+"
+274,GIL,11/06/2018,1C,1C County Library ,360,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"121
+"
+275,GIL,11/06/2018,1C,1C County Library ,360,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"52
+"
+276,GIL,11/06/2018,1C,1C County Library ,360,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+277,GIL,11/06/2018,1C,1C County Library ,360,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"22
+"
+278,GIL,11/06/2018,1C,1C County Library ,360,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"112
+"
+279,GIL,11/06/2018,1C,1C County Library ,360,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"60
+"
+280,GIL,11/06/2018,1C,1C County Library ,360,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+281,GIL,11/06/2018,1C,1C County Library ,360,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"23
+"
+282,GIL,11/06/2018,1C,1C County Library ,360,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"110
+"
+283,GIL,11/06/2018,1C,1C County Library ,360,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"60
+"
+284,GIL,11/06/2018,1C,1C County Library ,360,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+285,GIL,11/06/2018,1C,1C County Library ,360,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"25
+"
+286,GIL,11/06/2018,1C,1C County Library ,360,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"73
+"
+287,GIL,11/06/2018,1C,1C County Library ,360,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"106
+"
+288,GIL,11/06/2018,1C,1C County Library ,360,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"0
+"
+289,GIL,11/06/2018,1C,1C County Library ,360,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+290,GIL,11/06/2018,1C,1C County Library ,360,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"16
+"
+291,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"98
+"
+292,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"86
+"
+293,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+294,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"11
+"
+295,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"105
+"
+296,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"80
+"
+297,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+298,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"10
+"
+299,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"140
+"
+300,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"47
+"
+301,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+302,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"8
+"
+303,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"108
+"
+304,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"80
+"
+305,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+306,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"7
+"
+307,GIL,11/06/2018,1C,1C County Library ,360,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"125
+"
+308,GIL,11/06/2018,1C,1C County Library ,360,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"59
+"
+309,GIL,11/06/2018,1C,1C County Library ,360,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+310,GIL,11/06/2018,1C,1C County Library ,360,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"11
+"
+311,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"122
+"
+312,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"65
+"
+313,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+314,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"8
+"
+315,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"120
+"
+316,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"66
+"
+317,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+318,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"9
+"
+319,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"95
+"
+320,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"88
+"
+321,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+322,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"12
+"
+323,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"124
+"
+324,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"59
+"
+325,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+326,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"12
+"
+327,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"88
+"
+328,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"91
+"
+329,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+330,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"16
+"
+331,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"122
+"
+332,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"64
+"
+333,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+334,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"9
+"
+335,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"76
+"
+336,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"111
+"
+337,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+338,GIL,11/06/2018,1C,1C County Library ,360,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"8
+"
+339,GIL,11/06/2018,2A,2A Donnie Center ,1652,United States Senator, ,120000,Rick Scott,REP,"888
+"
+340,GIL,11/06/2018,2A,2A Donnie Center ,1652,United States Senator, ,120000,Bill Nelson,DEM,"208
+"
+341,GIL,11/06/2018,2A,2A Donnie Center ,1652,United States Senator, ,120000,WriteinVotes, ,"6
+"
+342,GIL,11/06/2018,2A,2A Donnie Center ,1652,United States Senator, ,120000,OverVotes, ,"0
+"
+343,GIL,11/06/2018,2A,2A Donnie Center ,1652,United States Senator, ,120000,UnderVotes, ,"4
+"
+344,GIL,11/06/2018,2A,2A Donnie Center ,1652,Representative in Congress, District 2,140020,Neal Dunn,REP,"930
+"
+345,GIL,11/06/2018,2A,2A Donnie Center ,1652,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"161
+"
+346,GIL,11/06/2018,2A,2A Donnie Center ,1652,Representative in Congress, District 2,140020,OverVotes, ,"1
+"
+347,GIL,11/06/2018,2A,2A Donnie Center ,1652,Representative in Congress, District 2,140020,UnderVotes, ,"14
+"
+348,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,DeSantis / NuÃ±ez,REP,"934
+"
+349,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,Gillum / King,DEM,"156
+"
+350,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,Richardson / Argenziano,REF,"7
+"
+351,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,Gibson / Wilds,NPA,"5
+"
+352,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+353,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+354,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,WriteinVotes, ,"0
+"
+355,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,OverVotes, ,"2
+"
+356,GIL,11/06/2018,2A,2A Donnie Center ,1652,Governor, ,160000,UnderVotes, ,"2
+"
+357,GIL,11/06/2018,2A,2A Donnie Center ,1652,Attorney General, ,160200,Ashley Moody,REP,"958
+"
+358,GIL,11/06/2018,2A,2A Donnie Center ,1652,Attorney General, ,160200,Sean Shaw,DEM,"118
+"
+359,GIL,11/06/2018,2A,2A Donnie Center ,1652,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"20
+"
+360,GIL,11/06/2018,2A,2A Donnie Center ,1652,Attorney General, ,160200,OverVotes, ,"0
+"
+361,GIL,11/06/2018,2A,2A Donnie Center ,1652,Attorney General, ,160200,UnderVotes, ,"10
+"
+362,GIL,11/06/2018,2A,2A Donnie Center ,1652,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"926
+"
+363,GIL,11/06/2018,2A,2A Donnie Center ,1652,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"159
+"
+364,GIL,11/06/2018,2A,2A Donnie Center ,1652,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+365,GIL,11/06/2018,2A,2A Donnie Center ,1652,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+366,GIL,11/06/2018,2A,2A Donnie Center ,1652,Chief Financial Officer, ,160500,UnderVotes, ,"21
+"
+367,GIL,11/06/2018,2A,2A Donnie Center ,1652,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"935
+"
+368,GIL,11/06/2018,2A,2A Donnie Center ,1652,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"162
+"
+369,GIL,11/06/2018,2A,2A Donnie Center ,1652,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+370,GIL,11/06/2018,2A,2A Donnie Center ,1652,Commissioner of Agriculture, ,160800,UnderVotes, ,"9
+"
+371,GIL,11/06/2018,2A,2A Donnie Center ,1652,State Representative, District 21,260210,Chuck Clemons,REP,"955
+"
+372,GIL,11/06/2018,2A,2A Donnie Center ,1652,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"141
+"
+373,GIL,11/06/2018,2A,2A Donnie Center ,1652,State Representative, District 21,260210,OverVotes, ,"0
+"
+374,GIL,11/06/2018,2A,2A Donnie Center ,1652,State Representative, District 21,260210,UnderVotes, ,"10
+"
+375,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"686
+"
+376,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"327
+"
+377,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+378,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"93
+"
+379,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"662
+"
+380,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"344
+"
+381,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+382,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"100
+"
+383,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"667
+"
+384,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"332
+"
+385,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+386,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"107
+"
+387,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"663
+"
+388,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"337
+"
+389,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+390,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"106
+"
+391,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"641
+"
+392,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"357
+"
+393,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+394,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"107
+"
+395,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"651
+"
+396,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"345
+"
+397,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+398,GIL,11/06/2018,2A,2A Donnie Center ,1652,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"110
+"
+399,GIL,11/06/2018,2A,2A Donnie Center ,1652,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"743
+"
+400,GIL,11/06/2018,2A,2A Donnie Center ,1652,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"254
+"
+401,GIL,11/06/2018,2A,2A Donnie Center ,1652,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"10
+"
+402,GIL,11/06/2018,2A,2A Donnie Center ,1652,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+403,GIL,11/06/2018,2A,2A Donnie Center ,1652,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"99
+"
+404,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"598
+"
+405,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"480
+"
+406,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+407,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"28
+"
+408,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"724
+"
+409,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"350
+"
+410,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+411,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"32
+"
+412,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"678
+"
+413,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"406
+"
+414,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+415,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"22
+"
+416,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"435
+"
+417,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"653
+"
+418,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"2
+"
+419,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"16
+"
+420,GIL,11/06/2018,2A,2A Donnie Center ,1652,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"770
+"
+421,GIL,11/06/2018,2A,2A Donnie Center ,1652,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"314
+"
+422,GIL,11/06/2018,2A,2A Donnie Center ,1652,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+423,GIL,11/06/2018,2A,2A Donnie Center ,1652,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"22
+"
+424,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"639
+"
+425,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"444
+"
+426,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+427,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"23
+"
+428,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"647
+"
+429,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"426
+"
+430,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+431,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"33
+"
+432,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"501
+"
+433,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"576
+"
+434,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+435,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"27
+"
+436,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"681
+"
+437,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"392
+"
+438,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+439,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"33
+"
+440,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"496
+"
+441,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"558
+"
+442,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+443,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"52
+"
+444,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"678
+"
+445,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"386
+"
+446,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+447,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"42
+"
+448,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"402
+"
+449,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"689
+"
+450,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+451,GIL,11/06/2018,2A,2A Donnie Center ,1652,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"14
+"
+452,GIL,11/06/2018,3A,3A Bell Community Center ,1512,United States Senator, ,120000,Rick Scott,REP,"764
+"
+453,GIL,11/06/2018,3A,3A Bell Community Center ,1512,United States Senator, ,120000,Bill Nelson,DEM,"194
+"
+454,GIL,11/06/2018,3A,3A Bell Community Center ,1512,United States Senator, ,120000,WriteinVotes, ,"4
+"
+455,GIL,11/06/2018,3A,3A Bell Community Center ,1512,United States Senator, ,120000,OverVotes, ,"0
+"
+456,GIL,11/06/2018,3A,3A Bell Community Center ,1512,United States Senator, ,120000,UnderVotes, ,"5
+"
+457,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Representative in Congress, District 2,140020,Neal Dunn,REP,"806
+"
+458,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"145
+"
+459,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+460,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Representative in Congress, District 2,140020,UnderVotes, ,"16
+"
+461,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,DeSantis / NuÃ±ez,REP,"802
+"
+462,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,Gillum / King,DEM,"141
+"
+463,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,Richardson / Argenziano,REF,"4
+"
+464,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+465,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+466,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,Stanley / McJury,NPA,"5
+"
+467,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,WriteinVotes, ,"0
+"
+468,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,OverVotes, ,"2
+"
+469,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Governor, ,160000,UnderVotes, ,"8
+"
+470,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Attorney General, ,160200,Ashley Moody,REP,"813
+"
+471,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Attorney General, ,160200,Sean Shaw,DEM,"132
+"
+472,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"10
+"
+473,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Attorney General, ,160200,OverVotes, ,"0
+"
+474,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Attorney General, ,160200,UnderVotes, ,"12
+"
+475,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"793
+"
+476,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"148
+"
+477,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+478,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+479,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Chief Financial Officer, ,160500,UnderVotes, ,"26
+"
+480,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"805
+"
+481,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"147
+"
+482,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+483,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Commissioner of Agriculture, ,160800,UnderVotes, ,"15
+"
+484,GIL,11/06/2018,3A,3A Bell Community Center ,1512,State Representative, District 21,260210,Chuck Clemons,REP,"835
+"
+485,GIL,11/06/2018,3A,3A Bell Community Center ,1512,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"119
+"
+486,GIL,11/06/2018,3A,3A Bell Community Center ,1512,State Representative, District 21,260210,OverVotes, ,"0
+"
+487,GIL,11/06/2018,3A,3A Bell Community Center ,1512,State Representative, District 21,260210,UnderVotes, ,"13
+"
+488,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"591
+"
+489,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"289
+"
+490,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+491,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"87
+"
+492,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"571
+"
+493,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"314
+"
+494,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"2
+"
+495,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"80
+"
+496,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"585
+"
+497,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"297
+"
+498,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"1
+"
+499,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"84
+"
+500,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"577
+"
+501,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"300
+"
+502,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"2
+"
+503,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"88
+"
+504,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"577
+"
+505,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"302
+"
+506,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+507,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"88
+"
+508,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"569
+"
+509,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"304
+"
+510,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"1
+"
+511,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"93
+"
+512,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"655
+"
+513,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"234
+"
+514,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"0
+"
+515,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+516,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"78
+"
+517,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"525
+"
+518,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"411
+"
+519,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+520,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"30
+"
+521,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"631
+"
+522,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"297
+"
+523,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+524,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"38
+"
+525,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"679
+"
+526,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"269
+"
+527,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+528,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"19
+"
+529,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"394
+"
+530,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"552
+"
+531,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+532,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"21
+"
+533,GIL,11/06/2018,3A,3A Bell Community Center ,1512,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"714
+"
+534,GIL,11/06/2018,3A,3A Bell Community Center ,1512,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"229
+"
+535,GIL,11/06/2018,3A,3A Bell Community Center ,1512,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+536,GIL,11/06/2018,3A,3A Bell Community Center ,1512,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"24
+"
+537,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"580
+"
+538,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"362
+"
+539,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+540,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"25
+"
+541,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"625
+"
+542,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"314
+"
+543,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+544,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"28
+"
+545,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"471
+"
+546,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"466
+"
+547,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+548,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"29
+"
+549,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"658
+"
+550,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"267
+"
+551,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+552,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"42
+"
+553,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"469
+"
+554,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"446
+"
+555,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+556,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"52
+"
+557,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"676
+"
+558,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"249
+"
+559,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+560,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"42
+"
+561,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"375
+"
+562,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"567
+"
+563,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+564,GIL,11/06/2018,3A,3A Bell Community Center ,1512,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"23
+"
+565,GIL,11/06/2018,4A,4A Cruse Center ,1598,United States Senator, ,120000,Rick Scott,REP,"711
+"
+566,GIL,11/06/2018,4A,4A Cruse Center ,1598,United States Senator, ,120000,Bill Nelson,DEM,"234
+"
+567,GIL,11/06/2018,4A,4A Cruse Center ,1598,United States Senator, ,120000,WriteinVotes, ,"8
+"
+568,GIL,11/06/2018,4A,4A Cruse Center ,1598,United States Senator, ,120000,OverVotes, ,"0
+"
+569,GIL,11/06/2018,4A,4A Cruse Center ,1598,United States Senator, ,120000,UnderVotes, ,"13
+"
+570,GIL,11/06/2018,4A,4A Cruse Center ,1598,Representative in Congress, District 2,140020,Neal Dunn,REP,"774
+"
+571,GIL,11/06/2018,4A,4A Cruse Center ,1598,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"172
+"
+572,GIL,11/06/2018,4A,4A Cruse Center ,1598,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+573,GIL,11/06/2018,4A,4A Cruse Center ,1598,Representative in Congress, District 2,140020,UnderVotes, ,"20
+"
+574,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,DeSantis / NuÃ±ez,REP,"770
+"
+575,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,Gillum / King,DEM,"169
+"
+576,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,Richardson / Argenziano,REF,"14
+"
+577,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+578,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,Foley / Tutton,NPA,"3
+"
+579,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+580,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,WriteinVotes, ,"1
+"
+581,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,OverVotes, ,"2
+"
+582,GIL,11/06/2018,4A,4A Cruse Center ,1598,Governor, ,160000,UnderVotes, ,"4
+"
+583,GIL,11/06/2018,4A,4A Cruse Center ,1598,Attorney General, ,160200,Ashley Moody,REP,"791
+"
+584,GIL,11/06/2018,4A,4A Cruse Center ,1598,Attorney General, ,160200,Sean Shaw,DEM,"143
+"
+585,GIL,11/06/2018,4A,4A Cruse Center ,1598,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"18
+"
+586,GIL,11/06/2018,4A,4A Cruse Center ,1598,Attorney General, ,160200,OverVotes, ,"0
+"
+587,GIL,11/06/2018,4A,4A Cruse Center ,1598,Attorney General, ,160200,UnderVotes, ,"14
+"
+588,GIL,11/06/2018,4A,4A Cruse Center ,1598,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"757
+"
+589,GIL,11/06/2018,4A,4A Cruse Center ,1598,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"174
+"
+590,GIL,11/06/2018,4A,4A Cruse Center ,1598,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+591,GIL,11/06/2018,4A,4A Cruse Center ,1598,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+592,GIL,11/06/2018,4A,4A Cruse Center ,1598,Chief Financial Officer, ,160500,UnderVotes, ,"34
+"
+593,GIL,11/06/2018,4A,4A Cruse Center ,1598,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"771
+"
+594,GIL,11/06/2018,4A,4A Cruse Center ,1598,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"171
+"
+595,GIL,11/06/2018,4A,4A Cruse Center ,1598,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+596,GIL,11/06/2018,4A,4A Cruse Center ,1598,Commissioner of Agriculture, ,160800,UnderVotes, ,"24
+"
+597,GIL,11/06/2018,4A,4A Cruse Center ,1598,State Representative, District 21,260210,Chuck Clemons,REP,"803
+"
+598,GIL,11/06/2018,4A,4A Cruse Center ,1598,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"146
+"
+599,GIL,11/06/2018,4A,4A Cruse Center ,1598,State Representative, District 21,260210,OverVotes, ,"0
+"
+600,GIL,11/06/2018,4A,4A Cruse Center ,1598,State Representative, District 21,260210,UnderVotes, ,"17
+"
+601,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"592
+"
+602,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"280
+"
+603,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+604,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"94
+"
+605,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"572
+"
+606,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"298
+"
+607,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+608,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"95
+"
+609,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"577
+"
+610,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"295
+"
+611,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+612,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"94
+"
+613,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"554
+"
+614,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"312
+"
+615,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+616,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"100
+"
+617,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"551
+"
+618,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"319
+"
+619,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+620,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"96
+"
+621,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"555
+"
+622,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"311
+"
+623,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+624,GIL,11/06/2018,4A,4A Cruse Center ,1598,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"100
+"
+625,GIL,11/06/2018,4A,4A Cruse Center ,1598,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"611
+"
+626,GIL,11/06/2018,4A,4A Cruse Center ,1598,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"266
+"
+627,GIL,11/06/2018,4A,4A Cruse Center ,1598,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"0
+"
+628,GIL,11/06/2018,4A,4A Cruse Center ,1598,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+629,GIL,11/06/2018,4A,4A Cruse Center ,1598,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"89
+"
+630,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"577
+"
+631,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"363
+"
+632,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+633,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"26
+"
+634,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"653
+"
+635,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"289
+"
+636,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+637,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"23
+"
+638,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"698
+"
+639,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"250
+"
+640,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+641,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"18
+"
+642,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"424
+"
+643,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"521
+"
+644,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+645,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"21
+"
+646,GIL,11/06/2018,4A,4A Cruse Center ,1598,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"717
+"
+647,GIL,11/06/2018,4A,4A Cruse Center ,1598,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"225
+"
+648,GIL,11/06/2018,4A,4A Cruse Center ,1598,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+649,GIL,11/06/2018,4A,4A Cruse Center ,1598,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"24
+"
+650,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"591
+"
+651,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"351
+"
+652,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+653,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"24
+"
+654,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"615
+"
+655,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"320
+"
+656,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+657,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"31
+"
+658,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"512
+"
+659,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"422
+"
+660,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+661,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"30
+"
+662,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"635
+"
+663,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"291
+"
+664,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+665,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"39
+"
+666,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"510
+"
+667,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"402
+"
+668,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+669,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"54
+"
+670,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"702
+"
+671,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"225
+"
+672,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+673,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"39
+"
+674,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"414
+"
+675,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"520
+"
+676,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+677,GIL,11/06/2018,4A,4A Cruse Center ,1598,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"32
+"
+678,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,United States Senator, ,120000,Rick Scott,REP,"453
+"
+679,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,United States Senator, ,120000,Bill Nelson,DEM,"126
+"
+680,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,United States Senator, ,120000,WriteinVotes, ,"1
+"
+681,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,United States Senator, ,120000,OverVotes, ,"1
+"
+682,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,United States Senator, ,120000,UnderVotes, ,"5
+"
+683,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Representative in Congress, District 2,140020,Neal Dunn,REP,"479
+"
+684,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"100
+"
+685,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+686,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Representative in Congress, District 2,140020,UnderVotes, ,"7
+"
+687,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,DeSantis / NuÃ±ez,REP,"473
+"
+688,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,Gillum / King,DEM,"97
+"
+689,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+690,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+691,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+692,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+693,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,WriteinVotes, ,"0
+"
+694,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,OverVotes, ,"4
+"
+695,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Governor, ,160000,UnderVotes, ,"4
+"
+696,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Attorney General, ,160200,Ashley Moody,REP,"488
+"
+697,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Attorney General, ,160200,Sean Shaw,DEM,"88
+"
+698,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"3
+"
+699,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Attorney General, ,160200,OverVotes, ,"0
+"
+700,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Attorney General, ,160200,UnderVotes, ,"7
+"
+701,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"468
+"
+702,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"104
+"
+703,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+704,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Chief Financial Officer, ,160500,OverVotes, ,"1
+"
+705,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Chief Financial Officer, ,160500,UnderVotes, ,"12
+"
+706,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"474
+"
+707,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"104
+"
+708,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+709,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Commissioner of Agriculture, ,160800,UnderVotes, ,"8
+"
+710,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,State Representative, District 21,260210,Chuck Clemons,REP,"490
+"
+711,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"90
+"
+712,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,State Representative, District 21,260210,OverVotes, ,"0
+"
+713,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,State Representative, District 21,260210,UnderVotes, ,"6
+"
+714,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"354
+"
+715,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"166
+"
+716,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+717,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"66
+"
+718,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"348
+"
+719,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"175
+"
+720,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+721,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"62
+"
+722,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"352
+"
+723,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"170
+"
+724,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+725,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"64
+"
+726,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"342
+"
+727,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"181
+"
+728,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+729,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"63
+"
+730,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"343
+"
+731,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"176
+"
+732,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+733,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"66
+"
+734,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"341
+"
+735,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"179
+"
+736,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+737,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"66
+"
+738,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"355
+"
+739,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"159
+"
+740,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"2
+"
+741,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"1
+"
+742,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"69
+"
+743,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"355
+"
+744,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"215
+"
+745,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+746,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"16
+"
+747,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"408
+"
+748,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"161
+"
+749,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+750,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"17
+"
+751,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"418
+"
+752,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"158
+"
+753,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+754,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"10
+"
+755,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"278
+"
+756,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"300
+"
+757,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+758,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"8
+"
+759,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"433
+"
+760,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"138
+"
+761,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+762,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"15
+"
+763,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"348
+"
+764,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"220
+"
+765,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+766,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"18
+"
+767,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"362
+"
+768,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"199
+"
+769,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+770,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"25
+"
+771,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"297
+"
+772,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"268
+"
+773,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+774,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"21
+"
+775,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"389
+"
+776,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"172
+"
+777,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+778,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"25
+"
+779,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"289
+"
+780,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"259
+"
+781,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+782,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"38
+"
+783,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"432
+"
+784,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"132
+"
+785,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+786,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"22
+"
+787,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"265
+"
+788,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"311
+"
+789,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+790,GIL,11/06/2018,5A,5A N Gilchrist Fire Station ,873,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"10
+"
+791,GIL,11/06/2018,6A,6A Osteen Center ,1729,United States Senator, ,120000,Rick Scott,REP,"902
+"
+792,GIL,11/06/2018,6A,6A Osteen Center ,1729,United States Senator, ,120000,Bill Nelson,DEM,"221
+"
+793,GIL,11/06/2018,6A,6A Osteen Center ,1729,United States Senator, ,120000,WriteinVotes, ,"4
+"
+794,GIL,11/06/2018,6A,6A Osteen Center ,1729,United States Senator, ,120000,OverVotes, ,"1
+"
+795,GIL,11/06/2018,6A,6A Osteen Center ,1729,United States Senator, ,120000,UnderVotes, ,"10
+"
+796,GIL,11/06/2018,6A,6A Osteen Center ,1729,Representative in Congress, District 2,140020,Neal Dunn,REP,"943
+"
+797,GIL,11/06/2018,6A,6A Osteen Center ,1729,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"181
+"
+798,GIL,11/06/2018,6A,6A Osteen Center ,1729,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+799,GIL,11/06/2018,6A,6A Osteen Center ,1729,Representative in Congress, District 2,140020,UnderVotes, ,"13
+"
+800,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,DeSantis / NuÃ±ez,REP,"940
+"
+801,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,Gillum / King,DEM,"173
+"
+802,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,Richardson / Argenziano,REF,"4
+"
+803,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,Gibson / Wilds,NPA,"4
+"
+804,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,Foley / Tutton,NPA,"4
+"
+805,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,Stanley / McJury,NPA,"2
+"
+806,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,WriteinVotes, ,"1
+"
+807,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,OverVotes, ,"1
+"
+808,GIL,11/06/2018,6A,6A Osteen Center ,1729,Governor, ,160000,UnderVotes, ,"8
+"
+809,GIL,11/06/2018,6A,6A Osteen Center ,1729,Attorney General, ,160200,Ashley Moody,REP,"941
+"
+810,GIL,11/06/2018,6A,6A Osteen Center ,1729,Attorney General, ,160200,Sean Shaw,DEM,"163
+"
+811,GIL,11/06/2018,6A,6A Osteen Center ,1729,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"12
+"
+812,GIL,11/06/2018,6A,6A Osteen Center ,1729,Attorney General, ,160200,OverVotes, ,"0
+"
+813,GIL,11/06/2018,6A,6A Osteen Center ,1729,Attorney General, ,160200,UnderVotes, ,"21
+"
+814,GIL,11/06/2018,6A,6A Osteen Center ,1729,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"924
+"
+815,GIL,11/06/2018,6A,6A Osteen Center ,1729,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"184
+"
+816,GIL,11/06/2018,6A,6A Osteen Center ,1729,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+817,GIL,11/06/2018,6A,6A Osteen Center ,1729,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+818,GIL,11/06/2018,6A,6A Osteen Center ,1729,Chief Financial Officer, ,160500,UnderVotes, ,"28
+"
+819,GIL,11/06/2018,6A,6A Osteen Center ,1729,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"933
+"
+820,GIL,11/06/2018,6A,6A Osteen Center ,1729,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"182
+"
+821,GIL,11/06/2018,6A,6A Osteen Center ,1729,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+822,GIL,11/06/2018,6A,6A Osteen Center ,1729,Commissioner of Agriculture, ,160800,UnderVotes, ,"22
+"
+823,GIL,11/06/2018,6A,6A Osteen Center ,1729,State Representative, District 21,260210,Chuck Clemons,REP,"953
+"
+824,GIL,11/06/2018,6A,6A Osteen Center ,1729,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"163
+"
+825,GIL,11/06/2018,6A,6A Osteen Center ,1729,State Representative, District 21,260210,OverVotes, ,"0
+"
+826,GIL,11/06/2018,6A,6A Osteen Center ,1729,State Representative, District 21,260210,UnderVotes, ,"21
+"
+827,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"712
+"
+828,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"319
+"
+829,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+830,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"106
+"
+831,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"698
+"
+832,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"328
+"
+833,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+834,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"110
+"
+835,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"711
+"
+836,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"313
+"
+837,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+838,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"113
+"
+839,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"687
+"
+840,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"335
+"
+841,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+842,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"114
+"
+843,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"687
+"
+844,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"336
+"
+845,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+846,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"114
+"
+847,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"688
+"
+848,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"328
+"
+849,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+850,GIL,11/06/2018,6A,6A Osteen Center ,1729,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"121
+"
+851,GIL,11/06/2018,6A,6A Osteen Center ,1729,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"667
+"
+852,GIL,11/06/2018,6A,6A Osteen Center ,1729,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"349
+"
+853,GIL,11/06/2018,6A,6A Osteen Center ,1729,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"9
+"
+854,GIL,11/06/2018,6A,6A Osteen Center ,1729,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+855,GIL,11/06/2018,6A,6A Osteen Center ,1729,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"112
+"
+856,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"674
+"
+857,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"425
+"
+858,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+859,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"38
+"
+860,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"792
+"
+861,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"302
+"
+862,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+863,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"43
+"
+864,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"804
+"
+865,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"316
+"
+866,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+867,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"16
+"
+868,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"467
+"
+869,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"653
+"
+870,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+871,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"17
+"
+872,GIL,11/06/2018,6A,6A Osteen Center ,1729,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"865
+"
+873,GIL,11/06/2018,6A,6A Osteen Center ,1729,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"249
+"
+874,GIL,11/06/2018,6A,6A Osteen Center ,1729,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+875,GIL,11/06/2018,6A,6A Osteen Center ,1729,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"23
+"
+876,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"656
+"
+877,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"455
+"
+878,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+879,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"26
+"
+880,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"702
+"
+881,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"406
+"
+882,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+883,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"29
+"
+884,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"526
+"
+885,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"579
+"
+886,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+887,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"30
+"
+888,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"724
+"
+889,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"369
+"
+890,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+891,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"43
+"
+892,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"548
+"
+893,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"536
+"
+894,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+895,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"52
+"
+896,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"826
+"
+897,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"267
+"
+898,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+899,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"44
+"
+900,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"471
+"
+901,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"642
+"
+902,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+903,GIL,11/06/2018,6A,6A Osteen Center ,1729,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"23
+"
+904,GIL,11/06/2018,7A,7A Osceola Center ,1215,United States Senator, ,120000,Rick Scott,REP,"604
+"
+905,GIL,11/06/2018,7A,7A Osceola Center ,1215,United States Senator, ,120000,Bill Nelson,DEM,"162
+"
+906,GIL,11/06/2018,7A,7A Osceola Center ,1215,United States Senator, ,120000,WriteinVotes, ,"2
+"
+907,GIL,11/06/2018,7A,7A Osceola Center ,1215,United States Senator, ,120000,OverVotes, ,"0
+"
+908,GIL,11/06/2018,7A,7A Osceola Center ,1215,United States Senator, ,120000,UnderVotes, ,"8
+"
+909,GIL,11/06/2018,7A,7A Osceola Center ,1215,Representative in Congress, District 2,140020,Neal Dunn,REP,"624
+"
+910,GIL,11/06/2018,7A,7A Osceola Center ,1215,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"139
+"
+911,GIL,11/06/2018,7A,7A Osceola Center ,1215,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+912,GIL,11/06/2018,7A,7A Osceola Center ,1215,Representative in Congress, District 2,140020,UnderVotes, ,"13
+"
+913,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,DeSantis / NuÃ±ez,REP,"624
+"
+914,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,Gillum / King,DEM,"134
+"
+915,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+916,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,Gibson / Wilds,NPA,"5
+"
+917,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,Foley / Tutton,NPA,"4
+"
+918,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+919,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,WriteinVotes, ,"0
+"
+920,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,OverVotes, ,"1
+"
+921,GIL,11/06/2018,7A,7A Osceola Center ,1215,Governor, ,160000,UnderVotes, ,"4
+"
+922,GIL,11/06/2018,7A,7A Osceola Center ,1215,Attorney General, ,160200,Ashley Moody,REP,"632
+"
+923,GIL,11/06/2018,7A,7A Osceola Center ,1215,Attorney General, ,160200,Sean Shaw,DEM,"126
+"
+924,GIL,11/06/2018,7A,7A Osceola Center ,1215,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"8
+"
+925,GIL,11/06/2018,7A,7A Osceola Center ,1215,Attorney General, ,160200,OverVotes, ,"0
+"
+926,GIL,11/06/2018,7A,7A Osceola Center ,1215,Attorney General, ,160200,UnderVotes, ,"10
+"
+927,GIL,11/06/2018,7A,7A Osceola Center ,1215,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"610
+"
+928,GIL,11/06/2018,7A,7A Osceola Center ,1215,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"142
+"
+929,GIL,11/06/2018,7A,7A Osceola Center ,1215,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+930,GIL,11/06/2018,7A,7A Osceola Center ,1215,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+931,GIL,11/06/2018,7A,7A Osceola Center ,1215,Chief Financial Officer, ,160500,UnderVotes, ,"24
+"
+932,GIL,11/06/2018,7A,7A Osceola Center ,1215,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"624
+"
+933,GIL,11/06/2018,7A,7A Osceola Center ,1215,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"142
+"
+934,GIL,11/06/2018,7A,7A Osceola Center ,1215,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+935,GIL,11/06/2018,7A,7A Osceola Center ,1215,Commissioner of Agriculture, ,160800,UnderVotes, ,"10
+"
+936,GIL,11/06/2018,7A,7A Osceola Center ,1215,State Representative, District 21,260210,Chuck Clemons,REP,"638
+"
+937,GIL,11/06/2018,7A,7A Osceola Center ,1215,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"127
+"
+938,GIL,11/06/2018,7A,7A Osceola Center ,1215,State Representative, District 21,260210,OverVotes, ,"0
+"
+939,GIL,11/06/2018,7A,7A Osceola Center ,1215,State Representative, District 21,260210,UnderVotes, ,"11
+"
+940,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"470
+"
+941,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"220
+"
+942,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+943,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"86
+"
+944,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"468
+"
+945,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"219
+"
+946,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+947,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"88
+"
+948,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"461
+"
+949,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"221
+"
+950,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+951,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"94
+"
+952,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"448
+"
+953,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"233
+"
+954,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+955,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"95
+"
+956,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"441
+"
+957,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"240
+"
+958,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+959,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"95
+"
+960,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"460
+"
+961,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"220
+"
+962,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+963,GIL,11/06/2018,7A,7A Osceola Center ,1215,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"96
+"
+964,GIL,11/06/2018,7A,7A Osceola Center ,1215,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"466
+"
+965,GIL,11/06/2018,7A,7A Osceola Center ,1215,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"220
+"
+966,GIL,11/06/2018,7A,7A Osceola Center ,1215,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"3
+"
+967,GIL,11/06/2018,7A,7A Osceola Center ,1215,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+968,GIL,11/06/2018,7A,7A Osceola Center ,1215,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"87
+"
+969,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"486
+"
+970,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"270
+"
+971,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+972,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"20
+"
+973,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"532
+"
+974,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"220
+"
+975,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+976,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"24
+"
+977,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"549
+"
+978,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"210
+"
+979,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+980,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"17
+"
+981,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"348
+"
+982,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"416
+"
+983,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+984,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"12
+"
+985,GIL,11/06/2018,7A,7A Osceola Center ,1215,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"570
+"
+986,GIL,11/06/2018,7A,7A Osceola Center ,1215,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"190
+"
+987,GIL,11/06/2018,7A,7A Osceola Center ,1215,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+988,GIL,11/06/2018,7A,7A Osceola Center ,1215,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"16
+"
+989,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"456
+"
+990,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"298
+"
+991,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+992,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"22
+"
+993,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"482
+"
+994,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"272
+"
+995,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+996,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"22
+"
+997,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"374
+"
+998,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"383
+"
+999,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+1000,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"18
+"
+1001,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"502
+"
+1002,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"252
+"
+1003,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1004,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"22
+"
+1005,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"397
+"
+1006,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"330
+"
+1007,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+1008,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"49
+"
+1009,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"552
+"
+1010,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"189
+"
+1011,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+1012,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"35
+"
+1013,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"286
+"
+1014,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"473
+"
+1015,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+1016,GIL,11/06/2018,7A,7A Osceola Center ,1215,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"17
+"
+1017,GIL,11/06/2018,8A,8A Southeast Center ,1268,United States Senator, ,120000,Rick Scott,REP,"530
+"
+1018,GIL,11/06/2018,8A,8A Southeast Center ,1268,United States Senator, ,120000,Bill Nelson,DEM,"192
+"
+1019,GIL,11/06/2018,8A,8A Southeast Center ,1268,United States Senator, ,120000,WriteinVotes, ,"4
+"
+1020,GIL,11/06/2018,8A,8A Southeast Center ,1268,United States Senator, ,120000,OverVotes, ,"0
+"
+1021,GIL,11/06/2018,8A,8A Southeast Center ,1268,United States Senator, ,120000,UnderVotes, ,"4
+"
+1022,GIL,11/06/2018,8A,8A Southeast Center ,1268,Representative in Congress, District 2,140020,Neal Dunn,REP,"543
+"
+1023,GIL,11/06/2018,8A,8A Southeast Center ,1268,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"177
+"
+1024,GIL,11/06/2018,8A,8A Southeast Center ,1268,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+1025,GIL,11/06/2018,8A,8A Southeast Center ,1268,Representative in Congress, District 2,140020,UnderVotes, ,"10
+"
+1026,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,DeSantis / NuÃ±ez,REP,"544
+"
+1027,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,Gillum / King,DEM,"167
+"
+1028,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,Richardson / Argenziano,REF,"6
+"
+1029,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,Gibson / Wilds,NPA,"4
+"
+1030,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+1031,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,Stanley / McJury,NPA,"3
+"
+1032,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,WriteinVotes, ,"1
+"
+1033,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,OverVotes, ,"1
+"
+1034,GIL,11/06/2018,8A,8A Southeast Center ,1268,Governor, ,160000,UnderVotes, ,"2
+"
+1035,GIL,11/06/2018,8A,8A Southeast Center ,1268,Attorney General, ,160200,Ashley Moody,REP,"562
+"
+1036,GIL,11/06/2018,8A,8A Southeast Center ,1268,Attorney General, ,160200,Sean Shaw,DEM,"154
+"
+1037,GIL,11/06/2018,8A,8A Southeast Center ,1268,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"9
+"
+1038,GIL,11/06/2018,8A,8A Southeast Center ,1268,Attorney General, ,160200,OverVotes, ,"1
+"
+1039,GIL,11/06/2018,8A,8A Southeast Center ,1268,Attorney General, ,160200,UnderVotes, ,"4
+"
+1040,GIL,11/06/2018,8A,8A Southeast Center ,1268,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"537
+"
+1041,GIL,11/06/2018,8A,8A Southeast Center ,1268,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"182
+"
+1042,GIL,11/06/2018,8A,8A Southeast Center ,1268,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+1043,GIL,11/06/2018,8A,8A Southeast Center ,1268,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+1044,GIL,11/06/2018,8A,8A Southeast Center ,1268,Chief Financial Officer, ,160500,UnderVotes, ,"11
+"
+1045,GIL,11/06/2018,8A,8A Southeast Center ,1268,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"548
+"
+1046,GIL,11/06/2018,8A,8A Southeast Center ,1268,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"176
+"
+1047,GIL,11/06/2018,8A,8A Southeast Center ,1268,Commissioner of Agriculture, ,160800,OverVotes, ,"1
+"
+1048,GIL,11/06/2018,8A,8A Southeast Center ,1268,Commissioner of Agriculture, ,160800,UnderVotes, ,"5
+"
+1049,GIL,11/06/2018,8A,8A Southeast Center ,1268,State Representative, District 21,260210,Chuck Clemons,REP,"552
+"
+1050,GIL,11/06/2018,8A,8A Southeast Center ,1268,State Representative, District 21,260210,Jason Lee Haeseler,DEM,"170
+"
+1051,GIL,11/06/2018,8A,8A Southeast Center ,1268,State Representative, District 21,260210,OverVotes, ,"0
+"
+1052,GIL,11/06/2018,8A,8A Southeast Center ,1268,State Representative, District 21,260210,UnderVotes, ,"8
+"
+1053,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"460
+"
+1054,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"187
+"
+1055,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+1056,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"83
+"
+1057,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"451
+"
+1058,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"196
+"
+1059,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+1060,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"82
+"
+1061,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"451
+"
+1062,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"192
+"
+1063,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+1064,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"87
+"
+1065,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"442
+"
+1066,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"200
+"
+1067,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+1068,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"88
+"
+1069,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"430
+"
+1070,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"213
+"
+1071,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+1072,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"87
+"
+1073,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"432
+"
+1074,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"209
+"
+1075,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+1076,GIL,11/06/2018,8A,8A Southeast Center ,1268,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"89
+"
+1077,GIL,11/06/2018,8A,8A Southeast Center ,1268,Circuit Judge," 8th Judicial Circuit, Group 8",550808,David Robertson,NOP,"413
+"
+1078,GIL,11/06/2018,8A,8A Southeast Center ,1268,Circuit Judge," 8th Judicial Circuit, Group 8",550808,Gloria Walker,NOP,"239
+"
+1079,GIL,11/06/2018,8A,8A Southeast Center ,1268,Circuit Judge," 8th Judicial Circuit, Group 8",550808,WriteinVotes, ,"6
+"
+1080,GIL,11/06/2018,8A,8A Southeast Center ,1268,Circuit Judge," 8th Judicial Circuit, Group 8",550808,OverVotes, ,"0
+"
+1081,GIL,11/06/2018,8A,8A Southeast Center ,1268,Circuit Judge," 8th Judicial Circuit, Group 8",550808,UnderVotes, ,"72
+"
+1082,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"419
+"
+1083,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"295
+"
+1084,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"2
+"
+1085,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"14
+"
+1086,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"470
+"
+1087,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"240
+"
+1088,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+1089,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"20
+"
+1090,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"511
+"
+1091,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"202
+"
+1092,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+1093,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"16
+"
+1094,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"386
+"
+1095,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"331
+"
+1096,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+1097,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"13
+"
+1098,GIL,11/06/2018,8A,8A Southeast Center ,1268,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"518
+"
+1099,GIL,11/06/2018,8A,8A Southeast Center ,1268,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"191
+"
+1100,GIL,11/06/2018,8A,8A Southeast Center ,1268,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+1101,GIL,11/06/2018,8A,8A Southeast Center ,1268,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"20
+"
+1102,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"415
+"
+1103,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"293
+"
+1104,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+1105,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"22
+"
+1106,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"458
+"
+1107,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"253
+"
+1108,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+1109,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"19
+"
+1110,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"362
+"
+1111,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"350
+"
+1112,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+1113,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"18
+"
+1114,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"461
+"
+1115,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"237
+"
+1116,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1117,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"32
+"
+1118,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"384
+"
+1119,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"298
+"
+1120,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+1121,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"47
+"
+1122,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"501
+"
+1123,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"198
+"
+1124,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+1125,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"31
+"
+1126,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"320
+"
+1127,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"394
+"
+1128,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+1129,GIL,11/06/2018,8A,8A Southeast Center ,1268,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"14
+"

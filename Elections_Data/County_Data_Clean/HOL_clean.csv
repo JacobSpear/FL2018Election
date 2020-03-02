@@ -1,0 +1,1865 @@
+,County Code,Election Date,Unique PCT Identifier,Precinct Polling Location,Total Registered,Contest Name,District,Contest Code,Candidate,Party,Vote Total
+0,HOL,11/06/2018,1,Ponce de Leon,1152,United States Senator, ,120000,Rick Scott,REP,"601
+"
+1,HOL,11/06/2018,1,Ponce de Leon,1152,United States Senator, ,120000,Bill Nelson,DEM,"97
+"
+2,HOL,11/06/2018,1,Ponce de Leon,1152,United States Senator, ,120000,WriteinVotes, ,"3
+"
+3,HOL,11/06/2018,1,Ponce de Leon,1152,United States Senator, ,120000,OverVotes, ,"0
+"
+4,HOL,11/06/2018,1,Ponce de Leon,1152,United States Senator, ,120000,UnderVotes, ,"7
+"
+5,HOL,11/06/2018,1,Ponce de Leon,1152,Representative in Congress, District 1,140010,Matt Gaetz,REP,"611
+"
+6,HOL,11/06/2018,1,Ponce de Leon,1152,Representative in Congress, District 1,140010,Jennifer M. Zimmerman,DEM,"90
+"
+7,HOL,11/06/2018,1,Ponce de Leon,1152,Representative in Congress, District 1,140010,OverVotes, ,"0
+"
+8,HOL,11/06/2018,1,Ponce de Leon,1152,Representative in Congress, District 1,140010,UnderVotes, ,"7
+"
+9,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,DeSantis / NuÃ±ez,REP,"612
+"
+10,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,Gillum / King,DEM,"77
+"
+11,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+12,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,Gibson / Wilds,NPA,"5
+"
+13,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+14,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,Stanley / McJury,NPA,"4
+"
+15,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,WriteinVotes, ,"0
+"
+16,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,OverVotes, ,"1
+"
+17,HOL,11/06/2018,1,Ponce de Leon,1152,Governor, ,160000,UnderVotes, ,"4
+"
+18,HOL,11/06/2018,1,Ponce de Leon,1152,Attorney General, ,160200,Ashley Moody,REP,"612
+"
+19,HOL,11/06/2018,1,Ponce de Leon,1152,Attorney General, ,160200,Sean Shaw,DEM,"78
+"
+20,HOL,11/06/2018,1,Ponce de Leon,1152,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"12
+"
+21,HOL,11/06/2018,1,Ponce de Leon,1152,Attorney General, ,160200,OverVotes, ,"0
+"
+22,HOL,11/06/2018,1,Ponce de Leon,1152,Attorney General, ,160200,UnderVotes, ,"6
+"
+23,HOL,11/06/2018,1,Ponce de Leon,1152,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"627
+"
+24,HOL,11/06/2018,1,Ponce de Leon,1152,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"70
+"
+25,HOL,11/06/2018,1,Ponce de Leon,1152,Chief Financial Officer, ,160500,WriteinVotes, ,"2
+"
+26,HOL,11/06/2018,1,Ponce de Leon,1152,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+27,HOL,11/06/2018,1,Ponce de Leon,1152,Chief Financial Officer, ,160500,UnderVotes, ,"9
+"
+28,HOL,11/06/2018,1,Ponce de Leon,1152,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"611
+"
+29,HOL,11/06/2018,1,Ponce de Leon,1152,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"86
+"
+30,HOL,11/06/2018,1,Ponce de Leon,1152,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+31,HOL,11/06/2018,1,Ponce de Leon,1152,Commissioner of Agriculture, ,160800,UnderVotes, ,"11
+"
+32,HOL,11/06/2018,1,Ponce de Leon,1152,State Senator, District 2,240020,George B. Gainer,REP,"614
+"
+33,HOL,11/06/2018,1,Ponce de Leon,1152,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"79
+"
+34,HOL,11/06/2018,1,Ponce de Leon,1152,State Senator, District 2,240020,OverVotes, ,"0
+"
+35,HOL,11/06/2018,1,Ponce de Leon,1152,State Senator, District 2,240020,UnderVotes, ,"15
+"
+36,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"417
+"
+37,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"227
+"
+38,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+39,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"64
+"
+40,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"410
+"
+41,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"222
+"
+42,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+43,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"75
+"
+44,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"394
+"
+45,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"234
+"
+46,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+47,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"80
+"
+48,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"408
+"
+49,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"225
+"
+50,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+51,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"75
+"
+52,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"394
+"
+53,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"237
+"
+54,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+55,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"77
+"
+56,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"406
+"
+57,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"226
+"
+58,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+59,HOL,11/06/2018,1,Ponce de Leon,1152,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"76
+"
+60,HOL,11/06/2018,1,Ponce de Leon,1152,School Board, District 1,690001,Kaci Howell Johnson,NOP,"461
+"
+61,HOL,11/06/2018,1,Ponce de Leon,1152,School Board, District 1,690001,Milton  Tad Wilson,NOP,"194
+"
+62,HOL,11/06/2018,1,Ponce de Leon,1152,School Board, District 1,690001,OverVotes, ,"1
+"
+63,HOL,11/06/2018,1,Ponce de Leon,1152,School Board, District 1,690001,UnderVotes, ,"52
+"
+64,HOL,11/06/2018,1,Ponce de Leon,1152,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"411
+"
+65,HOL,11/06/2018,1,Ponce de Leon,1152,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"223
+"
+66,HOL,11/06/2018,1,Ponce de Leon,1152,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"1
+"
+67,HOL,11/06/2018,1,Ponce de Leon,1152,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"73
+"
+68,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"460
+"
+69,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"230
+"
+70,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+71,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"17
+"
+72,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"479
+"
+73,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"205
+"
+74,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+75,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"24
+"
+76,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"507
+"
+77,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"185
+"
+78,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+79,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"16
+"
+80,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"362
+"
+81,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"326
+"
+82,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+83,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"20
+"
+84,HOL,11/06/2018,1,Ponce de Leon,1152,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"516
+"
+85,HOL,11/06/2018,1,Ponce de Leon,1152,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"164
+"
+86,HOL,11/06/2018,1,Ponce de Leon,1152,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+87,HOL,11/06/2018,1,Ponce de Leon,1152,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"28
+"
+88,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"430
+"
+89,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"255
+"
+90,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+91,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"23
+"
+92,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"470
+"
+93,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"206
+"
+94,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+95,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"32
+"
+96,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"331
+"
+97,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"347
+"
+98,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+99,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"30
+"
+100,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"488
+"
+101,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"177
+"
+102,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+103,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"42
+"
+104,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"362
+"
+105,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"291
+"
+106,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+107,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"55
+"
+108,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"492
+"
+109,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"180
+"
+110,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+111,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"36
+"
+112,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"227
+"
+113,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"451
+"
+114,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+115,HOL,11/06/2018,1,Ponce de Leon,1152,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"29
+"
+116,HOL,11/06/2018,2,Pine Log,1091,United States Senator, ,120000,Rick Scott,REP,"647
+"
+117,HOL,11/06/2018,2,Pine Log,1091,United States Senator, ,120000,Bill Nelson,DEM,"117
+"
+118,HOL,11/06/2018,2,Pine Log,1091,United States Senator, ,120000,WriteinVotes, ,"1
+"
+119,HOL,11/06/2018,2,Pine Log,1091,United States Senator, ,120000,OverVotes, ,"1
+"
+120,HOL,11/06/2018,2,Pine Log,1091,United States Senator, ,120000,UnderVotes, ,"3
+"
+121,HOL,11/06/2018,2,Pine Log,1091,Representative in Congress, District 1,140010,Matt Gaetz,REP,"661
+"
+122,HOL,11/06/2018,2,Pine Log,1091,Representative in Congress, District 1,140010,Jennifer M. Zimmerman,DEM,"101
+"
+123,HOL,11/06/2018,2,Pine Log,1091,Representative in Congress, District 1,140010,OverVotes, ,"0
+"
+124,HOL,11/06/2018,2,Pine Log,1091,Representative in Congress, District 1,140010,UnderVotes, ,"6
+"
+125,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,DeSantis / NuÃ±ez,REP,"666
+"
+126,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,Gillum / King,DEM,"85
+"
+127,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+128,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+129,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+130,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,Stanley / McJury,NPA,"4
+"
+131,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,WriteinVotes, ,"2
+"
+132,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,OverVotes, ,"2
+"
+133,HOL,11/06/2018,2,Pine Log,1091,Governor, ,160000,UnderVotes, ,"4
+"
+134,HOL,11/06/2018,2,Pine Log,1091,Attorney General, ,160200,Ashley Moody,REP,"672
+"
+135,HOL,11/06/2018,2,Pine Log,1091,Attorney General, ,160200,Sean Shaw,DEM,"85
+"
+136,HOL,11/06/2018,2,Pine Log,1091,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"7
+"
+137,HOL,11/06/2018,2,Pine Log,1091,Attorney General, ,160200,OverVotes, ,"0
+"
+138,HOL,11/06/2018,2,Pine Log,1091,Attorney General, ,160200,UnderVotes, ,"4
+"
+139,HOL,11/06/2018,2,Pine Log,1091,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"678
+"
+140,HOL,11/06/2018,2,Pine Log,1091,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"83
+"
+141,HOL,11/06/2018,2,Pine Log,1091,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+142,HOL,11/06/2018,2,Pine Log,1091,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+143,HOL,11/06/2018,2,Pine Log,1091,Chief Financial Officer, ,160500,UnderVotes, ,"7
+"
+144,HOL,11/06/2018,2,Pine Log,1091,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"666
+"
+145,HOL,11/06/2018,2,Pine Log,1091,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"98
+"
+146,HOL,11/06/2018,2,Pine Log,1091,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+147,HOL,11/06/2018,2,Pine Log,1091,Commissioner of Agriculture, ,160800,UnderVotes, ,"5
+"
+148,HOL,11/06/2018,2,Pine Log,1091,State Senator, District 2,240020,George B. Gainer,REP,"671
+"
+149,HOL,11/06/2018,2,Pine Log,1091,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"90
+"
+150,HOL,11/06/2018,2,Pine Log,1091,State Senator, District 2,240020,OverVotes, ,"0
+"
+151,HOL,11/06/2018,2,Pine Log,1091,State Senator, District 2,240020,UnderVotes, ,"7
+"
+152,HOL,11/06/2018,2,Pine Log,1091,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"405
+"
+153,HOL,11/06/2018,2,Pine Log,1091,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"251
+"
+154,HOL,11/06/2018,2,Pine Log,1091,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+155,HOL,11/06/2018,2,Pine Log,1091,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"112
+"
+156,HOL,11/06/2018,2,Pine Log,1091,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"399
+"
+157,HOL,11/06/2018,2,Pine Log,1091,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"256
+"
+158,HOL,11/06/2018,2,Pine Log,1091,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+159,HOL,11/06/2018,2,Pine Log,1091,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"113
+"
+160,HOL,11/06/2018,2,Pine Log,1091,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"388
+"
+161,HOL,11/06/2018,2,Pine Log,1091,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"258
+"
+162,HOL,11/06/2018,2,Pine Log,1091,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+163,HOL,11/06/2018,2,Pine Log,1091,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"122
+"
+164,HOL,11/06/2018,2,Pine Log,1091,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"390
+"
+165,HOL,11/06/2018,2,Pine Log,1091,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"255
+"
+166,HOL,11/06/2018,2,Pine Log,1091,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+167,HOL,11/06/2018,2,Pine Log,1091,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"123
+"
+168,HOL,11/06/2018,2,Pine Log,1091,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"377
+"
+169,HOL,11/06/2018,2,Pine Log,1091,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"269
+"
+170,HOL,11/06/2018,2,Pine Log,1091,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+171,HOL,11/06/2018,2,Pine Log,1091,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"122
+"
+172,HOL,11/06/2018,2,Pine Log,1091,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"391
+"
+173,HOL,11/06/2018,2,Pine Log,1091,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"259
+"
+174,HOL,11/06/2018,2,Pine Log,1091,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+175,HOL,11/06/2018,2,Pine Log,1091,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"118
+"
+176,HOL,11/06/2018,2,Pine Log,1091,School Board, District 1,690001,Kaci Howell Johnson,NOP,"509
+"
+177,HOL,11/06/2018,2,Pine Log,1091,School Board, District 1,690001,Milton  Tad Wilson,NOP,"186
+"
+178,HOL,11/06/2018,2,Pine Log,1091,School Board, District 1,690001,OverVotes, ,"0
+"
+179,HOL,11/06/2018,2,Pine Log,1091,School Board, District 1,690001,UnderVotes, ,"73
+"
+180,HOL,11/06/2018,2,Pine Log,1091,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"412
+"
+181,HOL,11/06/2018,2,Pine Log,1091,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"256
+"
+182,HOL,11/06/2018,2,Pine Log,1091,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"0
+"
+183,HOL,11/06/2018,2,Pine Log,1091,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"100
+"
+184,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"475
+"
+185,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"268
+"
+186,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+187,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"24
+"
+188,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"530
+"
+189,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"200
+"
+190,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+191,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"38
+"
+192,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"558
+"
+193,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"184
+"
+194,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+195,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"26
+"
+196,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"366
+"
+197,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"367
+"
+198,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+199,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"34
+"
+200,HOL,11/06/2018,2,Pine Log,1091,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"576
+"
+201,HOL,11/06/2018,2,Pine Log,1091,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"155
+"
+202,HOL,11/06/2018,2,Pine Log,1091,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+203,HOL,11/06/2018,2,Pine Log,1091,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"37
+"
+204,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"474
+"
+205,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"261
+"
+206,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+207,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"33
+"
+208,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"508
+"
+209,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"212
+"
+210,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+211,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"47
+"
+212,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"338
+"
+213,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"388
+"
+214,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+215,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"41
+"
+216,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"504
+"
+217,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"216
+"
+218,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+219,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"48
+"
+220,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"351
+"
+221,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"345
+"
+222,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+223,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"72
+"
+224,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"509
+"
+225,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"214
+"
+226,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+227,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"45
+"
+228,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"243
+"
+229,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"488
+"
+230,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+231,HOL,11/06/2018,2,Pine Log,1091,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"37
+"
+232,HOL,11/06/2018,3,New Hope,921,United States Senator, ,120000,Rick Scott,REP,"508
+"
+233,HOL,11/06/2018,3,New Hope,921,United States Senator, ,120000,Bill Nelson,DEM,"83
+"
+234,HOL,11/06/2018,3,New Hope,921,United States Senator, ,120000,WriteinVotes, ,"3
+"
+235,HOL,11/06/2018,3,New Hope,921,United States Senator, ,120000,OverVotes, ,"0
+"
+236,HOL,11/06/2018,3,New Hope,921,United States Senator, ,120000,UnderVotes, ,"7
+"
+237,HOL,11/06/2018,3,New Hope,921,Representative in Congress, District 1,140010,Matt Gaetz,REP,"516
+"
+238,HOL,11/06/2018,3,New Hope,921,Representative in Congress, District 1,140010,Jennifer M. Zimmerman,DEM,"73
+"
+239,HOL,11/06/2018,3,New Hope,921,Representative in Congress, District 1,140010,OverVotes, ,"1
+"
+240,HOL,11/06/2018,3,New Hope,921,Representative in Congress, District 1,140010,UnderVotes, ,"11
+"
+241,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,DeSantis / NuÃ±ez,REP,"526
+"
+242,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,Gillum / King,DEM,"64
+"
+243,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,Richardson / Argenziano,REF,"5
+"
+244,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+245,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+246,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+247,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,WriteinVotes, ,"0
+"
+248,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,OverVotes, ,"1
+"
+249,HOL,11/06/2018,3,New Hope,921,Governor, ,160000,UnderVotes, ,"3
+"
+250,HOL,11/06/2018,3,New Hope,921,Attorney General, ,160200,Ashley Moody,REP,"516
+"
+251,HOL,11/06/2018,3,New Hope,921,Attorney General, ,160200,Sean Shaw,DEM,"61
+"
+252,HOL,11/06/2018,3,New Hope,921,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"13
+"
+253,HOL,11/06/2018,3,New Hope,921,Attorney General, ,160200,OverVotes, ,"0
+"
+254,HOL,11/06/2018,3,New Hope,921,Attorney General, ,160200,UnderVotes, ,"11
+"
+255,HOL,11/06/2018,3,New Hope,921,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"525
+"
+256,HOL,11/06/2018,3,New Hope,921,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"64
+"
+257,HOL,11/06/2018,3,New Hope,921,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+258,HOL,11/06/2018,3,New Hope,921,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+259,HOL,11/06/2018,3,New Hope,921,Chief Financial Officer, ,160500,UnderVotes, ,"12
+"
+260,HOL,11/06/2018,3,New Hope,921,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"525
+"
+261,HOL,11/06/2018,3,New Hope,921,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"66
+"
+262,HOL,11/06/2018,3,New Hope,921,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+263,HOL,11/06/2018,3,New Hope,921,Commissioner of Agriculture, ,160800,UnderVotes, ,"10
+"
+264,HOL,11/06/2018,3,New Hope,921,State Senator, District 2,240020,George B. Gainer,REP,"525
+"
+265,HOL,11/06/2018,3,New Hope,921,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"64
+"
+266,HOL,11/06/2018,3,New Hope,921,State Senator, District 2,240020,OverVotes, ,"0
+"
+267,HOL,11/06/2018,3,New Hope,921,State Senator, District 2,240020,UnderVotes, ,"12
+"
+268,HOL,11/06/2018,3,New Hope,921,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"344
+"
+269,HOL,11/06/2018,3,New Hope,921,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"197
+"
+270,HOL,11/06/2018,3,New Hope,921,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+271,HOL,11/06/2018,3,New Hope,921,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"59
+"
+272,HOL,11/06/2018,3,New Hope,921,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"329
+"
+273,HOL,11/06/2018,3,New Hope,921,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"207
+"
+274,HOL,11/06/2018,3,New Hope,921,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"2
+"
+275,HOL,11/06/2018,3,New Hope,921,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"63
+"
+276,HOL,11/06/2018,3,New Hope,921,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"321
+"
+277,HOL,11/06/2018,3,New Hope,921,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"213
+"
+278,HOL,11/06/2018,3,New Hope,921,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+279,HOL,11/06/2018,3,New Hope,921,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"67
+"
+280,HOL,11/06/2018,3,New Hope,921,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"321
+"
+281,HOL,11/06/2018,3,New Hope,921,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"212
+"
+282,HOL,11/06/2018,3,New Hope,921,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+283,HOL,11/06/2018,3,New Hope,921,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"68
+"
+284,HOL,11/06/2018,3,New Hope,921,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"313
+"
+285,HOL,11/06/2018,3,New Hope,921,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"219
+"
+286,HOL,11/06/2018,3,New Hope,921,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+287,HOL,11/06/2018,3,New Hope,921,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"69
+"
+288,HOL,11/06/2018,3,New Hope,921,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"327
+"
+289,HOL,11/06/2018,3,New Hope,921,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"209
+"
+290,HOL,11/06/2018,3,New Hope,921,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+291,HOL,11/06/2018,3,New Hope,921,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"65
+"
+292,HOL,11/06/2018,3,New Hope,921,School Board, District 1,690001,Kaci Howell Johnson,NOP,"362
+"
+293,HOL,11/06/2018,3,New Hope,921,School Board, District 1,690001,Milton  Tad Wilson,NOP,"173
+"
+294,HOL,11/06/2018,3,New Hope,921,School Board, District 1,690001,OverVotes, ,"0
+"
+295,HOL,11/06/2018,3,New Hope,921,School Board, District 1,690001,UnderVotes, ,"66
+"
+296,HOL,11/06/2018,3,New Hope,921,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"343
+"
+297,HOL,11/06/2018,3,New Hope,921,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"183
+"
+298,HOL,11/06/2018,3,New Hope,921,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"0
+"
+299,HOL,11/06/2018,3,New Hope,921,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"75
+"
+300,HOL,11/06/2018,3,New Hope,921,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"409
+"
+301,HOL,11/06/2018,3,New Hope,921,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"166
+"
+302,HOL,11/06/2018,3,New Hope,921,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+303,HOL,11/06/2018,3,New Hope,921,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"26
+"
+304,HOL,11/06/2018,3,New Hope,921,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"450
+"
+305,HOL,11/06/2018,3,New Hope,921,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"123
+"
+306,HOL,11/06/2018,3,New Hope,921,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+307,HOL,11/06/2018,3,New Hope,921,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"28
+"
+308,HOL,11/06/2018,3,New Hope,921,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"462
+"
+309,HOL,11/06/2018,3,New Hope,921,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"118
+"
+310,HOL,11/06/2018,3,New Hope,921,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+311,HOL,11/06/2018,3,New Hope,921,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"21
+"
+312,HOL,11/06/2018,3,New Hope,921,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"298
+"
+313,HOL,11/06/2018,3,New Hope,921,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"275
+"
+314,HOL,11/06/2018,3,New Hope,921,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+315,HOL,11/06/2018,3,New Hope,921,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"28
+"
+316,HOL,11/06/2018,3,New Hope,921,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"464
+"
+317,HOL,11/06/2018,3,New Hope,921,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"102
+"
+318,HOL,11/06/2018,3,New Hope,921,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+319,HOL,11/06/2018,3,New Hope,921,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"35
+"
+320,HOL,11/06/2018,3,New Hope,921,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"391
+"
+321,HOL,11/06/2018,3,New Hope,921,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"179
+"
+322,HOL,11/06/2018,3,New Hope,921,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+323,HOL,11/06/2018,3,New Hope,921,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"31
+"
+324,HOL,11/06/2018,3,New Hope,921,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"405
+"
+325,HOL,11/06/2018,3,New Hope,921,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"162
+"
+326,HOL,11/06/2018,3,New Hope,921,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+327,HOL,11/06/2018,3,New Hope,921,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"34
+"
+328,HOL,11/06/2018,3,New Hope,921,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"283
+"
+329,HOL,11/06/2018,3,New Hope,921,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"282
+"
+330,HOL,11/06/2018,3,New Hope,921,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+331,HOL,11/06/2018,3,New Hope,921,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"36
+"
+332,HOL,11/06/2018,3,New Hope,921,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"415
+"
+333,HOL,11/06/2018,3,New Hope,921,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"139
+"
+334,HOL,11/06/2018,3,New Hope,921,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+335,HOL,11/06/2018,3,New Hope,921,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"47
+"
+336,HOL,11/06/2018,3,New Hope,921,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"316
+"
+337,HOL,11/06/2018,3,New Hope,921,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"227
+"
+338,HOL,11/06/2018,3,New Hope,921,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+339,HOL,11/06/2018,3,New Hope,921,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"57
+"
+340,HOL,11/06/2018,3,New Hope,921,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"440
+"
+341,HOL,11/06/2018,3,New Hope,921,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"122
+"
+342,HOL,11/06/2018,3,New Hope,921,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+343,HOL,11/06/2018,3,New Hope,921,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"39
+"
+344,HOL,11/06/2018,3,New Hope,921,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"238
+"
+345,HOL,11/06/2018,3,New Hope,921,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"333
+"
+346,HOL,11/06/2018,3,New Hope,921,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+347,HOL,11/06/2018,3,New Hope,921,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"30
+"
+348,HOL,11/06/2018,4,Bethlehem,1503,United States Senator, ,120000,Rick Scott,REP,"861
+"
+349,HOL,11/06/2018,4,Bethlehem,1503,United States Senator, ,120000,Bill Nelson,DEM,"110
+"
+350,HOL,11/06/2018,4,Bethlehem,1503,United States Senator, ,120000,WriteinVotes, ,"3
+"
+351,HOL,11/06/2018,4,Bethlehem,1503,United States Senator, ,120000,OverVotes, ,"1
+"
+352,HOL,11/06/2018,4,Bethlehem,1503,United States Senator, ,120000,UnderVotes, ,"6
+"
+353,HOL,11/06/2018,4,Bethlehem,1503,Representative in Congress, District 1,140010,Matt Gaetz,REP,"862
+"
+354,HOL,11/06/2018,4,Bethlehem,1503,Representative in Congress, District 1,140010,Jennifer M. Zimmerman,DEM,"106
+"
+355,HOL,11/06/2018,4,Bethlehem,1503,Representative in Congress, District 1,140010,OverVotes, ,"1
+"
+356,HOL,11/06/2018,4,Bethlehem,1503,Representative in Congress, District 1,140010,UnderVotes, ,"12
+"
+357,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,DeSantis / NuÃ±ez,REP,"868
+"
+358,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,Gillum / King,DEM,"104
+"
+359,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+360,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+361,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+362,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+363,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,WriteinVotes, ,"0
+"
+364,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,OverVotes, ,"1
+"
+365,HOL,11/06/2018,4,Bethlehem,1503,Governor, ,160000,UnderVotes, ,"3
+"
+366,HOL,11/06/2018,4,Bethlehem,1503,Attorney General, ,160200,Ashley Moody,REP,"860
+"
+367,HOL,11/06/2018,4,Bethlehem,1503,Attorney General, ,160200,Sean Shaw,DEM,"96
+"
+368,HOL,11/06/2018,4,Bethlehem,1503,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"11
+"
+369,HOL,11/06/2018,4,Bethlehem,1503,Attorney General, ,160200,OverVotes, ,"0
+"
+370,HOL,11/06/2018,4,Bethlehem,1503,Attorney General, ,160200,UnderVotes, ,"14
+"
+371,HOL,11/06/2018,4,Bethlehem,1503,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"872
+"
+372,HOL,11/06/2018,4,Bethlehem,1503,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"92
+"
+373,HOL,11/06/2018,4,Bethlehem,1503,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+374,HOL,11/06/2018,4,Bethlehem,1503,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+375,HOL,11/06/2018,4,Bethlehem,1503,Chief Financial Officer, ,160500,UnderVotes, ,"17
+"
+376,HOL,11/06/2018,4,Bethlehem,1503,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"858
+"
+377,HOL,11/06/2018,4,Bethlehem,1503,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"106
+"
+378,HOL,11/06/2018,4,Bethlehem,1503,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+379,HOL,11/06/2018,4,Bethlehem,1503,Commissioner of Agriculture, ,160800,UnderVotes, ,"17
+"
+380,HOL,11/06/2018,4,Bethlehem,1503,State Senator, District 2,240020,George B. Gainer,REP,"867
+"
+381,HOL,11/06/2018,4,Bethlehem,1503,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"92
+"
+382,HOL,11/06/2018,4,Bethlehem,1503,State Senator, District 2,240020,OverVotes, ,"0
+"
+383,HOL,11/06/2018,4,Bethlehem,1503,State Senator, District 2,240020,UnderVotes, ,"22
+"
+384,HOL,11/06/2018,4,Bethlehem,1503,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"514
+"
+385,HOL,11/06/2018,4,Bethlehem,1503,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"330
+"
+386,HOL,11/06/2018,4,Bethlehem,1503,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+387,HOL,11/06/2018,4,Bethlehem,1503,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"137
+"
+388,HOL,11/06/2018,4,Bethlehem,1503,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"503
+"
+389,HOL,11/06/2018,4,Bethlehem,1503,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"342
+"
+390,HOL,11/06/2018,4,Bethlehem,1503,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+391,HOL,11/06/2018,4,Bethlehem,1503,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"136
+"
+392,HOL,11/06/2018,4,Bethlehem,1503,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"486
+"
+393,HOL,11/06/2018,4,Bethlehem,1503,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"338
+"
+394,HOL,11/06/2018,4,Bethlehem,1503,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"1
+"
+395,HOL,11/06/2018,4,Bethlehem,1503,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"156
+"
+396,HOL,11/06/2018,4,Bethlehem,1503,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"487
+"
+397,HOL,11/06/2018,4,Bethlehem,1503,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"351
+"
+398,HOL,11/06/2018,4,Bethlehem,1503,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+399,HOL,11/06/2018,4,Bethlehem,1503,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"142
+"
+400,HOL,11/06/2018,4,Bethlehem,1503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"488
+"
+401,HOL,11/06/2018,4,Bethlehem,1503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"347
+"
+402,HOL,11/06/2018,4,Bethlehem,1503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+403,HOL,11/06/2018,4,Bethlehem,1503,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"145
+"
+404,HOL,11/06/2018,4,Bethlehem,1503,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"491
+"
+405,HOL,11/06/2018,4,Bethlehem,1503,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"351
+"
+406,HOL,11/06/2018,4,Bethlehem,1503,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+407,HOL,11/06/2018,4,Bethlehem,1503,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"139
+"
+408,HOL,11/06/2018,4,Bethlehem,1503,School Board, District 1,690001,Kaci Howell Johnson,NOP,"571
+"
+409,HOL,11/06/2018,4,Bethlehem,1503,School Board, District 1,690001,Milton  Tad Wilson,NOP,"331
+"
+410,HOL,11/06/2018,4,Bethlehem,1503,School Board, District 1,690001,OverVotes, ,"1
+"
+411,HOL,11/06/2018,4,Bethlehem,1503,School Board, District 1,690001,UnderVotes, ,"78
+"
+412,HOL,11/06/2018,4,Bethlehem,1503,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"447
+"
+413,HOL,11/06/2018,4,Bethlehem,1503,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"427
+"
+414,HOL,11/06/2018,4,Bethlehem,1503,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"1
+"
+415,HOL,11/06/2018,4,Bethlehem,1503,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"106
+"
+416,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"657
+"
+417,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"283
+"
+418,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+419,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"41
+"
+420,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"695
+"
+421,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"228
+"
+422,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+423,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"58
+"
+424,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"749
+"
+425,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"197
+"
+426,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+427,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"35
+"
+428,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"481
+"
+429,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"452
+"
+430,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"2
+"
+431,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"46
+"
+432,HOL,11/06/2018,4,Bethlehem,1503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"742
+"
+433,HOL,11/06/2018,4,Bethlehem,1503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"185
+"
+434,HOL,11/06/2018,4,Bethlehem,1503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+435,HOL,11/06/2018,4,Bethlehem,1503,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"54
+"
+436,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"638
+"
+437,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"282
+"
+438,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+439,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"61
+"
+440,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"687
+"
+441,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"228
+"
+442,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+443,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"66
+"
+444,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"431
+"
+445,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"482
+"
+446,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+447,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"68
+"
+448,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"653
+"
+449,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"248
+"
+450,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+451,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"80
+"
+452,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"558
+"
+453,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"330
+"
+454,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+455,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"92
+"
+456,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"728
+"
+457,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"191
+"
+458,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+459,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"62
+"
+460,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"377
+"
+461,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"561
+"
+462,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+463,HOL,11/06/2018,4,Bethlehem,1503,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"43
+"
+464,HOL,11/06/2018,5,Gritney,546,United States Senator, ,120000,Rick Scott,REP,"305
+"
+465,HOL,11/06/2018,5,Gritney,546,United States Senator, ,120000,Bill Nelson,DEM,"25
+"
+466,HOL,11/06/2018,5,Gritney,546,United States Senator, ,120000,WriteinVotes, ,"1
+"
+467,HOL,11/06/2018,5,Gritney,546,United States Senator, ,120000,OverVotes, ,"0
+"
+468,HOL,11/06/2018,5,Gritney,546,United States Senator, ,120000,UnderVotes, ,"3
+"
+469,HOL,11/06/2018,5,Gritney,546,Representative in Congress, District 1,140010,Matt Gaetz,REP,"298
+"
+470,HOL,11/06/2018,5,Gritney,546,Representative in Congress, District 1,140010,Jennifer M. Zimmerman,DEM,"28
+"
+471,HOL,11/06/2018,5,Gritney,546,Representative in Congress, District 1,140010,OverVotes, ,"0
+"
+472,HOL,11/06/2018,5,Gritney,546,Representative in Congress, District 1,140010,UnderVotes, ,"8
+"
+473,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,DeSantis / NuÃ±ez,REP,"287
+"
+474,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,Gillum / King,DEM,"32
+"
+475,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+476,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+477,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+478,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+479,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,WriteinVotes, ,"2
+"
+480,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,OverVotes, ,"1
+"
+481,HOL,11/06/2018,5,Gritney,546,Governor, ,160000,UnderVotes, ,"6
+"
+482,HOL,11/06/2018,5,Gritney,546,Attorney General, ,160200,Ashley Moody,REP,"294
+"
+483,HOL,11/06/2018,5,Gritney,546,Attorney General, ,160200,Sean Shaw,DEM,"30
+"
+484,HOL,11/06/2018,5,Gritney,546,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"5
+"
+485,HOL,11/06/2018,5,Gritney,546,Attorney General, ,160200,OverVotes, ,"0
+"
+486,HOL,11/06/2018,5,Gritney,546,Attorney General, ,160200,UnderVotes, ,"5
+"
+487,HOL,11/06/2018,5,Gritney,546,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"297
+"
+488,HOL,11/06/2018,5,Gritney,546,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"30
+"
+489,HOL,11/06/2018,5,Gritney,546,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+490,HOL,11/06/2018,5,Gritney,546,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+491,HOL,11/06/2018,5,Gritney,546,Chief Financial Officer, ,160500,UnderVotes, ,"7
+"
+492,HOL,11/06/2018,5,Gritney,546,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"301
+"
+493,HOL,11/06/2018,5,Gritney,546,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"28
+"
+494,HOL,11/06/2018,5,Gritney,546,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+495,HOL,11/06/2018,5,Gritney,546,Commissioner of Agriculture, ,160800,UnderVotes, ,"5
+"
+496,HOL,11/06/2018,5,Gritney,546,State Senator, District 2,240020,George B. Gainer,REP,"300
+"
+497,HOL,11/06/2018,5,Gritney,546,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"29
+"
+498,HOL,11/06/2018,5,Gritney,546,State Senator, District 2,240020,OverVotes, ,"0
+"
+499,HOL,11/06/2018,5,Gritney,546,State Senator, District 2,240020,UnderVotes, ,"5
+"
+500,HOL,11/06/2018,5,Gritney,546,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"190
+"
+501,HOL,11/06/2018,5,Gritney,546,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"106
+"
+502,HOL,11/06/2018,5,Gritney,546,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+503,HOL,11/06/2018,5,Gritney,546,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"38
+"
+504,HOL,11/06/2018,5,Gritney,546,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"193
+"
+505,HOL,11/06/2018,5,Gritney,546,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"99
+"
+506,HOL,11/06/2018,5,Gritney,546,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+507,HOL,11/06/2018,5,Gritney,546,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"42
+"
+508,HOL,11/06/2018,5,Gritney,546,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"194
+"
+509,HOL,11/06/2018,5,Gritney,546,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"100
+"
+510,HOL,11/06/2018,5,Gritney,546,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+511,HOL,11/06/2018,5,Gritney,546,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"40
+"
+512,HOL,11/06/2018,5,Gritney,546,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"192
+"
+513,HOL,11/06/2018,5,Gritney,546,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"98
+"
+514,HOL,11/06/2018,5,Gritney,546,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+515,HOL,11/06/2018,5,Gritney,546,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"44
+"
+516,HOL,11/06/2018,5,Gritney,546,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"193
+"
+517,HOL,11/06/2018,5,Gritney,546,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"97
+"
+518,HOL,11/06/2018,5,Gritney,546,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+519,HOL,11/06/2018,5,Gritney,546,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"44
+"
+520,HOL,11/06/2018,5,Gritney,546,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"186
+"
+521,HOL,11/06/2018,5,Gritney,546,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"106
+"
+522,HOL,11/06/2018,5,Gritney,546,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+523,HOL,11/06/2018,5,Gritney,546,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"42
+"
+524,HOL,11/06/2018,5,Gritney,546,School Board, District 1,690001,Kaci Howell Johnson,NOP,"180
+"
+525,HOL,11/06/2018,5,Gritney,546,School Board, District 1,690001,Milton  Tad Wilson,NOP,"132
+"
+526,HOL,11/06/2018,5,Gritney,546,School Board, District 1,690001,OverVotes, ,"0
+"
+527,HOL,11/06/2018,5,Gritney,546,School Board, District 1,690001,UnderVotes, ,"22
+"
+528,HOL,11/06/2018,5,Gritney,546,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"169
+"
+529,HOL,11/06/2018,5,Gritney,546,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"130
+"
+530,HOL,11/06/2018,5,Gritney,546,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"0
+"
+531,HOL,11/06/2018,5,Gritney,546,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"35
+"
+532,HOL,11/06/2018,5,Gritney,546,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"212
+"
+533,HOL,11/06/2018,5,Gritney,546,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"113
+"
+534,HOL,11/06/2018,5,Gritney,546,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+535,HOL,11/06/2018,5,Gritney,546,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"9
+"
+536,HOL,11/06/2018,5,Gritney,546,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"223
+"
+537,HOL,11/06/2018,5,Gritney,546,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"97
+"
+538,HOL,11/06/2018,5,Gritney,546,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+539,HOL,11/06/2018,5,Gritney,546,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"14
+"
+540,HOL,11/06/2018,5,Gritney,546,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"245
+"
+541,HOL,11/06/2018,5,Gritney,546,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"82
+"
+542,HOL,11/06/2018,5,Gritney,546,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+543,HOL,11/06/2018,5,Gritney,546,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"7
+"
+544,HOL,11/06/2018,5,Gritney,546,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"177
+"
+545,HOL,11/06/2018,5,Gritney,546,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"148
+"
+546,HOL,11/06/2018,5,Gritney,546,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+547,HOL,11/06/2018,5,Gritney,546,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"9
+"
+548,HOL,11/06/2018,5,Gritney,546,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"241
+"
+549,HOL,11/06/2018,5,Gritney,546,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"76
+"
+550,HOL,11/06/2018,5,Gritney,546,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+551,HOL,11/06/2018,5,Gritney,546,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"16
+"
+552,HOL,11/06/2018,5,Gritney,546,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"221
+"
+553,HOL,11/06/2018,5,Gritney,546,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"93
+"
+554,HOL,11/06/2018,5,Gritney,546,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+555,HOL,11/06/2018,5,Gritney,546,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"20
+"
+556,HOL,11/06/2018,5,Gritney,546,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"254
+"
+557,HOL,11/06/2018,5,Gritney,546,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"61
+"
+558,HOL,11/06/2018,5,Gritney,546,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+559,HOL,11/06/2018,5,Gritney,546,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"19
+"
+560,HOL,11/06/2018,5,Gritney,546,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"160
+"
+561,HOL,11/06/2018,5,Gritney,546,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"157
+"
+562,HOL,11/06/2018,5,Gritney,546,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+563,HOL,11/06/2018,5,Gritney,546,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"17
+"
+564,HOL,11/06/2018,5,Gritney,546,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"226
+"
+565,HOL,11/06/2018,5,Gritney,546,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"84
+"
+566,HOL,11/06/2018,5,Gritney,546,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+567,HOL,11/06/2018,5,Gritney,546,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"24
+"
+568,HOL,11/06/2018,5,Gritney,546,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"179
+"
+569,HOL,11/06/2018,5,Gritney,546,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"123
+"
+570,HOL,11/06/2018,5,Gritney,546,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+571,HOL,11/06/2018,5,Gritney,546,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"32
+"
+572,HOL,11/06/2018,5,Gritney,546,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"244
+"
+573,HOL,11/06/2018,5,Gritney,546,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"72
+"
+574,HOL,11/06/2018,5,Gritney,546,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+575,HOL,11/06/2018,5,Gritney,546,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"18
+"
+576,HOL,11/06/2018,5,Gritney,546,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"115
+"
+577,HOL,11/06/2018,5,Gritney,546,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"207
+"
+578,HOL,11/06/2018,5,Gritney,546,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+579,HOL,11/06/2018,5,Gritney,546,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"12
+"
+580,HOL,11/06/2018,6,Noma,2333,United States Senator, ,120000,Rick Scott,REP,"1313
+"
+581,HOL,11/06/2018,6,Noma,2333,United States Senator, ,120000,Bill Nelson,DEM,"126
+"
+582,HOL,11/06/2018,6,Noma,2333,United States Senator, ,120000,WriteinVotes, ,"5
+"
+583,HOL,11/06/2018,6,Noma,2333,United States Senator, ,120000,OverVotes, ,"0
+"
+584,HOL,11/06/2018,6,Noma,2333,United States Senator, ,120000,UnderVotes, ,"8
+"
+585,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 1,140010,Matt Gaetz,REP,"880
+"
+586,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 1,140010,Jennifer M. Zimmerman,DEM,"96
+"
+587,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 1,140010,OverVotes, ,"0
+"
+588,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 1,140010,UnderVotes, ,"16
+"
+589,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 2,140020,Neal Dunn,REP,"432
+"
+590,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"25
+"
+591,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+592,HOL,11/06/2018,6,Noma,2333,Representative in Congress, District 2,140020,UnderVotes, ,"3
+"
+593,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,DeSantis / NuÃ±ez,REP,"1302
+"
+594,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,Gillum / King,DEM,"110
+"
+595,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,Richardson / Argenziano,REF,"5
+"
+596,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,Gibson / Wilds,NPA,"8
+"
+597,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,Foley / Tutton,NPA,"4
+"
+598,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,Stanley / McJury,NPA,"8
+"
+599,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,WriteinVotes, ,"1
+"
+600,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,OverVotes, ,"3
+"
+601,HOL,11/06/2018,6,Noma,2333,Governor, ,160000,UnderVotes, ,"11
+"
+602,HOL,11/06/2018,6,Noma,2333,Attorney General, ,160200,Ashley Moody,REP,"1300
+"
+603,HOL,11/06/2018,6,Noma,2333,Attorney General, ,160200,Sean Shaw,DEM,"110
+"
+604,HOL,11/06/2018,6,Noma,2333,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"21
+"
+605,HOL,11/06/2018,6,Noma,2333,Attorney General, ,160200,OverVotes, ,"1
+"
+606,HOL,11/06/2018,6,Noma,2333,Attorney General, ,160200,UnderVotes, ,"20
+"
+607,HOL,11/06/2018,6,Noma,2333,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"1329
+"
+608,HOL,11/06/2018,6,Noma,2333,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"103
+"
+609,HOL,11/06/2018,6,Noma,2333,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+610,HOL,11/06/2018,6,Noma,2333,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+611,HOL,11/06/2018,6,Noma,2333,Chief Financial Officer, ,160500,UnderVotes, ,"20
+"
+612,HOL,11/06/2018,6,Noma,2333,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"1318
+"
+613,HOL,11/06/2018,6,Noma,2333,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"114
+"
+614,HOL,11/06/2018,6,Noma,2333,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+615,HOL,11/06/2018,6,Noma,2333,Commissioner of Agriculture, ,160800,UnderVotes, ,"20
+"
+616,HOL,11/06/2018,6,Noma,2333,State Senator, District 2,240020,George B. Gainer,REP,"1326
+"
+617,HOL,11/06/2018,6,Noma,2333,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"109
+"
+618,HOL,11/06/2018,6,Noma,2333,State Senator, District 2,240020,OverVotes, ,"0
+"
+619,HOL,11/06/2018,6,Noma,2333,State Senator, District 2,240020,UnderVotes, ,"17
+"
+620,HOL,11/06/2018,6,Noma,2333,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"853
+"
+621,HOL,11/06/2018,6,Noma,2333,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"439
+"
+622,HOL,11/06/2018,6,Noma,2333,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+623,HOL,11/06/2018,6,Noma,2333,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"160
+"
+624,HOL,11/06/2018,6,Noma,2333,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"830
+"
+625,HOL,11/06/2018,6,Noma,2333,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"453
+"
+626,HOL,11/06/2018,6,Noma,2333,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+627,HOL,11/06/2018,6,Noma,2333,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"169
+"
+628,HOL,11/06/2018,6,Noma,2333,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"810
+"
+629,HOL,11/06/2018,6,Noma,2333,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"451
+"
+630,HOL,11/06/2018,6,Noma,2333,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"3
+"
+631,HOL,11/06/2018,6,Noma,2333,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"188
+"
+632,HOL,11/06/2018,6,Noma,2333,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"808
+"
+633,HOL,11/06/2018,6,Noma,2333,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"462
+"
+634,HOL,11/06/2018,6,Noma,2333,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+635,HOL,11/06/2018,6,Noma,2333,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"181
+"
+636,HOL,11/06/2018,6,Noma,2333,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"792
+"
+637,HOL,11/06/2018,6,Noma,2333,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"476
+"
+638,HOL,11/06/2018,6,Noma,2333,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+639,HOL,11/06/2018,6,Noma,2333,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"183
+"
+640,HOL,11/06/2018,6,Noma,2333,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"828
+"
+641,HOL,11/06/2018,6,Noma,2333,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"451
+"
+642,HOL,11/06/2018,6,Noma,2333,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+643,HOL,11/06/2018,6,Noma,2333,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"173
+"
+644,HOL,11/06/2018,6,Noma,2333,School Board, District 1,690001,Kaci Howell Johnson,NOP,"861
+"
+645,HOL,11/06/2018,6,Noma,2333,School Board, District 1,690001,Milton  Tad Wilson,NOP,"504
+"
+646,HOL,11/06/2018,6,Noma,2333,School Board, District 1,690001,OverVotes, ,"0
+"
+647,HOL,11/06/2018,6,Noma,2333,School Board, District 1,690001,UnderVotes, ,"87
+"
+648,HOL,11/06/2018,6,Noma,2333,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"664
+"
+649,HOL,11/06/2018,6,Noma,2333,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"608
+"
+650,HOL,11/06/2018,6,Noma,2333,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"0
+"
+651,HOL,11/06/2018,6,Noma,2333,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"180
+"
+652,HOL,11/06/2018,6,Noma,2333,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"964
+"
+653,HOL,11/06/2018,6,Noma,2333,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"428
+"
+654,HOL,11/06/2018,6,Noma,2333,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+655,HOL,11/06/2018,6,Noma,2333,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"60
+"
+656,HOL,11/06/2018,6,Noma,2333,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"1014
+"
+657,HOL,11/06/2018,6,Noma,2333,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"359
+"
+658,HOL,11/06/2018,6,Noma,2333,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+659,HOL,11/06/2018,6,Noma,2333,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"79
+"
+660,HOL,11/06/2018,6,Noma,2333,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"1055
+"
+661,HOL,11/06/2018,6,Noma,2333,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"345
+"
+662,HOL,11/06/2018,6,Noma,2333,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+663,HOL,11/06/2018,6,Noma,2333,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"52
+"
+664,HOL,11/06/2018,6,Noma,2333,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"650
+"
+665,HOL,11/06/2018,6,Noma,2333,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"741
+"
+666,HOL,11/06/2018,6,Noma,2333,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+667,HOL,11/06/2018,6,Noma,2333,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"61
+"
+668,HOL,11/06/2018,6,Noma,2333,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"1074
+"
+669,HOL,11/06/2018,6,Noma,2333,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"300
+"
+670,HOL,11/06/2018,6,Noma,2333,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+671,HOL,11/06/2018,6,Noma,2333,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"78
+"
+672,HOL,11/06/2018,6,Noma,2333,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"917
+"
+673,HOL,11/06/2018,6,Noma,2333,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"452
+"
+674,HOL,11/06/2018,6,Noma,2333,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"2
+"
+675,HOL,11/06/2018,6,Noma,2333,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"81
+"
+676,HOL,11/06/2018,6,Noma,2333,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"976
+"
+677,HOL,11/06/2018,6,Noma,2333,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"367
+"
+678,HOL,11/06/2018,6,Noma,2333,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+679,HOL,11/06/2018,6,Noma,2333,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"109
+"
+680,HOL,11/06/2018,6,Noma,2333,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"610
+"
+681,HOL,11/06/2018,6,Noma,2333,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"740
+"
+682,HOL,11/06/2018,6,Noma,2333,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"3
+"
+683,HOL,11/06/2018,6,Noma,2333,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"99
+"
+684,HOL,11/06/2018,6,Noma,2333,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"943
+"
+685,HOL,11/06/2018,6,Noma,2333,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"394
+"
+686,HOL,11/06/2018,6,Noma,2333,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+687,HOL,11/06/2018,6,Noma,2333,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"115
+"
+688,HOL,11/06/2018,6,Noma,2333,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"750
+"
+689,HOL,11/06/2018,6,Noma,2333,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"556
+"
+690,HOL,11/06/2018,6,Noma,2333,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+691,HOL,11/06/2018,6,Noma,2333,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"146
+"
+692,HOL,11/06/2018,6,Noma,2333,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"988
+"
+693,HOL,11/06/2018,6,Noma,2333,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"354
+"
+694,HOL,11/06/2018,6,Noma,2333,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"3
+"
+695,HOL,11/06/2018,6,Noma,2333,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"107
+"
+696,HOL,11/06/2018,6,Noma,2333,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"500
+"
+697,HOL,11/06/2018,6,Noma,2333,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"876
+"
+698,HOL,11/06/2018,6,Noma,2333,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+699,HOL,11/06/2018,6,Noma,2333,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"76
+"
+700,HOL,11/06/2018,7,West Bonifay,1908,United States Senator, ,120000,Rick Scott,REP,"1006
+"
+701,HOL,11/06/2018,7,West Bonifay,1908,United States Senator, ,120000,Bill Nelson,DEM,"141
+"
+702,HOL,11/06/2018,7,West Bonifay,1908,United States Senator, ,120000,WriteinVotes, ,"2
+"
+703,HOL,11/06/2018,7,West Bonifay,1908,United States Senator, ,120000,OverVotes, ,"0
+"
+704,HOL,11/06/2018,7,West Bonifay,1908,United States Senator, ,120000,UnderVotes, ,"6
+"
+705,HOL,11/06/2018,7,West Bonifay,1908,Representative in Congress, District 2,140020,Neal Dunn,REP,"1027
+"
+706,HOL,11/06/2018,7,West Bonifay,1908,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"118
+"
+707,HOL,11/06/2018,7,West Bonifay,1908,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+708,HOL,11/06/2018,7,West Bonifay,1908,Representative in Congress, District 2,140020,UnderVotes, ,"10
+"
+709,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,DeSantis / NuÃ±ez,REP,"1002
+"
+710,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,Gillum / King,DEM,"114
+"
+711,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,Richardson / Argenziano,REF,"8
+"
+712,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,Gibson / Wilds,NPA,"7
+"
+713,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+714,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,Stanley / McJury,NPA,"6
+"
+715,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,WriteinVotes, ,"3
+"
+716,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,OverVotes, ,"5
+"
+717,HOL,11/06/2018,7,West Bonifay,1908,Governor, ,160000,UnderVotes, ,"8
+"
+718,HOL,11/06/2018,7,West Bonifay,1908,Attorney General, ,160200,Ashley Moody,REP,"997
+"
+719,HOL,11/06/2018,7,West Bonifay,1908,Attorney General, ,160200,Sean Shaw,DEM,"123
+"
+720,HOL,11/06/2018,7,West Bonifay,1908,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"23
+"
+721,HOL,11/06/2018,7,West Bonifay,1908,Attorney General, ,160200,OverVotes, ,"0
+"
+722,HOL,11/06/2018,7,West Bonifay,1908,Attorney General, ,160200,UnderVotes, ,"12
+"
+723,HOL,11/06/2018,7,West Bonifay,1908,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"1029
+"
+724,HOL,11/06/2018,7,West Bonifay,1908,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"114
+"
+725,HOL,11/06/2018,7,West Bonifay,1908,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+726,HOL,11/06/2018,7,West Bonifay,1908,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+727,HOL,11/06/2018,7,West Bonifay,1908,Chief Financial Officer, ,160500,UnderVotes, ,"11
+"
+728,HOL,11/06/2018,7,West Bonifay,1908,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"1011
+"
+729,HOL,11/06/2018,7,West Bonifay,1908,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"134
+"
+730,HOL,11/06/2018,7,West Bonifay,1908,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+731,HOL,11/06/2018,7,West Bonifay,1908,Commissioner of Agriculture, ,160800,UnderVotes, ,"10
+"
+732,HOL,11/06/2018,7,West Bonifay,1908,State Senator, District 2,240020,George B. Gainer,REP,"1031
+"
+733,HOL,11/06/2018,7,West Bonifay,1908,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"114
+"
+734,HOL,11/06/2018,7,West Bonifay,1908,State Senator, District 2,240020,OverVotes, ,"0
+"
+735,HOL,11/06/2018,7,West Bonifay,1908,State Senator, District 2,240020,UnderVotes, ,"10
+"
+736,HOL,11/06/2018,7,West Bonifay,1908,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"686
+"
+737,HOL,11/06/2018,7,West Bonifay,1908,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"355
+"
+738,HOL,11/06/2018,7,West Bonifay,1908,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+739,HOL,11/06/2018,7,West Bonifay,1908,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"113
+"
+740,HOL,11/06/2018,7,West Bonifay,1908,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"666
+"
+741,HOL,11/06/2018,7,West Bonifay,1908,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"371
+"
+742,HOL,11/06/2018,7,West Bonifay,1908,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+743,HOL,11/06/2018,7,West Bonifay,1908,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"118
+"
+744,HOL,11/06/2018,7,West Bonifay,1908,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"663
+"
+745,HOL,11/06/2018,7,West Bonifay,1908,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"366
+"
+746,HOL,11/06/2018,7,West Bonifay,1908,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+747,HOL,11/06/2018,7,West Bonifay,1908,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"126
+"
+748,HOL,11/06/2018,7,West Bonifay,1908,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"651
+"
+749,HOL,11/06/2018,7,West Bonifay,1908,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"383
+"
+750,HOL,11/06/2018,7,West Bonifay,1908,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+751,HOL,11/06/2018,7,West Bonifay,1908,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"121
+"
+752,HOL,11/06/2018,7,West Bonifay,1908,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"650
+"
+753,HOL,11/06/2018,7,West Bonifay,1908,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"382
+"
+754,HOL,11/06/2018,7,West Bonifay,1908,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+755,HOL,11/06/2018,7,West Bonifay,1908,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"123
+"
+756,HOL,11/06/2018,7,West Bonifay,1908,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"661
+"
+757,HOL,11/06/2018,7,West Bonifay,1908,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"369
+"
+758,HOL,11/06/2018,7,West Bonifay,1908,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+759,HOL,11/06/2018,7,West Bonifay,1908,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"125
+"
+760,HOL,11/06/2018,7,West Bonifay,1908,School Board, District 1,690001,Kaci Howell Johnson,NOP,"725
+"
+761,HOL,11/06/2018,7,West Bonifay,1908,School Board, District 1,690001,Milton  Tad Wilson,NOP,"378
+"
+762,HOL,11/06/2018,7,West Bonifay,1908,School Board, District 1,690001,OverVotes, ,"0
+"
+763,HOL,11/06/2018,7,West Bonifay,1908,School Board, District 1,690001,UnderVotes, ,"52
+"
+764,HOL,11/06/2018,7,West Bonifay,1908,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"483
+"
+765,HOL,11/06/2018,7,West Bonifay,1908,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"582
+"
+766,HOL,11/06/2018,7,West Bonifay,1908,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"1
+"
+767,HOL,11/06/2018,7,West Bonifay,1908,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"89
+"
+768,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"708
+"
+769,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"399
+"
+770,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+771,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"48
+"
+772,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"804
+"
+773,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"296
+"
+774,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+775,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"54
+"
+776,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"793
+"
+777,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"319
+"
+778,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+779,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"43
+"
+780,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"523
+"
+781,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"586
+"
+782,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+783,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"45
+"
+784,HOL,11/06/2018,7,West Bonifay,1908,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"821
+"
+785,HOL,11/06/2018,7,West Bonifay,1908,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"272
+"
+786,HOL,11/06/2018,7,West Bonifay,1908,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+787,HOL,11/06/2018,7,West Bonifay,1908,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"62
+"
+788,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"701
+"
+789,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"395
+"
+790,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+791,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"58
+"
+792,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"808
+"
+793,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"280
+"
+794,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+795,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"66
+"
+796,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"533
+"
+797,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"558
+"
+798,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+799,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"64
+"
+800,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"787
+"
+801,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"295
+"
+802,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+803,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"73
+"
+804,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"611
+"
+805,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"449
+"
+806,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+807,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"95
+"
+808,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"827
+"
+809,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"261
+"
+810,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+811,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"67
+"
+812,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"410
+"
+813,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"688
+"
+814,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+815,HOL,11/06/2018,7,West Bonifay,1908,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"55
+"
+816,HOL,11/06/2018,8,East Bonifay,0,United States Senator, ,120000,Rick Scott,REP,"678
+"
+817,HOL,11/06/2018,8,East Bonifay,0,United States Senator, ,120000,Bill Nelson,DEM,"157
+"
+818,HOL,11/06/2018,8,East Bonifay,0,United States Senator, ,120000,WriteinVotes, ,"1
+"
+819,HOL,11/06/2018,8,East Bonifay,0,United States Senator, ,120000,OverVotes, ,"1
+"
+820,HOL,11/06/2018,8,East Bonifay,0,United States Senator, ,120000,UnderVotes, ,"4
+"
+821,HOL,11/06/2018,8,East Bonifay,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"676
+"
+822,HOL,11/06/2018,8,East Bonifay,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"150
+"
+823,HOL,11/06/2018,8,East Bonifay,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+824,HOL,11/06/2018,8,East Bonifay,0,Representative in Congress, District 2,140020,UnderVotes, ,"15
+"
+825,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"677
+"
+826,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,Gillum / King,DEM,"151
+"
+827,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+828,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,Gibson / Wilds,NPA,"5
+"
+829,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+830,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+831,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,WriteinVotes, ,"0
+"
+832,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,OverVotes, ,"0
+"
+833,HOL,11/06/2018,8,East Bonifay,0,Governor, ,160000,UnderVotes, ,"7
+"
+834,HOL,11/06/2018,8,East Bonifay,0,Attorney General, ,160200,Ashley Moody,REP,"670
+"
+835,HOL,11/06/2018,8,East Bonifay,0,Attorney General, ,160200,Sean Shaw,DEM,"149
+"
+836,HOL,11/06/2018,8,East Bonifay,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"10
+"
+837,HOL,11/06/2018,8,East Bonifay,0,Attorney General, ,160200,OverVotes, ,"0
+"
+838,HOL,11/06/2018,8,East Bonifay,0,Attorney General, ,160200,UnderVotes, ,"12
+"
+839,HOL,11/06/2018,8,East Bonifay,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"696
+"
+840,HOL,11/06/2018,8,East Bonifay,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"132
+"
+841,HOL,11/06/2018,8,East Bonifay,0,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+842,HOL,11/06/2018,8,East Bonifay,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+843,HOL,11/06/2018,8,East Bonifay,0,Chief Financial Officer, ,160500,UnderVotes, ,"12
+"
+844,HOL,11/06/2018,8,East Bonifay,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"668
+"
+845,HOL,11/06/2018,8,East Bonifay,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"159
+"
+846,HOL,11/06/2018,8,East Bonifay,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+847,HOL,11/06/2018,8,East Bonifay,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"14
+"
+848,HOL,11/06/2018,8,East Bonifay,0,State Senator, District 2,240020,George B. Gainer,REP,"688
+"
+849,HOL,11/06/2018,8,East Bonifay,0,State Senator, District 2,240020,"Mary Jeanne ""Gigi"" Gibson",DEM,"143
+"
+850,HOL,11/06/2018,8,East Bonifay,0,State Senator, District 2,240020,OverVotes, ,"0
+"
+851,HOL,11/06/2018,8,East Bonifay,0,State Senator, District 2,240020,UnderVotes, ,"10
+"
+852,HOL,11/06/2018,8,East Bonifay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"460
+"
+853,HOL,11/06/2018,8,East Bonifay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"307
+"
+854,HOL,11/06/2018,8,East Bonifay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+855,HOL,11/06/2018,8,East Bonifay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"74
+"
+856,HOL,11/06/2018,8,East Bonifay,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"454
+"
+857,HOL,11/06/2018,8,East Bonifay,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"307
+"
+858,HOL,11/06/2018,8,East Bonifay,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+859,HOL,11/06/2018,8,East Bonifay,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"79
+"
+860,HOL,11/06/2018,8,East Bonifay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"451
+"
+861,HOL,11/06/2018,8,East Bonifay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"301
+"
+862,HOL,11/06/2018,8,East Bonifay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+863,HOL,11/06/2018,8,East Bonifay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"89
+"
+864,HOL,11/06/2018,8,East Bonifay,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"435
+"
+865,HOL,11/06/2018,8,East Bonifay,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"323
+"
+866,HOL,11/06/2018,8,East Bonifay,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+867,HOL,11/06/2018,8,East Bonifay,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"83
+"
+868,HOL,11/06/2018,8,East Bonifay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"441
+"
+869,HOL,11/06/2018,8,East Bonifay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"312
+"
+870,HOL,11/06/2018,8,East Bonifay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+871,HOL,11/06/2018,8,East Bonifay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"88
+"
+872,HOL,11/06/2018,8,East Bonifay,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"440
+"
+873,HOL,11/06/2018,8,East Bonifay,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"318
+"
+874,HOL,11/06/2018,8,East Bonifay,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+875,HOL,11/06/2018,8,East Bonifay,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"83
+"
+876,HOL,11/06/2018,8,East Bonifay,0,School Board, District 1,690001,Kaci Howell Johnson,NOP,"545
+"
+877,HOL,11/06/2018,8,East Bonifay,0,School Board, District 1,690001,Milton  Tad Wilson,NOP,"257
+"
+878,HOL,11/06/2018,8,East Bonifay,0,School Board, District 1,690001,OverVotes, ,"0
+"
+879,HOL,11/06/2018,8,East Bonifay,0,School Board, District 1,690001,UnderVotes, ,"39
+"
+880,HOL,11/06/2018,8,East Bonifay,0,Holmes Creek Soil and Water Conservation District, Group 1,841001,Randall Baker,NOP,"305
+"
+881,HOL,11/06/2018,8,East Bonifay,0,Holmes Creek Soil and Water Conservation District, Group 1,841001,Carlton Treadwell,NOP,"472
+"
+882,HOL,11/06/2018,8,East Bonifay,0,Holmes Creek Soil and Water Conservation District, Group 1,841001,OverVotes, ,"0
+"
+883,HOL,11/06/2018,8,East Bonifay,0,Holmes Creek Soil and Water Conservation District, Group 1,841001,UnderVotes, ,"64
+"
+884,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"535
+"
+885,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"282
+"
+886,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+887,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"24
+"
+888,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"580
+"
+889,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"221
+"
+890,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+891,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"40
+"
+892,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"604
+"
+893,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"215
+"
+894,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+895,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"22
+"
+896,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"415
+"
+897,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"398
+"
+898,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+899,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"28
+"
+900,HOL,11/06/2018,8,East Bonifay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"592
+"
+901,HOL,11/06/2018,8,East Bonifay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"207
+"
+902,HOL,11/06/2018,8,East Bonifay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+903,HOL,11/06/2018,8,East Bonifay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"42
+"
+904,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"497
+"
+905,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"308
+"
+906,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+907,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"36
+"
+908,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"586
+"
+909,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"212
+"
+910,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+911,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"42
+"
+912,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"397
+"
+913,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"409
+"
+914,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+915,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"35
+"
+916,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"565
+"
+917,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"225
+"
+918,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+919,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"50
+"
+920,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"436
+"
+921,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"345
+"
+922,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+923,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"60
+"
+924,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"573
+"
+925,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"224
+"
+926,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+927,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"44
+"
+928,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"313
+"
+929,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"499
+"
+930,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+931,HOL,11/06/2018,8,East Bonifay,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"28
+"

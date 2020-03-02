@@ -1,0 +1,1777 @@
+,County Code,Election Date,Unique PCT Identifier,Precinct Polling Location,Total Registered,Contest Name,District,Contest Code,Candidate,Party,Vote Total
+0,HAM,11/06/2018,1,Jennings City Hall,592,United States Senator, ,120000,Rick Scott,REP,"183
+"
+1,HAM,11/06/2018,1,Jennings City Hall,592,United States Senator, ,120000,Bill Nelson,DEM,"118
+"
+2,HAM,11/06/2018,1,Jennings City Hall,592,United States Senator, ,120000,WriteinVotes, ,"2
+"
+3,HAM,11/06/2018,1,Jennings City Hall,592,United States Senator, ,120000,OverVotes, ,"0
+"
+4,HAM,11/06/2018,1,Jennings City Hall,592,United States Senator, ,120000,UnderVotes, ,"7
+"
+5,HAM,11/06/2018,1,Jennings City Hall,592,Representative in Congress, District 5,140050,Virginia Fuller,REP,"176
+"
+6,HAM,11/06/2018,1,Jennings City Hall,592,Representative in Congress, District 5,140050,Al Lawson,DEM,"130
+"
+7,HAM,11/06/2018,1,Jennings City Hall,592,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+8,HAM,11/06/2018,1,Jennings City Hall,592,Representative in Congress, District 5,140050,UnderVotes, ,"4
+"
+9,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,DeSantis / NuÃ±ez,REP,"190
+"
+10,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,Gillum / King,DEM,"110
+"
+11,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+12,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+13,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+14,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+15,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,WriteinVotes, ,"1
+"
+16,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,OverVotes, ,"0
+"
+17,HAM,11/06/2018,1,Jennings City Hall,592,Governor, ,160000,UnderVotes, ,"2
+"
+18,HAM,11/06/2018,1,Jennings City Hall,592,Attorney General, ,160200,Ashley Moody,REP,"190
+"
+19,HAM,11/06/2018,1,Jennings City Hall,592,Attorney General, ,160200,Sean Shaw,DEM,"107
+"
+20,HAM,11/06/2018,1,Jennings City Hall,592,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"4
+"
+21,HAM,11/06/2018,1,Jennings City Hall,592,Attorney General, ,160200,OverVotes, ,"0
+"
+22,HAM,11/06/2018,1,Jennings City Hall,592,Attorney General, ,160200,UnderVotes, ,"9
+"
+23,HAM,11/06/2018,1,Jennings City Hall,592,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"183
+"
+24,HAM,11/06/2018,1,Jennings City Hall,592,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"115
+"
+25,HAM,11/06/2018,1,Jennings City Hall,592,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+26,HAM,11/06/2018,1,Jennings City Hall,592,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+27,HAM,11/06/2018,1,Jennings City Hall,592,Chief Financial Officer, ,160500,UnderVotes, ,"12
+"
+28,HAM,11/06/2018,1,Jennings City Hall,592,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"188
+"
+29,HAM,11/06/2018,1,Jennings City Hall,592,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"116
+"
+30,HAM,11/06/2018,1,Jennings City Hall,592,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+31,HAM,11/06/2018,1,Jennings City Hall,592,Commissioner of Agriculture, ,160800,UnderVotes, ,"6
+"
+32,HAM,11/06/2018,1,Jennings City Hall,592,State Representative, District 10,260100,Chuck Brannan,REP,"187
+"
+33,HAM,11/06/2018,1,Jennings City Hall,592,State Representative, District 10,260100,Ronald W. Williams II,DEM,"112
+"
+34,HAM,11/06/2018,1,Jennings City Hall,592,State Representative, District 10,260100,Fred S. Martin,NPA,"2
+"
+35,HAM,11/06/2018,1,Jennings City Hall,592,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"3
+"
+36,HAM,11/06/2018,1,Jennings City Hall,592,State Representative, District 10,260100,OverVotes, ,"0
+"
+37,HAM,11/06/2018,1,Jennings City Hall,592,State Representative, District 10,260100,UnderVotes, ,"6
+"
+38,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"174
+"
+39,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"108
+"
+40,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+41,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"28
+"
+42,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"172
+"
+43,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"104
+"
+44,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+45,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"34
+"
+46,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"172
+"
+47,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"107
+"
+48,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+49,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"31
+"
+50,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"163
+"
+51,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"116
+"
+52,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+53,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"31
+"
+54,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"168
+"
+55,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"114
+"
+56,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+57,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"28
+"
+58,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"167
+"
+59,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"109
+"
+60,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"1
+"
+61,HAM,11/06/2018,1,Jennings City Hall,592,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"33
+"
+62,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"145
+"
+63,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"155
+"
+64,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+65,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"9
+"
+66,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"206
+"
+67,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"94
+"
+68,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+69,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"10
+"
+70,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"196
+"
+71,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"96
+"
+72,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+73,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"18
+"
+74,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"171
+"
+75,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"122
+"
+76,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+77,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"17
+"
+78,HAM,11/06/2018,1,Jennings City Hall,592,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"177
+"
+79,HAM,11/06/2018,1,Jennings City Hall,592,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"111
+"
+80,HAM,11/06/2018,1,Jennings City Hall,592,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+81,HAM,11/06/2018,1,Jennings City Hall,592,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"21
+"
+82,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"186
+"
+83,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"100
+"
+84,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+85,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"24
+"
+86,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"189
+"
+87,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"97
+"
+88,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+89,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"24
+"
+90,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"152
+"
+91,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"136
+"
+92,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+93,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"22
+"
+94,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"185
+"
+95,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"99
+"
+96,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+97,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"26
+"
+98,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"167
+"
+99,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"117
+"
+100,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+101,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"26
+"
+102,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"206
+"
+103,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"76
+"
+104,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+105,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"28
+"
+106,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"147
+"
+107,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"145
+"
+108,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+109,HAM,11/06/2018,1,Jennings City Hall,592,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"18
+"
+110,HAM,11/06/2018,2,Jasper Courthouse,1307,United States Senator, ,120000,Rick Scott,REP,"227
+"
+111,HAM,11/06/2018,2,Jasper Courthouse,1307,United States Senator, ,120000,Bill Nelson,DEM,"504
+"
+112,HAM,11/06/2018,2,Jasper Courthouse,1307,United States Senator, ,120000,WriteinVotes, ,"3
+"
+113,HAM,11/06/2018,2,Jasper Courthouse,1307,United States Senator, ,120000,OverVotes, ,"0
+"
+114,HAM,11/06/2018,2,Jasper Courthouse,1307,United States Senator, ,120000,UnderVotes, ,"7
+"
+115,HAM,11/06/2018,2,Jasper Courthouse,1307,Representative in Congress, District 5,140050,Virginia Fuller,REP,"216
+"
+116,HAM,11/06/2018,2,Jasper Courthouse,1307,Representative in Congress, District 5,140050,Al Lawson,DEM,"515
+"
+117,HAM,11/06/2018,2,Jasper Courthouse,1307,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+118,HAM,11/06/2018,2,Jasper Courthouse,1307,Representative in Congress, District 5,140050,UnderVotes, ,"10
+"
+119,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,DeSantis / NuÃ±ez,REP,"223
+"
+120,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,Gillum / King,DEM,"505
+"
+121,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+122,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,Gibson / Wilds,NPA,"4
+"
+123,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+124,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+125,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,WriteinVotes, ,"0
+"
+126,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,OverVotes, ,"0
+"
+127,HAM,11/06/2018,2,Jasper Courthouse,1307,Governor, ,160000,UnderVotes, ,"5
+"
+128,HAM,11/06/2018,2,Jasper Courthouse,1307,Attorney General, ,160200,Ashley Moody,REP,"239
+"
+129,HAM,11/06/2018,2,Jasper Courthouse,1307,Attorney General, ,160200,Sean Shaw,DEM,"480
+"
+130,HAM,11/06/2018,2,Jasper Courthouse,1307,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"10
+"
+131,HAM,11/06/2018,2,Jasper Courthouse,1307,Attorney General, ,160200,OverVotes, ,"1
+"
+132,HAM,11/06/2018,2,Jasper Courthouse,1307,Attorney General, ,160200,UnderVotes, ,"11
+"
+133,HAM,11/06/2018,2,Jasper Courthouse,1307,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"234
+"
+134,HAM,11/06/2018,2,Jasper Courthouse,1307,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"490
+"
+135,HAM,11/06/2018,2,Jasper Courthouse,1307,Chief Financial Officer, ,160500,WriteinVotes, ,"2
+"
+136,HAM,11/06/2018,2,Jasper Courthouse,1307,Chief Financial Officer, ,160500,OverVotes, ,"1
+"
+137,HAM,11/06/2018,2,Jasper Courthouse,1307,Chief Financial Officer, ,160500,UnderVotes, ,"14
+"
+138,HAM,11/06/2018,2,Jasper Courthouse,1307,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"233
+"
+139,HAM,11/06/2018,2,Jasper Courthouse,1307,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"494
+"
+140,HAM,11/06/2018,2,Jasper Courthouse,1307,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+141,HAM,11/06/2018,2,Jasper Courthouse,1307,Commissioner of Agriculture, ,160800,UnderVotes, ,"14
+"
+142,HAM,11/06/2018,2,Jasper Courthouse,1307,State Representative, District 10,260100,Chuck Brannan,REP,"224
+"
+143,HAM,11/06/2018,2,Jasper Courthouse,1307,State Representative, District 10,260100,Ronald W. Williams II,DEM,"484
+"
+144,HAM,11/06/2018,2,Jasper Courthouse,1307,State Representative, District 10,260100,Fred S. Martin,NPA,"10
+"
+145,HAM,11/06/2018,2,Jasper Courthouse,1307,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"7
+"
+146,HAM,11/06/2018,2,Jasper Courthouse,1307,State Representative, District 10,260100,OverVotes, ,"0
+"
+147,HAM,11/06/2018,2,Jasper Courthouse,1307,State Representative, District 10,260100,UnderVotes, ,"16
+"
+148,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"478
+"
+149,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"208
+"
+150,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+151,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"55
+"
+152,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"415
+"
+153,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"255
+"
+154,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+155,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"71
+"
+156,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"438
+"
+157,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"229
+"
+158,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+159,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"74
+"
+160,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"416
+"
+161,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"250
+"
+162,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+163,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"75
+"
+164,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"440
+"
+165,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"231
+"
+166,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+167,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"70
+"
+168,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"416
+"
+169,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"250
+"
+170,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"1
+"
+171,HAM,11/06/2018,2,Jasper Courthouse,1307,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"74
+"
+172,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"298
+"
+173,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"410
+"
+174,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"2
+"
+175,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"31
+"
+176,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"405
+"
+177,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"306
+"
+178,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+179,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"30
+"
+180,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"519
+"
+181,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"173
+"
+182,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+183,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"48
+"
+184,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"496
+"
+185,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"190
+"
+186,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+187,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"54
+"
+188,HAM,11/06/2018,2,Jasper Courthouse,1307,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"357
+"
+189,HAM,11/06/2018,2,Jasper Courthouse,1307,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"314
+"
+190,HAM,11/06/2018,2,Jasper Courthouse,1307,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+191,HAM,11/06/2018,2,Jasper Courthouse,1307,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"69
+"
+192,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"429
+"
+193,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"254
+"
+194,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+195,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"58
+"
+196,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"430
+"
+197,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"240
+"
+198,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+199,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"71
+"
+200,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"422
+"
+201,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"253
+"
+202,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+203,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"65
+"
+204,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"418
+"
+205,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"248
+"
+206,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+207,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"75
+"
+208,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"377
+"
+209,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"276
+"
+210,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+211,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"88
+"
+212,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"449
+"
+213,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"217
+"
+214,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+215,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"75
+"
+216,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"348
+"
+217,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"334
+"
+218,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+219,HAM,11/06/2018,2,Jasper Courthouse,1307,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"58
+"
+220,HAM,11/06/2018,3,White Springs Library,929,United States Senator, ,120000,Rick Scott,REP,"310
+"
+221,HAM,11/06/2018,3,White Springs Library,929,United States Senator, ,120000,Bill Nelson,DEM,"256
+"
+222,HAM,11/06/2018,3,White Springs Library,929,United States Senator, ,120000,WriteinVotes, ,"3
+"
+223,HAM,11/06/2018,3,White Springs Library,929,United States Senator, ,120000,OverVotes, ,"0
+"
+224,HAM,11/06/2018,3,White Springs Library,929,United States Senator, ,120000,UnderVotes, ,"3
+"
+225,HAM,11/06/2018,3,White Springs Library,929,Representative in Congress, District 5,140050,Virginia Fuller,REP,"286
+"
+226,HAM,11/06/2018,3,White Springs Library,929,Representative in Congress, District 5,140050,Al Lawson,DEM,"271
+"
+227,HAM,11/06/2018,3,White Springs Library,929,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+228,HAM,11/06/2018,3,White Springs Library,929,Representative in Congress, District 5,140050,UnderVotes, ,"15
+"
+229,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,DeSantis / NuÃ±ez,REP,"313
+"
+230,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,Gillum / King,DEM,"252
+"
+231,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+232,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+233,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+234,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+235,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,WriteinVotes, ,"0
+"
+236,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,OverVotes, ,"1
+"
+237,HAM,11/06/2018,3,White Springs Library,929,Governor, ,160000,UnderVotes, ,"4
+"
+238,HAM,11/06/2018,3,White Springs Library,929,Attorney General, ,160200,Ashley Moody,REP,"309
+"
+239,HAM,11/06/2018,3,White Springs Library,929,Attorney General, ,160200,Sean Shaw,DEM,"250
+"
+240,HAM,11/06/2018,3,White Springs Library,929,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"3
+"
+241,HAM,11/06/2018,3,White Springs Library,929,Attorney General, ,160200,OverVotes, ,"0
+"
+242,HAM,11/06/2018,3,White Springs Library,929,Attorney General, ,160200,UnderVotes, ,"10
+"
+243,HAM,11/06/2018,3,White Springs Library,929,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"302
+"
+244,HAM,11/06/2018,3,White Springs Library,929,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"251
+"
+245,HAM,11/06/2018,3,White Springs Library,929,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+246,HAM,11/06/2018,3,White Springs Library,929,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+247,HAM,11/06/2018,3,White Springs Library,929,Chief Financial Officer, ,160500,UnderVotes, ,"19
+"
+248,HAM,11/06/2018,3,White Springs Library,929,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"300
+"
+249,HAM,11/06/2018,3,White Springs Library,929,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"258
+"
+250,HAM,11/06/2018,3,White Springs Library,929,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+251,HAM,11/06/2018,3,White Springs Library,929,Commissioner of Agriculture, ,160800,UnderVotes, ,"14
+"
+252,HAM,11/06/2018,3,White Springs Library,929,State Representative, District 10,260100,Chuck Brannan,REP,"296
+"
+253,HAM,11/06/2018,3,White Springs Library,929,State Representative, District 10,260100,Ronald W. Williams II,DEM,"247
+"
+254,HAM,11/06/2018,3,White Springs Library,929,State Representative, District 10,260100,Fred S. Martin,NPA,"4
+"
+255,HAM,11/06/2018,3,White Springs Library,929,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"7
+"
+256,HAM,11/06/2018,3,White Springs Library,929,State Representative, District 10,260100,OverVotes, ,"0
+"
+257,HAM,11/06/2018,3,White Springs Library,929,State Representative, District 10,260100,UnderVotes, ,"18
+"
+258,HAM,11/06/2018,3,White Springs Library,929,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"310
+"
+259,HAM,11/06/2018,3,White Springs Library,929,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"197
+"
+260,HAM,11/06/2018,3,White Springs Library,929,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"2
+"
+261,HAM,11/06/2018,3,White Springs Library,929,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"63
+"
+262,HAM,11/06/2018,3,White Springs Library,929,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"286
+"
+263,HAM,11/06/2018,3,White Springs Library,929,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"211
+"
+264,HAM,11/06/2018,3,White Springs Library,929,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+265,HAM,11/06/2018,3,White Springs Library,929,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"75
+"
+266,HAM,11/06/2018,3,White Springs Library,929,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"287
+"
+267,HAM,11/06/2018,3,White Springs Library,929,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"211
+"
+268,HAM,11/06/2018,3,White Springs Library,929,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+269,HAM,11/06/2018,3,White Springs Library,929,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"74
+"
+270,HAM,11/06/2018,3,White Springs Library,929,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"293
+"
+271,HAM,11/06/2018,3,White Springs Library,929,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"206
+"
+272,HAM,11/06/2018,3,White Springs Library,929,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+273,HAM,11/06/2018,3,White Springs Library,929,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"73
+"
+274,HAM,11/06/2018,3,White Springs Library,929,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"290
+"
+275,HAM,11/06/2018,3,White Springs Library,929,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"216
+"
+276,HAM,11/06/2018,3,White Springs Library,929,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+277,HAM,11/06/2018,3,White Springs Library,929,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"66
+"
+278,HAM,11/06/2018,3,White Springs Library,929,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"288
+"
+279,HAM,11/06/2018,3,White Springs Library,929,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"210
+"
+280,HAM,11/06/2018,3,White Springs Library,929,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+281,HAM,11/06/2018,3,White Springs Library,929,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"74
+"
+282,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"253
+"
+283,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"285
+"
+284,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+285,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"34
+"
+286,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"341
+"
+287,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"197
+"
+288,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+289,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"34
+"
+290,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"389
+"
+291,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"160
+"
+292,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+293,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"23
+"
+294,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"347
+"
+295,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"199
+"
+296,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+297,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"26
+"
+298,HAM,11/06/2018,3,White Springs Library,929,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"323
+"
+299,HAM,11/06/2018,3,White Springs Library,929,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"207
+"
+300,HAM,11/06/2018,3,White Springs Library,929,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+301,HAM,11/06/2018,3,White Springs Library,929,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"42
+"
+302,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"332
+"
+303,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"205
+"
+304,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+305,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"35
+"
+306,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"347
+"
+307,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"173
+"
+308,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+309,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"52
+"
+310,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"275
+"
+311,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"255
+"
+312,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+313,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"42
+"
+314,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"331
+"
+315,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"194
+"
+316,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"1
+"
+317,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"46
+"
+318,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"279
+"
+319,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"233
+"
+320,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+321,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"60
+"
+322,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"356
+"
+323,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"168
+"
+324,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+325,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"48
+"
+326,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"232
+"
+327,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"302
+"
+328,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+329,HAM,11/06/2018,3,White Springs Library,929,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"38
+"
+330,HAM,11/06/2018,4,Jasper Civic Center,1555,United States Senator, ,120000,Rick Scott,REP,"656
+"
+331,HAM,11/06/2018,4,Jasper Civic Center,1555,United States Senator, ,120000,Bill Nelson,DEM,"243
+"
+332,HAM,11/06/2018,4,Jasper Civic Center,1555,United States Senator, ,120000,WriteinVotes, ,"0
+"
+333,HAM,11/06/2018,4,Jasper Civic Center,1555,United States Senator, ,120000,OverVotes, ,"0
+"
+334,HAM,11/06/2018,4,Jasper Civic Center,1555,United States Senator, ,120000,UnderVotes, ,"12
+"
+335,HAM,11/06/2018,4,Jasper Civic Center,1555,Representative in Congress, District 5,140050,Virginia Fuller,REP,"644
+"
+336,HAM,11/06/2018,4,Jasper Civic Center,1555,Representative in Congress, District 5,140050,Al Lawson,DEM,"253
+"
+337,HAM,11/06/2018,4,Jasper Civic Center,1555,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+338,HAM,11/06/2018,4,Jasper Civic Center,1555,Representative in Congress, District 5,140050,UnderVotes, ,"14
+"
+339,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,DeSantis / NuÃ±ez,REP,"673
+"
+340,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,Gillum / King,DEM,"224
+"
+341,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,Richardson / Argenziano,REF,"5
+"
+342,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+343,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+344,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,Stanley / McJury,NPA,"2
+"
+345,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,WriteinVotes, ,"0
+"
+346,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,OverVotes, ,"2
+"
+347,HAM,11/06/2018,4,Jasper Civic Center,1555,Governor, ,160000,UnderVotes, ,"3
+"
+348,HAM,11/06/2018,4,Jasper Civic Center,1555,Attorney General, ,160200,Ashley Moody,REP,"688
+"
+349,HAM,11/06/2018,4,Jasper Civic Center,1555,Attorney General, ,160200,Sean Shaw,DEM,"205
+"
+350,HAM,11/06/2018,4,Jasper Civic Center,1555,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"7
+"
+351,HAM,11/06/2018,4,Jasper Civic Center,1555,Attorney General, ,160200,OverVotes, ,"0
+"
+352,HAM,11/06/2018,4,Jasper Civic Center,1555,Attorney General, ,160200,UnderVotes, ,"11
+"
+353,HAM,11/06/2018,4,Jasper Civic Center,1555,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"667
+"
+354,HAM,11/06/2018,4,Jasper Civic Center,1555,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"226
+"
+355,HAM,11/06/2018,4,Jasper Civic Center,1555,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+356,HAM,11/06/2018,4,Jasper Civic Center,1555,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+357,HAM,11/06/2018,4,Jasper Civic Center,1555,Chief Financial Officer, ,160500,UnderVotes, ,"18
+"
+358,HAM,11/06/2018,4,Jasper Civic Center,1555,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"667
+"
+359,HAM,11/06/2018,4,Jasper Civic Center,1555,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"230
+"
+360,HAM,11/06/2018,4,Jasper Civic Center,1555,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+361,HAM,11/06/2018,4,Jasper Civic Center,1555,Commissioner of Agriculture, ,160800,UnderVotes, ,"14
+"
+362,HAM,11/06/2018,4,Jasper Civic Center,1555,State Representative, District 10,260100,Chuck Brannan,REP,"653
+"
+363,HAM,11/06/2018,4,Jasper Civic Center,1555,State Representative, District 10,260100,Ronald W. Williams II,DEM,"206
+"
+364,HAM,11/06/2018,4,Jasper Civic Center,1555,State Representative, District 10,260100,Fred S. Martin,NPA,"13
+"
+365,HAM,11/06/2018,4,Jasper Civic Center,1555,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"16
+"
+366,HAM,11/06/2018,4,Jasper Civic Center,1555,State Representative, District 10,260100,OverVotes, ,"0
+"
+367,HAM,11/06/2018,4,Jasper Civic Center,1555,State Representative, District 10,260100,UnderVotes, ,"23
+"
+368,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"473
+"
+369,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"325
+"
+370,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+371,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"112
+"
+372,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"478
+"
+373,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"324
+"
+374,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+375,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"109
+"
+376,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"469
+"
+377,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"322
+"
+378,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+379,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"120
+"
+380,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"470
+"
+381,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"327
+"
+382,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+383,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"113
+"
+384,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"460
+"
+385,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"338
+"
+386,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+387,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"113
+"
+388,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"484
+"
+389,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"314
+"
+390,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"1
+"
+391,HAM,11/06/2018,4,Jasper Civic Center,1555,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"112
+"
+392,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"469
+"
+393,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"394
+"
+394,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+395,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"47
+"
+396,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"576
+"
+397,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"289
+"
+398,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+399,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"46
+"
+400,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"617
+"
+401,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"237
+"
+402,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+403,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"56
+"
+404,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"435
+"
+405,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"419
+"
+406,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+407,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"56
+"
+408,HAM,11/06/2018,4,Jasper Civic Center,1555,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"574
+"
+409,HAM,11/06/2018,4,Jasper Civic Center,1555,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"254
+"
+410,HAM,11/06/2018,4,Jasper Civic Center,1555,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+411,HAM,11/06/2018,4,Jasper Civic Center,1555,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"83
+"
+412,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"526
+"
+413,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"319
+"
+414,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+415,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"65
+"
+416,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"561
+"
+417,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"270
+"
+418,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+419,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"80
+"
+420,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"371
+"
+421,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"463
+"
+422,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+423,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"76
+"
+424,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"563
+"
+425,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"268
+"
+426,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+427,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"80
+"
+428,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"395
+"
+429,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"405
+"
+430,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+431,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"111
+"
+432,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"584
+"
+433,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"234
+"
+434,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+435,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"93
+"
+436,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"355
+"
+437,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"487
+"
+438,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+439,HAM,11/06/2018,4,Jasper Civic Center,1555,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"69
+"
+440,HAM,11/06/2018,5,Bright Pond Fellowship,267,United States Senator, ,120000,Rick Scott,REP,"121
+"
+441,HAM,11/06/2018,5,Bright Pond Fellowship,267,United States Senator, ,120000,Bill Nelson,DEM,"39
+"
+442,HAM,11/06/2018,5,Bright Pond Fellowship,267,United States Senator, ,120000,WriteinVotes, ,"1
+"
+443,HAM,11/06/2018,5,Bright Pond Fellowship,267,United States Senator, ,120000,OverVotes, ,"0
+"
+444,HAM,11/06/2018,5,Bright Pond Fellowship,267,United States Senator, ,120000,UnderVotes, ,"3
+"
+445,HAM,11/06/2018,5,Bright Pond Fellowship,267,Representative in Congress, District 5,140050,Virginia Fuller,REP,"120
+"
+446,HAM,11/06/2018,5,Bright Pond Fellowship,267,Representative in Congress, District 5,140050,Al Lawson,DEM,"35
+"
+447,HAM,11/06/2018,5,Bright Pond Fellowship,267,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+448,HAM,11/06/2018,5,Bright Pond Fellowship,267,Representative in Congress, District 5,140050,UnderVotes, ,"9
+"
+449,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,DeSantis / NuÃ±ez,REP,"124
+"
+450,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,Gillum / King,DEM,"32
+"
+451,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,Richardson / Argenziano,REF,"3
+"
+452,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+453,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+454,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+455,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,WriteinVotes, ,"1
+"
+456,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,OverVotes, ,"1
+"
+457,HAM,11/06/2018,5,Bright Pond Fellowship,267,Governor, ,160000,UnderVotes, ,"2
+"
+458,HAM,11/06/2018,5,Bright Pond Fellowship,267,Attorney General, ,160200,Ashley Moody,REP,"126
+"
+459,HAM,11/06/2018,5,Bright Pond Fellowship,267,Attorney General, ,160200,Sean Shaw,DEM,"31
+"
+460,HAM,11/06/2018,5,Bright Pond Fellowship,267,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"2
+"
+461,HAM,11/06/2018,5,Bright Pond Fellowship,267,Attorney General, ,160200,OverVotes, ,"0
+"
+462,HAM,11/06/2018,5,Bright Pond Fellowship,267,Attorney General, ,160200,UnderVotes, ,"5
+"
+463,HAM,11/06/2018,5,Bright Pond Fellowship,267,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"123
+"
+464,HAM,11/06/2018,5,Bright Pond Fellowship,267,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"35
+"
+465,HAM,11/06/2018,5,Bright Pond Fellowship,267,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+466,HAM,11/06/2018,5,Bright Pond Fellowship,267,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+467,HAM,11/06/2018,5,Bright Pond Fellowship,267,Chief Financial Officer, ,160500,UnderVotes, ,"6
+"
+468,HAM,11/06/2018,5,Bright Pond Fellowship,267,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"123
+"
+469,HAM,11/06/2018,5,Bright Pond Fellowship,267,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"37
+"
+470,HAM,11/06/2018,5,Bright Pond Fellowship,267,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+471,HAM,11/06/2018,5,Bright Pond Fellowship,267,Commissioner of Agriculture, ,160800,UnderVotes, ,"4
+"
+472,HAM,11/06/2018,5,Bright Pond Fellowship,267,State Representative, District 10,260100,Chuck Brannan,REP,"118
+"
+473,HAM,11/06/2018,5,Bright Pond Fellowship,267,State Representative, District 10,260100,Ronald W. Williams II,DEM,"28
+"
+474,HAM,11/06/2018,5,Bright Pond Fellowship,267,State Representative, District 10,260100,Fred S. Martin,NPA,"8
+"
+475,HAM,11/06/2018,5,Bright Pond Fellowship,267,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"3
+"
+476,HAM,11/06/2018,5,Bright Pond Fellowship,267,State Representative, District 10,260100,OverVotes, ,"0
+"
+477,HAM,11/06/2018,5,Bright Pond Fellowship,267,State Representative, District 10,260100,UnderVotes, ,"7
+"
+478,HAM,11/06/2018,5,Bright Pond Fellowship,267,County Commissioner, District 2,380020,Josh Smith,REP,"87
+"
+479,HAM,11/06/2018,5,Bright Pond Fellowship,267,County Commissioner, District 2,380020,Sandy Hurst,DEM,"74
+"
+480,HAM,11/06/2018,5,Bright Pond Fellowship,267,County Commissioner, District 2,380020,OverVotes, ,"0
+"
+481,HAM,11/06/2018,5,Bright Pond Fellowship,267,County Commissioner, District 2,380020,UnderVotes, ,"3
+"
+482,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"89
+"
+483,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"64
+"
+484,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+485,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"11
+"
+486,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"89
+"
+487,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"62
+"
+488,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+489,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"13
+"
+490,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"87
+"
+491,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"64
+"
+492,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+493,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"13
+"
+494,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"83
+"
+495,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"70
+"
+496,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+497,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"11
+"
+498,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"93
+"
+499,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"60
+"
+500,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+501,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"11
+"
+502,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"90
+"
+503,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"62
+"
+504,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+505,HAM,11/06/2018,5,Bright Pond Fellowship,267,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"12
+"
+506,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"87
+"
+507,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"74
+"
+508,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+509,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"3
+"
+510,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"118
+"
+511,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"42
+"
+512,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+513,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"4
+"
+514,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"122
+"
+515,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"37
+"
+516,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+517,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"5
+"
+518,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"72
+"
+519,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"86
+"
+520,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+521,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"6
+"
+522,HAM,11/06/2018,5,Bright Pond Fellowship,267,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"109
+"
+523,HAM,11/06/2018,5,Bright Pond Fellowship,267,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"50
+"
+524,HAM,11/06/2018,5,Bright Pond Fellowship,267,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+525,HAM,11/06/2018,5,Bright Pond Fellowship,267,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"5
+"
+526,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"95
+"
+527,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"64
+"
+528,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+529,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"5
+"
+530,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"104
+"
+531,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"54
+"
+532,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+533,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"6
+"
+534,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"86
+"
+535,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"72
+"
+536,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+537,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"6
+"
+538,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"111
+"
+539,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"45
+"
+540,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+541,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"8
+"
+542,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"78
+"
+543,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"77
+"
+544,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+545,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"9
+"
+546,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"112
+"
+547,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"44
+"
+548,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+549,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"8
+"
+550,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"67
+"
+551,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"92
+"
+552,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+553,HAM,11/06/2018,5,Bright Pond Fellowship,267,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"5
+"
+554,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,United States Senator, ,120000,Rick Scott,REP,"309
+"
+555,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,United States Senator, ,120000,Bill Nelson,DEM,"173
+"
+556,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,United States Senator, ,120000,WriteinVotes, ,"3
+"
+557,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,United States Senator, ,120000,OverVotes, ,"0
+"
+558,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,United States Senator, ,120000,UnderVotes, ,"5
+"
+559,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Representative in Congress, District 5,140050,Virginia Fuller,REP,"288
+"
+560,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Representative in Congress, District 5,140050,Al Lawson,DEM,"191
+"
+561,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+562,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Representative in Congress, District 5,140050,UnderVotes, ,"11
+"
+563,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,DeSantis / NuÃ±ez,REP,"320
+"
+564,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,Gillum / King,DEM,"156
+"
+565,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+566,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+567,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+568,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+569,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,WriteinVotes, ,"1
+"
+570,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,OverVotes, ,"0
+"
+571,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Governor, ,160000,UnderVotes, ,"6
+"
+572,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Attorney General, ,160200,Ashley Moody,REP,"320
+"
+573,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Attorney General, ,160200,Sean Shaw,DEM,"156
+"
+574,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"6
+"
+575,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Attorney General, ,160200,OverVotes, ,"0
+"
+576,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Attorney General, ,160200,UnderVotes, ,"8
+"
+577,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"318
+"
+578,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"158
+"
+579,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+580,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+581,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Chief Financial Officer, ,160500,UnderVotes, ,"13
+"
+582,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"320
+"
+583,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"158
+"
+584,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+585,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Commissioner of Agriculture, ,160800,UnderVotes, ,"12
+"
+586,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,State Representative, District 10,260100,Chuck Brannan,REP,"314
+"
+587,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,State Representative, District 10,260100,Ronald W. Williams II,DEM,"154
+"
+588,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,State Representative, District 10,260100,Fred S. Martin,NPA,"6
+"
+589,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"6
+"
+590,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,State Representative, District 10,260100,OverVotes, ,"0
+"
+591,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,State Representative, District 10,260100,UnderVotes, ,"10
+"
+592,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"284
+"
+593,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"173
+"
+594,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+595,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"33
+"
+596,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"270
+"
+597,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"180
+"
+598,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+599,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"40
+"
+600,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"272
+"
+601,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"171
+"
+602,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+603,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"47
+"
+604,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"266
+"
+605,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"178
+"
+606,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+607,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"46
+"
+608,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"272
+"
+609,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"177
+"
+610,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+611,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"41
+"
+612,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"269
+"
+613,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"176
+"
+614,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+615,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"45
+"
+616,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"250
+"
+617,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"224
+"
+618,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+619,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"16
+"
+620,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"302
+"
+621,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"166
+"
+622,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+623,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"22
+"
+624,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"345
+"
+625,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"126
+"
+626,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+627,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"19
+"
+628,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"255
+"
+629,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"216
+"
+630,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+631,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"19
+"
+632,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"292
+"
+633,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"172
+"
+634,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+635,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"26
+"
+636,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"289
+"
+637,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"182
+"
+638,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+639,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"18
+"
+640,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"297
+"
+641,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"167
+"
+642,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+643,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"25
+"
+644,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"249
+"
+645,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"217
+"
+646,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+647,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"23
+"
+648,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"301
+"
+649,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"156
+"
+650,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+651,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"33
+"
+652,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"232
+"
+653,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"210
+"
+654,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+655,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"47
+"
+656,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"327
+"
+657,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"133
+"
+658,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+659,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"30
+"
+660,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"217
+"
+661,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"253
+"
+662,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+663,HAM,11/06/2018,6,Genoa Vol. Fire Dept.,769,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"20
+"
+664,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,United States Senator, ,120000,Rick Scott,REP,"292
+"
+665,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,United States Senator, ,120000,Bill Nelson,DEM,"181
+"
+666,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,United States Senator, ,120000,WriteinVotes, ,"0
+"
+667,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,United States Senator, ,120000,OverVotes, ,"0
+"
+668,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,United States Senator, ,120000,UnderVotes, ,"5
+"
+669,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Representative in Congress, District 5,140050,Virginia Fuller,REP,"279
+"
+670,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Representative in Congress, District 5,140050,Al Lawson,DEM,"190
+"
+671,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Representative in Congress, District 5,140050,OverVotes, ,"1
+"
+672,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Representative in Congress, District 5,140050,UnderVotes, ,"8
+"
+673,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,DeSantis / NuÃ±ez,REP,"294
+"
+674,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,Gillum / King,DEM,"175
+"
+675,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+676,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+677,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+678,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+679,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,WriteinVotes, ,"1
+"
+680,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,OverVotes, ,"1
+"
+681,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Governor, ,160000,UnderVotes, ,"2
+"
+682,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Attorney General, ,160200,Ashley Moody,REP,"298
+"
+683,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Attorney General, ,160200,Sean Shaw,DEM,"169
+"
+684,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"6
+"
+685,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Attorney General, ,160200,OverVotes, ,"0
+"
+686,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Attorney General, ,160200,UnderVotes, ,"5
+"
+687,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"291
+"
+688,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"175
+"
+689,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+690,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Chief Financial Officer, ,160500,OverVotes, ,"1
+"
+691,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Chief Financial Officer, ,160500,UnderVotes, ,"11
+"
+692,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"292
+"
+693,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"181
+"
+694,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+695,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Commissioner of Agriculture, ,160800,UnderVotes, ,"5
+"
+696,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,State Representative, District 10,260100,Chuck Brannan,REP,"287
+"
+697,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,State Representative, District 10,260100,Ronald W. Williams II,DEM,"172
+"
+698,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,State Representative, District 10,260100,Fred S. Martin,NPA,"4
+"
+699,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"6
+"
+700,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,State Representative, District 10,260100,OverVotes, ,"0
+"
+701,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,State Representative, District 10,260100,UnderVotes, ,"9
+"
+702,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"298
+"
+703,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"125
+"
+704,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+705,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"55
+"
+706,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"296
+"
+707,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"121
+"
+708,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+709,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"61
+"
+710,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"297
+"
+711,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"118
+"
+712,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+713,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"63
+"
+714,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"292
+"
+715,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"123
+"
+716,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"2
+"
+717,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"61
+"
+718,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"288
+"
+719,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"132
+"
+720,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+721,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"58
+"
+722,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"292
+"
+723,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"125
+"
+724,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+725,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"61
+"
+726,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"283
+"
+727,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"167
+"
+728,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+729,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"28
+"
+730,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"318
+"
+731,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"134
+"
+732,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+733,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"25
+"
+734,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"360
+"
+735,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"95
+"
+736,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+737,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"23
+"
+738,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"236
+"
+739,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"215
+"
+740,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+741,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"27
+"
+742,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"322
+"
+743,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"124
+"
+744,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+745,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"31
+"
+746,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"290
+"
+747,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"157
+"
+748,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+749,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"31
+"
+750,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"319
+"
+751,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"121
+"
+752,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+753,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"38
+"
+754,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"225
+"
+755,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"219
+"
+756,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+757,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"34
+"
+758,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"310
+"
+759,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"124
+"
+760,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+761,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"44
+"
+762,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"240
+"
+763,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"188
+"
+764,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+765,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"50
+"
+766,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"326
+"
+767,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"113
+"
+768,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+769,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"39
+"
+770,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"188
+"
+771,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"261
+"
+772,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+773,HAM,11/06/2018,7,Bellville Vol. Fire Dept.,839,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"28
+"
+774,HAM,11/06/2018,8,Cross Roads,1469,United States Senator, ,120000,Rick Scott,REP,"758
+"
+775,HAM,11/06/2018,8,Cross Roads,1469,United States Senator, ,120000,Bill Nelson,DEM,"157
+"
+776,HAM,11/06/2018,8,Cross Roads,1469,United States Senator, ,120000,WriteinVotes, ,"2
+"
+777,HAM,11/06/2018,8,Cross Roads,1469,United States Senator, ,120000,OverVotes, ,"0
+"
+778,HAM,11/06/2018,8,Cross Roads,1469,United States Senator, ,120000,UnderVotes, ,"10
+"
+779,HAM,11/06/2018,8,Cross Roads,1469,Representative in Congress, District 5,140050,Virginia Fuller,REP,"737
+"
+780,HAM,11/06/2018,8,Cross Roads,1469,Representative in Congress, District 5,140050,Al Lawson,DEM,"171
+"
+781,HAM,11/06/2018,8,Cross Roads,1469,Representative in Congress, District 5,140050,OverVotes, ,"0
+"
+782,HAM,11/06/2018,8,Cross Roads,1469,Representative in Congress, District 5,140050,UnderVotes, ,"19
+"
+783,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,DeSantis / NuÃ±ez,REP,"771
+"
+784,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,Gillum / King,DEM,"137
+"
+785,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,Richardson / Argenziano,REF,"6
+"
+786,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+787,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+788,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+789,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,WriteinVotes, ,"0
+"
+790,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,OverVotes, ,"2
+"
+791,HAM,11/06/2018,8,Cross Roads,1469,Governor, ,160000,UnderVotes, ,"6
+"
+792,HAM,11/06/2018,8,Cross Roads,1469,Attorney General, ,160200,Ashley Moody,REP,"772
+"
+793,HAM,11/06/2018,8,Cross Roads,1469,Attorney General, ,160200,Sean Shaw,DEM,"132
+"
+794,HAM,11/06/2018,8,Cross Roads,1469,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"9
+"
+795,HAM,11/06/2018,8,Cross Roads,1469,Attorney General, ,160200,OverVotes, ,"0
+"
+796,HAM,11/06/2018,8,Cross Roads,1469,Attorney General, ,160200,UnderVotes, ,"14
+"
+797,HAM,11/06/2018,8,Cross Roads,1469,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"759
+"
+798,HAM,11/06/2018,8,Cross Roads,1469,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"144
+"
+799,HAM,11/06/2018,8,Cross Roads,1469,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+800,HAM,11/06/2018,8,Cross Roads,1469,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+801,HAM,11/06/2018,8,Cross Roads,1469,Chief Financial Officer, ,160500,UnderVotes, ,"24
+"
+802,HAM,11/06/2018,8,Cross Roads,1469,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"775
+"
+803,HAM,11/06/2018,8,Cross Roads,1469,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"144
+"
+804,HAM,11/06/2018,8,Cross Roads,1469,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+805,HAM,11/06/2018,8,Cross Roads,1469,Commissioner of Agriculture, ,160800,UnderVotes, ,"8
+"
+806,HAM,11/06/2018,8,Cross Roads,1469,State Representative, District 10,260100,Chuck Brannan,REP,"736
+"
+807,HAM,11/06/2018,8,Cross Roads,1469,State Representative, District 10,260100,Ronald W. Williams II,DEM,"139
+"
+808,HAM,11/06/2018,8,Cross Roads,1469,State Representative, District 10,260100,Fred S. Martin,NPA,"16
+"
+809,HAM,11/06/2018,8,Cross Roads,1469,State Representative, District 10,260100,Merrillee Malwitz Jipson,NPA,"19
+"
+810,HAM,11/06/2018,8,Cross Roads,1469,State Representative, District 10,260100,OverVotes, ,"0
+"
+811,HAM,11/06/2018,8,Cross Roads,1469,State Representative, District 10,260100,UnderVotes, ,"17
+"
+812,HAM,11/06/2018,8,Cross Roads,1469,County Commissioner, District 2,380020,Josh Smith,REP,"545
+"
+813,HAM,11/06/2018,8,Cross Roads,1469,County Commissioner, District 2,380020,Sandy Hurst,DEM,"370
+"
+814,HAM,11/06/2018,8,Cross Roads,1469,County Commissioner, District 2,380020,OverVotes, ,"2
+"
+815,HAM,11/06/2018,8,Cross Roads,1469,County Commissioner, District 2,380020,UnderVotes, ,"10
+"
+816,HAM,11/06/2018,8,Cross Roads,1469,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"508
+"
+817,HAM,11/06/2018,8,Cross Roads,1469,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"327
+"
+818,HAM,11/06/2018,8,Cross Roads,1469,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+819,HAM,11/06/2018,8,Cross Roads,1469,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"91
+"
+820,HAM,11/06/2018,8,Cross Roads,1469,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"523
+"
+821,HAM,11/06/2018,8,Cross Roads,1469,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"305
+"
+822,HAM,11/06/2018,8,Cross Roads,1469,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+823,HAM,11/06/2018,8,Cross Roads,1469,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"98
+"
+824,HAM,11/06/2018,8,Cross Roads,1469,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"524
+"
+825,HAM,11/06/2018,8,Cross Roads,1469,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"311
+"
+826,HAM,11/06/2018,8,Cross Roads,1469,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"1
+"
+827,HAM,11/06/2018,8,Cross Roads,1469,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"91
+"
+828,HAM,11/06/2018,8,Cross Roads,1469,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"500
+"
+829,HAM,11/06/2018,8,Cross Roads,1469,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"331
+"
+830,HAM,11/06/2018,8,Cross Roads,1469,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+831,HAM,11/06/2018,8,Cross Roads,1469,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"95
+"
+832,HAM,11/06/2018,8,Cross Roads,1469,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"496
+"
+833,HAM,11/06/2018,8,Cross Roads,1469,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"333
+"
+834,HAM,11/06/2018,8,Cross Roads,1469,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"2
+"
+835,HAM,11/06/2018,8,Cross Roads,1469,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"96
+"
+836,HAM,11/06/2018,8,Cross Roads,1469,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"506
+"
+837,HAM,11/06/2018,8,Cross Roads,1469,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"317
+"
+838,HAM,11/06/2018,8,Cross Roads,1469,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"2
+"
+839,HAM,11/06/2018,8,Cross Roads,1469,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"102
+"
+840,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"573
+"
+841,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"333
+"
+842,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"2
+"
+843,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"19
+"
+844,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"678
+"
+845,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"221
+"
+846,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+847,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"28
+"
+848,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"654
+"
+849,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"228
+"
+850,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+851,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"45
+"
+852,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"361
+"
+853,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"521
+"
+854,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+855,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"45
+"
+856,HAM,11/06/2018,8,Cross Roads,1469,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"644
+"
+857,HAM,11/06/2018,8,Cross Roads,1469,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"221
+"
+858,HAM,11/06/2018,8,Cross Roads,1469,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+859,HAM,11/06/2018,8,Cross Roads,1469,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"61
+"
+860,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"560
+"
+861,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"312
+"
+862,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+863,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"55
+"
+864,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"614
+"
+865,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"241
+"
+866,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"1
+"
+867,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"71
+"
+868,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"442
+"
+869,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"429
+"
+870,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+871,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"54
+"
+872,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"622
+"
+873,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"247
+"
+874,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+875,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"58
+"
+876,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"492
+"
+877,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"357
+"
+878,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+879,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"77
+"
+880,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"654
+"
+881,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"212
+"
+882,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"1
+"
+883,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"60
+"
+884,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"381
+"
+885,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"496
+"
+886,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+887,HAM,11/06/2018,8,Cross Roads,1469,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"50
+"

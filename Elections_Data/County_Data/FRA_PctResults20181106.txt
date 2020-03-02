@@ -1,0 +1,927 @@
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	811
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	264
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	29
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	852
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	225
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	31
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	846
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	207
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	12
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Governor	 	160000	UnderVotes	 	0	902	21
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	815
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	207
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	28
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	58
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	895
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	183
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	30
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	829
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	227
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	52
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	429
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	478
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	201
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	262
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	250
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	584
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	599
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	341
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	166
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	564
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	345
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	198
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	572
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	338
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	198
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	567
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	336
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	205
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	573
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	332
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	203
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	562
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	342
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	204
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	608
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	425
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	6
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	69
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	636
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	362
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	106
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	754
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	290
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	63
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	566
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	466
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	75
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	683
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	324
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	101
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	622
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	380
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	106
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	708
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	284
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	116
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	520
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	489
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	98
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	664
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	322
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	121
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	505
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	440
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	163
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	733
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	247
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	128
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	488
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	539
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	1	Eastpoint	1678	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	79
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	199
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	106
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	206
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	98
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	207
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	98
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Governor	 	160000	UnderVotes	 	0	902	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	209
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	91
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	214
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	85
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	208
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	96
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	107
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	152
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	48
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	199
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	79
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	25
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	County Commissioner	 District 2	380020	Bert Boldt	REP	104226667	71314	207
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	County Commissioner	 District 2	380020	Tamara Allen	DEM	104228243	71316	82
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	County Commissioner	 District 2	380020	Mark Nobles	NPA	104225282	71315	16
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	185
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	83
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	39
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	185
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	78
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	43
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	181
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	79
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	47
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	180
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	80
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	46
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	175
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	84
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	47
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	173
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	86
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	48
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	189
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	104
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	14
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	199
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	96
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	12
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	212
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	85
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	10
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	159
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	139
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	210
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	89
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	164
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	133
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	10
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	168
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	124
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	15
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	192
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	107
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	179
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	106
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	22
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	180
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	97
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	30
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	228
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	65
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	14
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	173
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	123
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	2	Alligator Point	382	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	11
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	344
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	598
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	20
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	364
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	563
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	37
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	329
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	601
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	OverVotes	 	0	901	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Governor	 	160000	UnderVotes	 	0	902	19
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	328
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	583
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	15
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	38
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	406
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	524
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	35
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	311
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	607
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	46
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	311
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	462
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	192
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	184
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	626
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	147
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	529
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	308
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	128
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	450
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	355
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	160
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	485
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	322
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	158
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	472
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	334
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	158
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	476
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	335
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	154
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	451
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	359
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	155
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	434
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	470
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	61
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	502
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	392
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	71
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	692
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	192
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	81
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	672
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	226
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	67
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	454
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	422
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	88
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	496
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	383
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	84
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	545
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	325
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	94
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	597
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	285
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	81
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	499
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	358
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	107
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	471
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	374
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	119
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	584
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	275
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	105
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	546
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	340
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	3	National Guard Armory	1336	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	78
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	167
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	134
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	174
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	125
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	5
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	173
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	121
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Governor	 	160000	UnderVotes	 	0	902	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	170
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	113
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	9
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	200
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	96
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	172
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	119
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	116
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	125
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	63
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	135
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	112
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	52
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	5
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	County Commissioner	 District 4	380040	Joseph "Smokey" Parrish	DEM	104223138	71317	159
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	County Commissioner	 District 4	380040	Howard E. Wesson	NPA	104229173	71318	134
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	11
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	147
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	107
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	50
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	143
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	104
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	147
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	103
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	54
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	151
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	100
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	53
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	145
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	105
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	53
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	148
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	103
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	53
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	167
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	123
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	13
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	181
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	108
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	14
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	222
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	66
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	16
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	170
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	121
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	13
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	170
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	110
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	24
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	170
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	116
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	168
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	114
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	22
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	203
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	82
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	19
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	155
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	119
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	28
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	143
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	125
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	36
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	211
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	68
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	25
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	194
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	93
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	4	Fort Coombs Armory	379	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	17
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	737
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	342
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	798
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	283
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	23
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	774
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	273
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	10
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	5
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Governor	 	160000	UnderVotes	 	0	902	21
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	758
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	279
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	33
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	34
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	806
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	263
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	31
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	762
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	307
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	35
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	447
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	495
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	161
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	371
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	230
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	491
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	11
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	County Commissioner	 District 2	380020	Bert Boldt	REP	104226667	71314	143
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	County Commissioner	 District 2	380020	Tamara Allen	DEM	104228243	71316	119
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	County Commissioner	 District 2	380020	Mark Nobles	NPA	104225282	71315	174
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	591
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	351
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	162
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	589
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	346
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	169
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	596
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	338
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	169
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	588
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	349
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	165
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	594
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	345
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	165
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	568
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	366
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	170
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	636
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	412
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	55
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	705
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	334
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	5
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	60
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	777
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	251
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	72
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	628
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	404
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	71
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	728
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	281
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	92
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	664
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	354
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	85
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	702
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	304
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	97
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	521
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	503
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	78
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	668
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	326
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	106
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	591
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	388
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	123
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	771
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	228
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	105
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	556
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	479
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	5	Carrabelle	1631	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	67
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	275
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	123
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	283
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	117
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	287
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	108
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	283
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	109
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	289
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	110
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	9
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	286
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	114
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	176
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	174
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	58
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	188
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	88
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	124
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	County Commissioner	 District 2	380020	Bert Boldt	REP	104226667	71314	217
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	County Commissioner	 District 2	380020	Tamara Allen	DEM	104228243	71316	105
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	County Commissioner	 District 2	380020	Mark Nobles	NPA	104225282	71315	78
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	227
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	127
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	54
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	238
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	116
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	54
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	226
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	128
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	54
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	236
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	119
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	53
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	225
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	130
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	51
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	224
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	129
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	55
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	238
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	155
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	15
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	272
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	121
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	15
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	295
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	102
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	11
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	212
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	185
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	11
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	276
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	116
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	16
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	249
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	141
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	264
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	126
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	220
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	170
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	257
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	127
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	24
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	225
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	148
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	35
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	287
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	99
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	21
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	235
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	157
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	6	Lanark Village	584	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	16
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	419
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	262
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	426
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	254
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	6
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	423
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	252
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Governor	 	160000	UnderVotes	 	0	902	4
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	427
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	238
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	8
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	13
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	443
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	236
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	409
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	267
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	300
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	250
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	135
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	393
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	201
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	82
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	9
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	423
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	153
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	110
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	403
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	154
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	129
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	417
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	139
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	130
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	396
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	162
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	128
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	400
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	156
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	130
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	389
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	166
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	131
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	463
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	210
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	13
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	482
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	188
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	16
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	503
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	165
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	380
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	288
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	475
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	189
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	22
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	395
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	264
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	26
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	404
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	244
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	38
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	477
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	185
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	23
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	424
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	232
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	30
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	421
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	219
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	45
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	567
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	93
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	26
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	458
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	208
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	7	St. George Island	889	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	20
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	United States Senator	 	120000	Rick Scott	REP	103093132	71039	452
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	United States Senator	 	120000	Bill Nelson	DEM	113049868	70482	182
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	69975	486
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Representative in Congress	 District 2	140020	Bob Rackleff	DEM	105028511	70053	140
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	24
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	DeSantis / Nuñez	REP	107083209	70276	477
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	Gillum / King	DEM	105159590	69686	134
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	Richardson / Argenziano	REF	103582489	71536	10
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	Gibson / Wilds	NPA	101547482	64360	7
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	Foley / Tutton	NPA	107918869	73078	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	Stanley / McJury	NPA	107940017	70438	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	WriteinVotes	 	0	900	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Governor	 	160000	UnderVotes	 	0	902	14
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	69858	459
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Attorney General	 	160200	Sean Shaw	DEM	105100441	69534	139
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Attorney General	 	160200	Jeffrey Marc Siskind	NPA	111854349	72505	18
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	34
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	70162	528
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Chief Financial Officer	 	160500	Jeremy Ring	DEM	102522489	69848	107
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Chief Financial Officer	 	160500	WriteinVotes	 	0	900	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	15
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Commissioner of Agriculture	 	160800	Matt Caldwell	REP	111743843	69782	470
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Commissioner of Agriculture	 	160800	Nicole "Nikki" Fried	DEM	100584024	71854	150
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	30
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	Lisa Barclay Fountain	NOP	116959703	70220	218
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	David Frank	NOP	105038736	70164	307
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 12	550212	UnderVotes	 	0	902	125
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Tax Collector	 	355000	Rick Watson	REP	104227344	71310	153
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Tax Collector	 	355000	Teresa Ann Martin	DEM	104226390	71313	230
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Tax Collector	 	355000	Connie Dykes Polous	NPA	104225982	71311	264
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Tax Collector	 	355000	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Tax Collector	 	355000	UnderVotes	 	0	902	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	County Commissioner	 District 4	380040	Joseph "Smokey" Parrish	DEM	104223138	71317	339
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	County Commissioner	 District 4	380040	Howard E. Wesson	NPA	104229173	71318	297
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	14
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	Yes	NOP	113331305	10	298
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	No	NOP	113331305	20	234
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Alan Lawson	Justice of the Supreme Court	500001	UnderVotes	 	0	902	118
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	Yes	NOP	103877393	10	287
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	No	NOP	103877393	20	238
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Harvey Jay	First District Court of Appeal	520101	UnderVotes	 	0	902	125
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	Yes	NOP	105198266	10	292
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	No	NOP	105198266	20	229
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Stephanie Ray	First District Court of Appeal	520102	UnderVotes	 	0	902	129
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	Yes	NOP	105011721	10	292
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	No	NOP	105011721	20	234
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Brad Thomas	First District Court of Appeal	520103	UnderVotes	 	0	902	124
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	Yes	NOP	105044161	10	290
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	No	NOP	105044161	20	230
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Kemmerly Thomas	First District Court of Appeal	520104	UnderVotes	 	0	902	128
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	Yes	NOP	105228072	10	282
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	No	NOP	105228072	20	233
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Retention of Allen Winsor	First District Court of Appeal	520105	UnderVotes	 	0	902	135
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	Yes for Approval	NOP	0	10	362
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	No for Rejection	NOP	0	20	226
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	OverVotes	 	0	901	3
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 1: Increased Homestead Property Tax Exemption	 	900001	UnderVotes	 	0	902	59
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	Yes for Approval	NOP	0	10	376
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	No for Rejection	NOP	0	20	201
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 2: Limitations on Property Tax Assessments	 	900002	UnderVotes	 	0	902	72
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	Yes for Approval	NOP	0	10	451
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	No for Rejection	NOP	0	20	145
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 3: Voter Control of Gambling in Florida	 	900003	UnderVotes	 	0	902	54
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	Yes for Approval	NOP	0	10	355
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	No for Rejection	NOP	0	20	239
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 4: Voting Restoration Amendment	 	900004	UnderVotes	 	0	902	54
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	Yes for Approval	NOP	0	10	410
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	No for Rejection	NOP	0	20	166
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees	 Authorize, or Raise State Taxes or Fees	900005	UnderVotes	 	0	902	73
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	Yes for Approval	NOP	0	10	371
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	No for Rejection	NOP	0	20	202
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 6: Rights of Crime Victims; Judges	 	900006	UnderVotes	 	0	902	75
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	Yes for Approval	NOP	0	10	383
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	No for Rejection	NOP	0	20	187
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities	 	900007	UnderVotes	 	0	902	79
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	Yes for Approval	NOP	0	10	297
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	No for Rejection	NOP	0	20	276
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	OverVotes	 	0	901	0
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces	 	900009	UnderVotes	 	0	902	77
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	Yes for Approval	NOP	0	10	392
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	No for Rejection	NOP	0	20	172
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 10: State and Local Government Structure and Operation	 	900010	UnderVotes	 	0	902	84
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	Yes for Approval	NOP	0	10	300
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	No for Rejection	NOP	0	20	239
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes	 	900011	UnderVotes	 	0	902	110
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	Yes for Approval	NOP	0	10	421
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	No for Rejection	NOP	0	20	137
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	OverVotes	 	0	901	1
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 12: Lobbying and Abuse of Office by Public Officers	 	900012	UnderVotes	 	0	902	91
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	Yes for Approval	NOP	0	10	259
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	No for Rejection	NOP	0	20	338
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	OverVotes	 	0	901	2
+FRA	Franklin	10481	11/06/2018	2018 General Election	8	American Legion	904	0	0	0	Amendment No. 13: Ends Dog Racing	 	900013	UnderVotes	 	0	902	51

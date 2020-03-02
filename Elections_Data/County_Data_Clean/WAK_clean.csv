@@ -1,0 +1,2785 @@
+,County Code,Election Date,Unique PCT Identifier,Precinct Polling Location,Total Registered,Contest Name,District,Contest Code,Candidate,Party,Vote Total
+0,WAK,11/06/2018,1,01 Wakulla Station,0,United States Senator, ,120000,Rick Scott,REP,"1178
+"
+1,WAK,11/06/2018,1,01 Wakulla Station,0,United States Senator, ,120000,Bill Nelson,DEM,"671
+"
+2,WAK,11/06/2018,1,01 Wakulla Station,0,United States Senator, ,120000,WriteinVotes, ,"4
+"
+3,WAK,11/06/2018,1,01 Wakulla Station,0,United States Senator, ,120000,OverVotes, ,"0
+"
+4,WAK,11/06/2018,1,01 Wakulla Station,0,United States Senator, ,120000,UnderVotes, ,"9
+"
+5,WAK,11/06/2018,1,01 Wakulla Station,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"1225
+"
+6,WAK,11/06/2018,1,01 Wakulla Station,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"609
+"
+7,WAK,11/06/2018,1,01 Wakulla Station,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+8,WAK,11/06/2018,1,01 Wakulla Station,0,Representative in Congress, District 2,140020,UnderVotes, ,"30
+"
+9,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"1257
+"
+10,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,Gillum / King,DEM,"565
+"
+11,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,Richardson / Argenziano,REF,"15
+"
+12,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,Gibson / Wilds,NPA,"10
+"
+13,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,Foley / Tutton,NPA,"6
+"
+14,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,Stanley / McJury,NPA,"4
+"
+15,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,WriteinVotes, ,"1
+"
+16,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,OverVotes, ,"1
+"
+17,WAK,11/06/2018,1,01 Wakulla Station,0,Governor, ,160000,UnderVotes, ,"5
+"
+18,WAK,11/06/2018,1,01 Wakulla Station,0,Attorney General, ,160200,Ashley Moody,REP,"1258
+"
+19,WAK,11/06/2018,1,01 Wakulla Station,0,Attorney General, ,160200,Sean Shaw,DEM,"543
+"
+20,WAK,11/06/2018,1,01 Wakulla Station,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"35
+"
+21,WAK,11/06/2018,1,01 Wakulla Station,0,Attorney General, ,160200,OverVotes, ,"0
+"
+22,WAK,11/06/2018,1,01 Wakulla Station,0,Attorney General, ,160200,UnderVotes, ,"28
+"
+23,WAK,11/06/2018,1,01 Wakulla Station,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"1235
+"
+24,WAK,11/06/2018,1,01 Wakulla Station,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"580
+"
+25,WAK,11/06/2018,1,01 Wakulla Station,0,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+26,WAK,11/06/2018,1,01 Wakulla Station,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+27,WAK,11/06/2018,1,01 Wakulla Station,0,Chief Financial Officer, ,160500,UnderVotes, ,"48
+"
+28,WAK,11/06/2018,1,01 Wakulla Station,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"1212
+"
+29,WAK,11/06/2018,1,01 Wakulla Station,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"613
+"
+30,WAK,11/06/2018,1,01 Wakulla Station,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+31,WAK,11/06/2018,1,01 Wakulla Station,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"39
+"
+32,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"1056
+"
+33,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"606
+"
+34,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+35,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"200
+"
+36,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"1058
+"
+37,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"570
+"
+38,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+39,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"234
+"
+40,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"1074
+"
+41,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"550
+"
+42,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+43,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"238
+"
+44,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"1048
+"
+45,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"574
+"
+46,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+47,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"240
+"
+48,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"1052
+"
+49,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"567
+"
+50,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+51,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"243
+"
+52,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"1044
+"
+53,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"577
+"
+54,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+55,WAK,11/06/2018,1,01 Wakulla Station,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"241
+"
+56,WAK,11/06/2018,1,01 Wakulla Station,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"856
+"
+57,WAK,11/06/2018,1,01 Wakulla Station,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"776
+"
+58,WAK,11/06/2018,1,01 Wakulla Station,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+59,WAK,11/06/2018,1,01 Wakulla Station,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"230
+"
+60,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"680
+"
+61,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"992
+"
+62,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+63,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 2,680002,UnderVotes, ,"190
+"
+64,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"781
+"
+65,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"872
+"
+66,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+67,WAK,11/06/2018,1,01 Wakulla Station,0,County Commissioner, District 4,680004,UnderVotes, ,"209
+"
+68,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"947
+"
+69,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"857
+"
+70,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+71,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"58
+"
+72,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"1071
+"
+73,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"730
+"
+74,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+75,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"61
+"
+76,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"1168
+"
+77,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"641
+"
+78,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+79,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"53
+"
+80,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"1060
+"
+81,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"752
+"
+82,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+83,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"49
+"
+84,WAK,11/06/2018,1,01 Wakulla Station,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"1130
+"
+85,WAK,11/06/2018,1,01 Wakulla Station,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"657
+"
+86,WAK,11/06/2018,1,01 Wakulla Station,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+87,WAK,11/06/2018,1,01 Wakulla Station,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"75
+"
+88,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"1012
+"
+89,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"785
+"
+90,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+91,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"65
+"
+92,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"1088
+"
+93,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"691
+"
+94,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+95,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"83
+"
+96,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"1020
+"
+97,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"785
+"
+98,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+99,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"57
+"
+100,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"1077
+"
+101,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"692
+"
+102,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+103,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"93
+"
+104,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"922
+"
+105,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"815
+"
+106,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"2
+"
+107,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"123
+"
+108,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"1289
+"
+109,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"489
+"
+110,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"1
+"
+111,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"83
+"
+112,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"917
+"
+113,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"879
+"
+114,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+115,WAK,11/06/2018,1,01 Wakulla Station,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"64
+"
+116,WAK,11/06/2018,2,02 Crawfordville,0,United States Senator, ,120000,Rick Scott,REP,"2364
+"
+117,WAK,11/06/2018,2,02 Crawfordville,0,United States Senator, ,120000,Bill Nelson,DEM,"1244
+"
+118,WAK,11/06/2018,2,02 Crawfordville,0,United States Senator, ,120000,WriteinVotes, ,"9
+"
+119,WAK,11/06/2018,2,02 Crawfordville,0,United States Senator, ,120000,OverVotes, ,"0
+"
+120,WAK,11/06/2018,2,02 Crawfordville,0,United States Senator, ,120000,UnderVotes, ,"26
+"
+121,WAK,11/06/2018,2,02 Crawfordville,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"2437
+"
+122,WAK,11/06/2018,2,02 Crawfordville,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"1144
+"
+123,WAK,11/06/2018,2,02 Crawfordville,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+124,WAK,11/06/2018,2,02 Crawfordville,0,Representative in Congress, District 2,140020,UnderVotes, ,"61
+"
+125,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"2491
+"
+126,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,Gillum / King,DEM,"1074
+"
+127,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,Richardson / Argenziano,REF,"27
+"
+128,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,Gibson / Wilds,NPA,"10
+"
+129,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,Foley / Tutton,NPA,"5
+"
+130,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,Stanley / McJury,NPA,"7
+"
+131,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,WriteinVotes, ,"9
+"
+132,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,OverVotes, ,"1
+"
+133,WAK,11/06/2018,2,02 Crawfordville,0,Governor, ,160000,UnderVotes, ,"18
+"
+134,WAK,11/06/2018,2,02 Crawfordville,0,Attorney General, ,160200,Ashley Moody,REP,"2499
+"
+135,WAK,11/06/2018,2,02 Crawfordville,0,Attorney General, ,160200,Sean Shaw,DEM,"1017
+"
+136,WAK,11/06/2018,2,02 Crawfordville,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"75
+"
+137,WAK,11/06/2018,2,02 Crawfordville,0,Attorney General, ,160200,OverVotes, ,"0
+"
+138,WAK,11/06/2018,2,02 Crawfordville,0,Attorney General, ,160200,UnderVotes, ,"51
+"
+139,WAK,11/06/2018,2,02 Crawfordville,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"2505
+"
+140,WAK,11/06/2018,2,02 Crawfordville,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"1068
+"
+141,WAK,11/06/2018,2,02 Crawfordville,0,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+142,WAK,11/06/2018,2,02 Crawfordville,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+143,WAK,11/06/2018,2,02 Crawfordville,0,Chief Financial Officer, ,160500,UnderVotes, ,"68
+"
+144,WAK,11/06/2018,2,02 Crawfordville,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"2410
+"
+145,WAK,11/06/2018,2,02 Crawfordville,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"1153
+"
+146,WAK,11/06/2018,2,02 Crawfordville,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+147,WAK,11/06/2018,2,02 Crawfordville,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"79
+"
+148,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"2282
+"
+149,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"1026
+"
+150,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+151,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"334
+"
+152,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"2269
+"
+153,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"984
+"
+154,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+155,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"388
+"
+156,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"2287
+"
+157,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"963
+"
+158,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+159,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"392
+"
+160,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"2242
+"
+161,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"986
+"
+162,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+163,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"413
+"
+164,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"2200
+"
+165,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"1030
+"
+166,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+167,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"412
+"
+168,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"2196
+"
+169,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"1028
+"
+170,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+171,WAK,11/06/2018,2,02 Crawfordville,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"418
+"
+172,WAK,11/06/2018,2,02 Crawfordville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"1717
+"
+173,WAK,11/06/2018,2,02 Crawfordville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"1562
+"
+174,WAK,11/06/2018,2,02 Crawfordville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+175,WAK,11/06/2018,2,02 Crawfordville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"363
+"
+176,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"1505
+"
+177,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"1836
+"
+178,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+179,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 2,680002,UnderVotes, ,"301
+"
+180,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"1767
+"
+181,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"1547
+"
+182,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+183,WAK,11/06/2018,2,02 Crawfordville,0,County Commissioner, District 4,680004,UnderVotes, ,"328
+"
+184,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"1961
+"
+185,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"1564
+"
+186,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+187,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"117
+"
+188,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"2138
+"
+189,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"1333
+"
+190,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+191,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"170
+"
+192,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"2332
+"
+193,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"1183
+"
+194,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+195,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"126
+"
+196,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"1927
+"
+197,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"1593
+"
+198,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+199,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"122
+"
+200,WAK,11/06/2018,2,02 Crawfordville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"2263
+"
+201,WAK,11/06/2018,2,02 Crawfordville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"1210
+"
+202,WAK,11/06/2018,2,02 Crawfordville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"1
+"
+203,WAK,11/06/2018,2,02 Crawfordville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"168
+"
+204,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"2024
+"
+205,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"1461
+"
+206,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+207,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"157
+"
+208,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"2199
+"
+209,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"1265
+"
+210,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+211,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"178
+"
+212,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"1865
+"
+213,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"1614
+"
+214,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+215,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"163
+"
+216,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"2190
+"
+217,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"1251
+"
+218,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+219,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"201
+"
+220,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"1905
+"
+221,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"1469
+"
+222,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+223,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"267
+"
+224,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"2442
+"
+225,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"1004
+"
+226,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+227,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"196
+"
+228,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"1853
+"
+229,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"1646
+"
+230,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+231,WAK,11/06/2018,2,02 Crawfordville,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"141
+"
+232,WAK,11/06/2018,3,03 Sopchoppy,0,United States Senator, ,120000,Rick Scott,REP,"562
+"
+233,WAK,11/06/2018,3,03 Sopchoppy,0,United States Senator, ,120000,Bill Nelson,DEM,"360
+"
+234,WAK,11/06/2018,3,03 Sopchoppy,0,United States Senator, ,120000,WriteinVotes, ,"1
+"
+235,WAK,11/06/2018,3,03 Sopchoppy,0,United States Senator, ,120000,OverVotes, ,"0
+"
+236,WAK,11/06/2018,3,03 Sopchoppy,0,United States Senator, ,120000,UnderVotes, ,"0
+"
+237,WAK,11/06/2018,3,03 Sopchoppy,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"577
+"
+238,WAK,11/06/2018,3,03 Sopchoppy,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"327
+"
+239,WAK,11/06/2018,3,03 Sopchoppy,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+240,WAK,11/06/2018,3,03 Sopchoppy,0,Representative in Congress, District 2,140020,UnderVotes, ,"19
+"
+241,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"590
+"
+242,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,Gillum / King,DEM,"316
+"
+243,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,Richardson / Argenziano,REF,"6
+"
+244,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,Gibson / Wilds,NPA,"1
+"
+245,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,Foley / Tutton,NPA,"6
+"
+246,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+247,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,WriteinVotes, ,"1
+"
+248,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,OverVotes, ,"1
+"
+249,WAK,11/06/2018,3,03 Sopchoppy,0,Governor, ,160000,UnderVotes, ,"1
+"
+250,WAK,11/06/2018,3,03 Sopchoppy,0,Attorney General, ,160200,Ashley Moody,REP,"591
+"
+251,WAK,11/06/2018,3,03 Sopchoppy,0,Attorney General, ,160200,Sean Shaw,DEM,"306
+"
+252,WAK,11/06/2018,3,03 Sopchoppy,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"12
+"
+253,WAK,11/06/2018,3,03 Sopchoppy,0,Attorney General, ,160200,OverVotes, ,"0
+"
+254,WAK,11/06/2018,3,03 Sopchoppy,0,Attorney General, ,160200,UnderVotes, ,"14
+"
+255,WAK,11/06/2018,3,03 Sopchoppy,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"591
+"
+256,WAK,11/06/2018,3,03 Sopchoppy,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"315
+"
+257,WAK,11/06/2018,3,03 Sopchoppy,0,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+258,WAK,11/06/2018,3,03 Sopchoppy,0,Chief Financial Officer, ,160500,OverVotes, ,"1
+"
+259,WAK,11/06/2018,3,03 Sopchoppy,0,Chief Financial Officer, ,160500,UnderVotes, ,"16
+"
+260,WAK,11/06/2018,3,03 Sopchoppy,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"574
+"
+261,WAK,11/06/2018,3,03 Sopchoppy,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"334
+"
+262,WAK,11/06/2018,3,03 Sopchoppy,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+263,WAK,11/06/2018,3,03 Sopchoppy,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"15
+"
+264,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"561
+"
+265,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"269
+"
+266,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+267,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"92
+"
+268,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"505
+"
+269,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"312
+"
+270,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+271,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"105
+"
+272,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"529
+"
+273,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"289
+"
+274,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+275,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"105
+"
+276,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"521
+"
+277,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"292
+"
+278,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+279,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"110
+"
+280,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"517
+"
+281,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"296
+"
+282,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+283,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"110
+"
+284,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"507
+"
+285,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"308
+"
+286,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+287,WAK,11/06/2018,3,03 Sopchoppy,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"108
+"
+288,WAK,11/06/2018,3,03 Sopchoppy,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"382
+"
+289,WAK,11/06/2018,3,03 Sopchoppy,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"461
+"
+290,WAK,11/06/2018,3,03 Sopchoppy,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+291,WAK,11/06/2018,3,03 Sopchoppy,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"80
+"
+292,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"373
+"
+293,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"497
+"
+294,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+295,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 2,680002,UnderVotes, ,"53
+"
+296,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"506
+"
+297,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"359
+"
+298,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+299,WAK,11/06/2018,3,03 Sopchoppy,0,County Commissioner, District 4,680004,UnderVotes, ,"58
+"
+300,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"463
+"
+301,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"434
+"
+302,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+303,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"26
+"
+304,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"498
+"
+305,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"395
+"
+306,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+307,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"29
+"
+308,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"552
+"
+309,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"342
+"
+310,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+311,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"28
+"
+312,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"518
+"
+313,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"371
+"
+314,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+315,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"34
+"
+316,WAK,11/06/2018,3,03 Sopchoppy,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"500
+"
+317,WAK,11/06/2018,3,03 Sopchoppy,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"386
+"
+318,WAK,11/06/2018,3,03 Sopchoppy,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+319,WAK,11/06/2018,3,03 Sopchoppy,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"37
+"
+320,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"477
+"
+321,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"412
+"
+322,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+323,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"34
+"
+324,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"456
+"
+325,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"427
+"
+326,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+327,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"40
+"
+328,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"437
+"
+329,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"457
+"
+330,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+331,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"28
+"
+332,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"469
+"
+333,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"413
+"
+334,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+335,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"41
+"
+336,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"421
+"
+337,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"448
+"
+338,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+339,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"53
+"
+340,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"547
+"
+341,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"333
+"
+342,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"2
+"
+343,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"41
+"
+344,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"376
+"
+345,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"514
+"
+346,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+347,WAK,11/06/2018,3,03 Sopchoppy,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"33
+"
+348,WAK,11/06/2018,4,04 Smith Creek,0,United States Senator, ,120000,Rick Scott,REP,"118
+"
+349,WAK,11/06/2018,4,04 Smith Creek,0,United States Senator, ,120000,Bill Nelson,DEM,"24
+"
+350,WAK,11/06/2018,4,04 Smith Creek,0,United States Senator, ,120000,WriteinVotes, ,"0
+"
+351,WAK,11/06/2018,4,04 Smith Creek,0,United States Senator, ,120000,OverVotes, ,"0
+"
+352,WAK,11/06/2018,4,04 Smith Creek,0,United States Senator, ,120000,UnderVotes, ,"1
+"
+353,WAK,11/06/2018,4,04 Smith Creek,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"121
+"
+354,WAK,11/06/2018,4,04 Smith Creek,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"17
+"
+355,WAK,11/06/2018,4,04 Smith Creek,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+356,WAK,11/06/2018,4,04 Smith Creek,0,Representative in Congress, District 2,140020,UnderVotes, ,"5
+"
+357,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"127
+"
+358,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,Gillum / King,DEM,"11
+"
+359,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+360,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+361,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+362,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,Stanley / McJury,NPA,"2
+"
+363,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,WriteinVotes, ,"0
+"
+364,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,OverVotes, ,"1
+"
+365,WAK,11/06/2018,4,04 Smith Creek,0,Governor, ,160000,UnderVotes, ,"0
+"
+366,WAK,11/06/2018,4,04 Smith Creek,0,Attorney General, ,160200,Ashley Moody,REP,"128
+"
+367,WAK,11/06/2018,4,04 Smith Creek,0,Attorney General, ,160200,Sean Shaw,DEM,"10
+"
+368,WAK,11/06/2018,4,04 Smith Creek,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"4
+"
+369,WAK,11/06/2018,4,04 Smith Creek,0,Attorney General, ,160200,OverVotes, ,"0
+"
+370,WAK,11/06/2018,4,04 Smith Creek,0,Attorney General, ,160200,UnderVotes, ,"1
+"
+371,WAK,11/06/2018,4,04 Smith Creek,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"126
+"
+372,WAK,11/06/2018,4,04 Smith Creek,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"12
+"
+373,WAK,11/06/2018,4,04 Smith Creek,0,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+374,WAK,11/06/2018,4,04 Smith Creek,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+375,WAK,11/06/2018,4,04 Smith Creek,0,Chief Financial Officer, ,160500,UnderVotes, ,"5
+"
+376,WAK,11/06/2018,4,04 Smith Creek,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"118
+"
+377,WAK,11/06/2018,4,04 Smith Creek,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"20
+"
+378,WAK,11/06/2018,4,04 Smith Creek,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+379,WAK,11/06/2018,4,04 Smith Creek,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"5
+"
+380,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"78
+"
+381,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"50
+"
+382,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+383,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"15
+"
+384,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"77
+"
+385,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"49
+"
+386,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+387,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"17
+"
+388,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"79
+"
+389,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"47
+"
+390,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+391,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"17
+"
+392,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"80
+"
+393,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"46
+"
+394,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+395,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"17
+"
+396,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"74
+"
+397,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"52
+"
+398,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+399,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"17
+"
+400,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"77
+"
+401,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"48
+"
+402,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+403,WAK,11/06/2018,4,04 Smith Creek,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"18
+"
+404,WAK,11/06/2018,4,04 Smith Creek,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"43
+"
+405,WAK,11/06/2018,4,04 Smith Creek,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"81
+"
+406,WAK,11/06/2018,4,04 Smith Creek,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+407,WAK,11/06/2018,4,04 Smith Creek,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"19
+"
+408,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"25
+"
+409,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"111
+"
+410,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+411,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 2,680002,UnderVotes, ,"7
+"
+412,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"69
+"
+413,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"59
+"
+414,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+415,WAK,11/06/2018,4,04 Smith Creek,0,County Commissioner, District 4,680004,UnderVotes, ,"15
+"
+416,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"92
+"
+417,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"48
+"
+418,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+419,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"3
+"
+420,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"90
+"
+421,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"46
+"
+422,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+423,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"7
+"
+424,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"87
+"
+425,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"47
+"
+426,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+427,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"9
+"
+428,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"59
+"
+429,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"73
+"
+430,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+431,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"11
+"
+432,WAK,11/06/2018,4,04 Smith Creek,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"101
+"
+433,WAK,11/06/2018,4,04 Smith Creek,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"32
+"
+434,WAK,11/06/2018,4,04 Smith Creek,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+435,WAK,11/06/2018,4,04 Smith Creek,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"10
+"
+436,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"92
+"
+437,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"39
+"
+438,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+439,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"12
+"
+440,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"83
+"
+441,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"50
+"
+442,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+443,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"10
+"
+444,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"54
+"
+445,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"81
+"
+446,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+447,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"8
+"
+448,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"92
+"
+449,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"39
+"
+450,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+451,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"12
+"
+452,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"66
+"
+453,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"63
+"
+454,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+455,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"14
+"
+456,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"99
+"
+457,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"34
+"
+458,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+459,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"10
+"
+460,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"47
+"
+461,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"88
+"
+462,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+463,WAK,11/06/2018,4,04 Smith Creek,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"8
+"
+464,WAK,11/06/2018,5,05 St. Marks,0,United States Senator, ,120000,Rick Scott,REP,"184
+"
+465,WAK,11/06/2018,5,05 St. Marks,0,United States Senator, ,120000,Bill Nelson,DEM,"96
+"
+466,WAK,11/06/2018,5,05 St. Marks,0,United States Senator, ,120000,WriteinVotes, ,"0
+"
+467,WAK,11/06/2018,5,05 St. Marks,0,United States Senator, ,120000,OverVotes, ,"0
+"
+468,WAK,11/06/2018,5,05 St. Marks,0,United States Senator, ,120000,UnderVotes, ,"1
+"
+469,WAK,11/06/2018,5,05 St. Marks,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"193
+"
+470,WAK,11/06/2018,5,05 St. Marks,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"88
+"
+471,WAK,11/06/2018,5,05 St. Marks,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+472,WAK,11/06/2018,5,05 St. Marks,0,Representative in Congress, District 2,140020,UnderVotes, ,"0
+"
+473,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"189
+"
+474,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,Gillum / King,DEM,"85
+"
+475,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,Richardson / Argenziano,REF,"5
+"
+476,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+477,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+478,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+479,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,WriteinVotes, ,"0
+"
+480,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,OverVotes, ,"1
+"
+481,WAK,11/06/2018,5,05 St. Marks,0,Governor, ,160000,UnderVotes, ,"0
+"
+482,WAK,11/06/2018,5,05 St. Marks,0,Attorney General, ,160200,Ashley Moody,REP,"197
+"
+483,WAK,11/06/2018,5,05 St. Marks,0,Attorney General, ,160200,Sean Shaw,DEM,"79
+"
+484,WAK,11/06/2018,5,05 St. Marks,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"2
+"
+485,WAK,11/06/2018,5,05 St. Marks,0,Attorney General, ,160200,OverVotes, ,"0
+"
+486,WAK,11/06/2018,5,05 St. Marks,0,Attorney General, ,160200,UnderVotes, ,"3
+"
+487,WAK,11/06/2018,5,05 St. Marks,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"193
+"
+488,WAK,11/06/2018,5,05 St. Marks,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"82
+"
+489,WAK,11/06/2018,5,05 St. Marks,0,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+490,WAK,11/06/2018,5,05 St. Marks,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+491,WAK,11/06/2018,5,05 St. Marks,0,Chief Financial Officer, ,160500,UnderVotes, ,"6
+"
+492,WAK,11/06/2018,5,05 St. Marks,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"187
+"
+493,WAK,11/06/2018,5,05 St. Marks,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"91
+"
+494,WAK,11/06/2018,5,05 St. Marks,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+495,WAK,11/06/2018,5,05 St. Marks,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"3
+"
+496,WAK,11/06/2018,5,05 St. Marks,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"152
+"
+497,WAK,11/06/2018,5,05 St. Marks,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"89
+"
+498,WAK,11/06/2018,5,05 St. Marks,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+499,WAK,11/06/2018,5,05 St. Marks,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"40
+"
+500,WAK,11/06/2018,5,05 St. Marks,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"161
+"
+501,WAK,11/06/2018,5,05 St. Marks,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"77
+"
+502,WAK,11/06/2018,5,05 St. Marks,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+503,WAK,11/06/2018,5,05 St. Marks,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"43
+"
+504,WAK,11/06/2018,5,05 St. Marks,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"159
+"
+505,WAK,11/06/2018,5,05 St. Marks,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"79
+"
+506,WAK,11/06/2018,5,05 St. Marks,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+507,WAK,11/06/2018,5,05 St. Marks,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"43
+"
+508,WAK,11/06/2018,5,05 St. Marks,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"160
+"
+509,WAK,11/06/2018,5,05 St. Marks,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"76
+"
+510,WAK,11/06/2018,5,05 St. Marks,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"1
+"
+511,WAK,11/06/2018,5,05 St. Marks,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"44
+"
+512,WAK,11/06/2018,5,05 St. Marks,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"163
+"
+513,WAK,11/06/2018,5,05 St. Marks,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"74
+"
+514,WAK,11/06/2018,5,05 St. Marks,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+515,WAK,11/06/2018,5,05 St. Marks,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"43
+"
+516,WAK,11/06/2018,5,05 St. Marks,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"157
+"
+517,WAK,11/06/2018,5,05 St. Marks,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"82
+"
+518,WAK,11/06/2018,5,05 St. Marks,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+519,WAK,11/06/2018,5,05 St. Marks,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"42
+"
+520,WAK,11/06/2018,5,05 St. Marks,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"120
+"
+521,WAK,11/06/2018,5,05 St. Marks,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"121
+"
+522,WAK,11/06/2018,5,05 St. Marks,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"1
+"
+523,WAK,11/06/2018,5,05 St. Marks,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"39
+"
+524,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"93
+"
+525,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"154
+"
+526,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+527,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 2,680002,UnderVotes, ,"34
+"
+528,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"148
+"
+529,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"93
+"
+530,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 4,680004,OverVotes, ,"1
+"
+531,WAK,11/06/2018,5,05 St. Marks,0,County Commissioner, District 4,680004,UnderVotes, ,"39
+"
+532,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"146
+"
+533,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"125
+"
+534,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+535,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"10
+"
+536,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"154
+"
+537,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"117
+"
+538,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+539,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"10
+"
+540,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"177
+"
+541,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"90
+"
+542,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+543,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"14
+"
+544,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"144
+"
+545,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"121
+"
+546,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+547,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"16
+"
+548,WAK,11/06/2018,5,05 St. Marks,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"142
+"
+549,WAK,11/06/2018,5,05 St. Marks,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"118
+"
+550,WAK,11/06/2018,5,05 St. Marks,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+551,WAK,11/06/2018,5,05 St. Marks,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"21
+"
+552,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"142
+"
+553,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"118
+"
+554,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+555,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"21
+"
+556,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"126
+"
+557,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"126
+"
+558,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+559,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"29
+"
+560,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"150
+"
+561,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"107
+"
+562,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+563,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"22
+"
+564,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"125
+"
+565,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"132
+"
+566,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+567,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"24
+"
+568,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"129
+"
+569,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"126
+"
+570,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+571,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"26
+"
+572,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"176
+"
+573,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"83
+"
+574,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+575,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"22
+"
+576,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"141
+"
+577,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"121
+"
+578,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"1
+"
+579,WAK,11/06/2018,5,05 St. Marks,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"18
+"
+580,WAK,11/06/2018,6,06 Medart,0,United States Senator, ,120000,Rick Scott,REP,"754
+"
+581,WAK,11/06/2018,6,06 Medart,0,United States Senator, ,120000,Bill Nelson,DEM,"276
+"
+582,WAK,11/06/2018,6,06 Medart,0,United States Senator, ,120000,WriteinVotes, ,"4
+"
+583,WAK,11/06/2018,6,06 Medart,0,United States Senator, ,120000,OverVotes, ,"0
+"
+584,WAK,11/06/2018,6,06 Medart,0,United States Senator, ,120000,UnderVotes, ,"5
+"
+585,WAK,11/06/2018,6,06 Medart,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"794
+"
+586,WAK,11/06/2018,6,06 Medart,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"231
+"
+587,WAK,11/06/2018,6,06 Medart,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+588,WAK,11/06/2018,6,06 Medart,0,Representative in Congress, District 2,140020,UnderVotes, ,"14
+"
+589,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"799
+"
+590,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,Gillum / King,DEM,"216
+"
+591,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,Richardson / Argenziano,REF,"6
+"
+592,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,Gibson / Wilds,NPA,"7
+"
+593,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,Foley / Tutton,NPA,"2
+"
+594,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,Stanley / McJury,NPA,"3
+"
+595,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,WriteinVotes, ,"2
+"
+596,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,OverVotes, ,"1
+"
+597,WAK,11/06/2018,6,06 Medart,0,Governor, ,160000,UnderVotes, ,"3
+"
+598,WAK,11/06/2018,6,06 Medart,0,Attorney General, ,160200,Ashley Moody,REP,"807
+"
+599,WAK,11/06/2018,6,06 Medart,0,Attorney General, ,160200,Sean Shaw,DEM,"203
+"
+600,WAK,11/06/2018,6,06 Medart,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"17
+"
+601,WAK,11/06/2018,6,06 Medart,0,Attorney General, ,160200,OverVotes, ,"0
+"
+602,WAK,11/06/2018,6,06 Medart,0,Attorney General, ,160200,UnderVotes, ,"12
+"
+603,WAK,11/06/2018,6,06 Medart,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"786
+"
+604,WAK,11/06/2018,6,06 Medart,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"237
+"
+605,WAK,11/06/2018,6,06 Medart,0,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+606,WAK,11/06/2018,6,06 Medart,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+607,WAK,11/06/2018,6,06 Medart,0,Chief Financial Officer, ,160500,UnderVotes, ,"15
+"
+608,WAK,11/06/2018,6,06 Medart,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"788
+"
+609,WAK,11/06/2018,6,06 Medart,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"235
+"
+610,WAK,11/06/2018,6,06 Medart,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+611,WAK,11/06/2018,6,06 Medart,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"16
+"
+612,WAK,11/06/2018,6,06 Medart,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"632
+"
+613,WAK,11/06/2018,6,06 Medart,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"321
+"
+614,WAK,11/06/2018,6,06 Medart,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"1
+"
+615,WAK,11/06/2018,6,06 Medart,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"85
+"
+616,WAK,11/06/2018,6,06 Medart,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"617
+"
+617,WAK,11/06/2018,6,06 Medart,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"326
+"
+618,WAK,11/06/2018,6,06 Medart,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+619,WAK,11/06/2018,6,06 Medart,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"96
+"
+620,WAK,11/06/2018,6,06 Medart,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"629
+"
+621,WAK,11/06/2018,6,06 Medart,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"309
+"
+622,WAK,11/06/2018,6,06 Medart,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+623,WAK,11/06/2018,6,06 Medart,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"101
+"
+624,WAK,11/06/2018,6,06 Medart,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"608
+"
+625,WAK,11/06/2018,6,06 Medart,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"325
+"
+626,WAK,11/06/2018,6,06 Medart,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+627,WAK,11/06/2018,6,06 Medart,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"106
+"
+628,WAK,11/06/2018,6,06 Medart,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"610
+"
+629,WAK,11/06/2018,6,06 Medart,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"328
+"
+630,WAK,11/06/2018,6,06 Medart,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+631,WAK,11/06/2018,6,06 Medart,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"101
+"
+632,WAK,11/06/2018,6,06 Medart,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"615
+"
+633,WAK,11/06/2018,6,06 Medart,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"320
+"
+634,WAK,11/06/2018,6,06 Medart,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"1
+"
+635,WAK,11/06/2018,6,06 Medart,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"103
+"
+636,WAK,11/06/2018,6,06 Medart,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"497
+"
+637,WAK,11/06/2018,6,06 Medart,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"450
+"
+638,WAK,11/06/2018,6,06 Medart,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"1
+"
+639,WAK,11/06/2018,6,06 Medart,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"91
+"
+640,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"371
+"
+641,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"594
+"
+642,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+643,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 2,680002,UnderVotes, ,"74
+"
+644,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"557
+"
+645,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"403
+"
+646,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+647,WAK,11/06/2018,6,06 Medart,0,County Commissioner, District 4,680004,UnderVotes, ,"79
+"
+648,WAK,11/06/2018,6,06 Medart,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"524
+"
+649,WAK,11/06/2018,6,06 Medart,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"478
+"
+650,WAK,11/06/2018,6,06 Medart,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+651,WAK,11/06/2018,6,06 Medart,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"37
+"
+652,WAK,11/06/2018,6,06 Medart,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"590
+"
+653,WAK,11/06/2018,6,06 Medart,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"408
+"
+654,WAK,11/06/2018,6,06 Medart,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+655,WAK,11/06/2018,6,06 Medart,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"41
+"
+656,WAK,11/06/2018,6,06 Medart,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"632
+"
+657,WAK,11/06/2018,6,06 Medart,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"378
+"
+658,WAK,11/06/2018,6,06 Medart,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+659,WAK,11/06/2018,6,06 Medart,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"29
+"
+660,WAK,11/06/2018,6,06 Medart,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"494
+"
+661,WAK,11/06/2018,6,06 Medart,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"509
+"
+662,WAK,11/06/2018,6,06 Medart,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+663,WAK,11/06/2018,6,06 Medart,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"36
+"
+664,WAK,11/06/2018,6,06 Medart,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"618
+"
+665,WAK,11/06/2018,6,06 Medart,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"373
+"
+666,WAK,11/06/2018,6,06 Medart,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+667,WAK,11/06/2018,6,06 Medart,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"48
+"
+668,WAK,11/06/2018,6,06 Medart,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"578
+"
+669,WAK,11/06/2018,6,06 Medart,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"412
+"
+670,WAK,11/06/2018,6,06 Medart,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+671,WAK,11/06/2018,6,06 Medart,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"48
+"
+672,WAK,11/06/2018,6,06 Medart,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"593
+"
+673,WAK,11/06/2018,6,06 Medart,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"395
+"
+674,WAK,11/06/2018,6,06 Medart,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+675,WAK,11/06/2018,6,06 Medart,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"51
+"
+676,WAK,11/06/2018,6,06 Medart,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"460
+"
+677,WAK,11/06/2018,6,06 Medart,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"539
+"
+678,WAK,11/06/2018,6,06 Medart,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+679,WAK,11/06/2018,6,06 Medart,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"40
+"
+680,WAK,11/06/2018,6,06 Medart,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"601
+"
+681,WAK,11/06/2018,6,06 Medart,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"381
+"
+682,WAK,11/06/2018,6,06 Medart,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+683,WAK,11/06/2018,6,06 Medart,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"57
+"
+684,WAK,11/06/2018,6,06 Medart,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"455
+"
+685,WAK,11/06/2018,6,06 Medart,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"509
+"
+686,WAK,11/06/2018,6,06 Medart,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+687,WAK,11/06/2018,6,06 Medart,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"75
+"
+688,WAK,11/06/2018,6,06 Medart,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"663
+"
+689,WAK,11/06/2018,6,06 Medart,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"318
+"
+690,WAK,11/06/2018,6,06 Medart,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+691,WAK,11/06/2018,6,06 Medart,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"58
+"
+692,WAK,11/06/2018,6,06 Medart,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"464
+"
+693,WAK,11/06/2018,6,06 Medart,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"535
+"
+694,WAK,11/06/2018,6,06 Medart,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+695,WAK,11/06/2018,6,06 Medart,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"40
+"
+696,WAK,11/06/2018,7,07 Ivan,0,United States Senator, ,120000,Rick Scott,REP,"1631
+"
+697,WAK,11/06/2018,7,07 Ivan,0,United States Senator, ,120000,Bill Nelson,DEM,"717
+"
+698,WAK,11/06/2018,7,07 Ivan,0,United States Senator, ,120000,WriteinVotes, ,"10
+"
+699,WAK,11/06/2018,7,07 Ivan,0,United States Senator, ,120000,OverVotes, ,"0
+"
+700,WAK,11/06/2018,7,07 Ivan,0,United States Senator, ,120000,UnderVotes, ,"17
+"
+701,WAK,11/06/2018,7,07 Ivan,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"1677
+"
+702,WAK,11/06/2018,7,07 Ivan,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"663
+"
+703,WAK,11/06/2018,7,07 Ivan,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+704,WAK,11/06/2018,7,07 Ivan,0,Representative in Congress, District 2,140020,UnderVotes, ,"35
+"
+705,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"1708
+"
+706,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,Gillum / King,DEM,"615
+"
+707,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,Richardson / Argenziano,REF,"20
+"
+708,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,Gibson / Wilds,NPA,"9
+"
+709,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,Foley / Tutton,NPA,"4
+"
+710,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,Stanley / McJury,NPA,"4
+"
+711,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,WriteinVotes, ,"2
+"
+712,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,OverVotes, ,"3
+"
+713,WAK,11/06/2018,7,07 Ivan,0,Governor, ,160000,UnderVotes, ,"10
+"
+714,WAK,11/06/2018,7,07 Ivan,0,Attorney General, ,160200,Ashley Moody,REP,"1721
+"
+715,WAK,11/06/2018,7,07 Ivan,0,Attorney General, ,160200,Sean Shaw,DEM,"581
+"
+716,WAK,11/06/2018,7,07 Ivan,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"41
+"
+717,WAK,11/06/2018,7,07 Ivan,0,Attorney General, ,160200,OverVotes, ,"0
+"
+718,WAK,11/06/2018,7,07 Ivan,0,Attorney General, ,160200,UnderVotes, ,"32
+"
+719,WAK,11/06/2018,7,07 Ivan,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"1688
+"
+720,WAK,11/06/2018,7,07 Ivan,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"635
+"
+721,WAK,11/06/2018,7,07 Ivan,0,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+722,WAK,11/06/2018,7,07 Ivan,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+723,WAK,11/06/2018,7,07 Ivan,0,Chief Financial Officer, ,160500,UnderVotes, ,"52
+"
+724,WAK,11/06/2018,7,07 Ivan,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"1657
+"
+725,WAK,11/06/2018,7,07 Ivan,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"673
+"
+726,WAK,11/06/2018,7,07 Ivan,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+727,WAK,11/06/2018,7,07 Ivan,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"45
+"
+728,WAK,11/06/2018,7,07 Ivan,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"1422
+"
+729,WAK,11/06/2018,7,07 Ivan,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"730
+"
+730,WAK,11/06/2018,7,07 Ivan,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+731,WAK,11/06/2018,7,07 Ivan,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"223
+"
+732,WAK,11/06/2018,7,07 Ivan,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"1428
+"
+733,WAK,11/06/2018,7,07 Ivan,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"689
+"
+734,WAK,11/06/2018,7,07 Ivan,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+735,WAK,11/06/2018,7,07 Ivan,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"257
+"
+736,WAK,11/06/2018,7,07 Ivan,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"1450
+"
+737,WAK,11/06/2018,7,07 Ivan,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"664
+"
+738,WAK,11/06/2018,7,07 Ivan,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+739,WAK,11/06/2018,7,07 Ivan,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"261
+"
+740,WAK,11/06/2018,7,07 Ivan,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"1425
+"
+741,WAK,11/06/2018,7,07 Ivan,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"682
+"
+742,WAK,11/06/2018,7,07 Ivan,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+743,WAK,11/06/2018,7,07 Ivan,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"268
+"
+744,WAK,11/06/2018,7,07 Ivan,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"1406
+"
+745,WAK,11/06/2018,7,07 Ivan,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"707
+"
+746,WAK,11/06/2018,7,07 Ivan,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+747,WAK,11/06/2018,7,07 Ivan,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"262
+"
+748,WAK,11/06/2018,7,07 Ivan,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"1404
+"
+749,WAK,11/06/2018,7,07 Ivan,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"701
+"
+750,WAK,11/06/2018,7,07 Ivan,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+751,WAK,11/06/2018,7,07 Ivan,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"270
+"
+752,WAK,11/06/2018,7,07 Ivan,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"1106
+"
+753,WAK,11/06/2018,7,07 Ivan,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"1024
+"
+754,WAK,11/06/2018,7,07 Ivan,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"2
+"
+755,WAK,11/06/2018,7,07 Ivan,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"243
+"
+756,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"812
+"
+757,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"1381
+"
+758,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+759,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 2,680002,UnderVotes, ,"182
+"
+760,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"1103
+"
+761,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"1061
+"
+762,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+763,WAK,11/06/2018,7,07 Ivan,0,County Commissioner, District 4,680004,UnderVotes, ,"211
+"
+764,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"1255
+"
+765,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"1030
+"
+766,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+767,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"89
+"
+768,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"1420
+"
+769,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"842
+"
+770,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"2
+"
+771,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"111
+"
+772,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"1520
+"
+773,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"757
+"
+774,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"1
+"
+775,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"97
+"
+776,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"1262
+"
+777,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"1019
+"
+778,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+779,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"94
+"
+780,WAK,11/06/2018,7,07 Ivan,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"1484
+"
+781,WAK,11/06/2018,7,07 Ivan,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"775
+"
+782,WAK,11/06/2018,7,07 Ivan,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+783,WAK,11/06/2018,7,07 Ivan,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"116
+"
+784,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"1347
+"
+785,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"909
+"
+786,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+787,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"119
+"
+788,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"1379
+"
+789,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"853
+"
+790,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+791,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"143
+"
+792,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"1166
+"
+793,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"1082
+"
+794,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"4
+"
+795,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"123
+"
+796,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"1430
+"
+797,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"795
+"
+798,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+799,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"150
+"
+800,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"1136
+"
+801,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"1027
+"
+802,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"2
+"
+803,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"210
+"
+804,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"1606
+"
+805,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"623
+"
+806,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+807,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"146
+"
+808,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"1168
+"
+809,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"1101
+"
+810,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+811,WAK,11/06/2018,7,07 Ivan,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"104
+"
+812,WAK,11/06/2018,8,08 Shell Point,0,United States Senator, ,120000,Rick Scott,REP,"425
+"
+813,WAK,11/06/2018,8,08 Shell Point,0,United States Senator, ,120000,Bill Nelson,DEM,"250
+"
+814,WAK,11/06/2018,8,08 Shell Point,0,United States Senator, ,120000,WriteinVotes, ,"0
+"
+815,WAK,11/06/2018,8,08 Shell Point,0,United States Senator, ,120000,OverVotes, ,"0
+"
+816,WAK,11/06/2018,8,08 Shell Point,0,United States Senator, ,120000,UnderVotes, ,"6
+"
+817,WAK,11/06/2018,8,08 Shell Point,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"435
+"
+818,WAK,11/06/2018,8,08 Shell Point,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"235
+"
+819,WAK,11/06/2018,8,08 Shell Point,0,Representative in Congress, District 2,140020,OverVotes, ,"1
+"
+820,WAK,11/06/2018,8,08 Shell Point,0,Representative in Congress, District 2,140020,UnderVotes, ,"10
+"
+821,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"448
+"
+822,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,Gillum / King,DEM,"221
+"
+823,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,Richardson / Argenziano,REF,"2
+"
+824,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,Gibson / Wilds,NPA,"2
+"
+825,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+826,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,Stanley / McJury,NPA,"2
+"
+827,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,WriteinVotes, ,"2
+"
+828,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,OverVotes, ,"0
+"
+829,WAK,11/06/2018,8,08 Shell Point,0,Governor, ,160000,UnderVotes, ,"3
+"
+830,WAK,11/06/2018,8,08 Shell Point,0,Attorney General, ,160200,Ashley Moody,REP,"451
+"
+831,WAK,11/06/2018,8,08 Shell Point,0,Attorney General, ,160200,Sean Shaw,DEM,"204
+"
+832,WAK,11/06/2018,8,08 Shell Point,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"12
+"
+833,WAK,11/06/2018,8,08 Shell Point,0,Attorney General, ,160200,OverVotes, ,"0
+"
+834,WAK,11/06/2018,8,08 Shell Point,0,Attorney General, ,160200,UnderVotes, ,"14
+"
+835,WAK,11/06/2018,8,08 Shell Point,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"451
+"
+836,WAK,11/06/2018,8,08 Shell Point,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"215
+"
+837,WAK,11/06/2018,8,08 Shell Point,0,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+838,WAK,11/06/2018,8,08 Shell Point,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+839,WAK,11/06/2018,8,08 Shell Point,0,Chief Financial Officer, ,160500,UnderVotes, ,"14
+"
+840,WAK,11/06/2018,8,08 Shell Point,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"438
+"
+841,WAK,11/06/2018,8,08 Shell Point,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"228
+"
+842,WAK,11/06/2018,8,08 Shell Point,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+843,WAK,11/06/2018,8,08 Shell Point,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"15
+"
+844,WAK,11/06/2018,8,08 Shell Point,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"394
+"
+845,WAK,11/06/2018,8,08 Shell Point,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"199
+"
+846,WAK,11/06/2018,8,08 Shell Point,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+847,WAK,11/06/2018,8,08 Shell Point,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"88
+"
+848,WAK,11/06/2018,8,08 Shell Point,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"391
+"
+849,WAK,11/06/2018,8,08 Shell Point,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"188
+"
+850,WAK,11/06/2018,8,08 Shell Point,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"1
+"
+851,WAK,11/06/2018,8,08 Shell Point,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"101
+"
+852,WAK,11/06/2018,8,08 Shell Point,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"396
+"
+853,WAK,11/06/2018,8,08 Shell Point,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"183
+"
+854,WAK,11/06/2018,8,08 Shell Point,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+855,WAK,11/06/2018,8,08 Shell Point,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"102
+"
+856,WAK,11/06/2018,8,08 Shell Point,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"394
+"
+857,WAK,11/06/2018,8,08 Shell Point,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"181
+"
+858,WAK,11/06/2018,8,08 Shell Point,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+859,WAK,11/06/2018,8,08 Shell Point,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"106
+"
+860,WAK,11/06/2018,8,08 Shell Point,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"378
+"
+861,WAK,11/06/2018,8,08 Shell Point,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"197
+"
+862,WAK,11/06/2018,8,08 Shell Point,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+863,WAK,11/06/2018,8,08 Shell Point,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"106
+"
+864,WAK,11/06/2018,8,08 Shell Point,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"377
+"
+865,WAK,11/06/2018,8,08 Shell Point,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"196
+"
+866,WAK,11/06/2018,8,08 Shell Point,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+867,WAK,11/06/2018,8,08 Shell Point,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"108
+"
+868,WAK,11/06/2018,8,08 Shell Point,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"297
+"
+869,WAK,11/06/2018,8,08 Shell Point,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"290
+"
+870,WAK,11/06/2018,8,08 Shell Point,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+871,WAK,11/06/2018,8,08 Shell Point,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"94
+"
+872,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"254
+"
+873,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"366
+"
+874,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+875,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 2,680002,UnderVotes, ,"61
+"
+876,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"388
+"
+877,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"238
+"
+878,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+879,WAK,11/06/2018,8,08 Shell Point,0,County Commissioner, District 4,680004,UnderVotes, ,"55
+"
+880,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"349
+"
+881,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"300
+"
+882,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"1
+"
+883,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"31
+"
+884,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"390
+"
+885,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"257
+"
+886,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+887,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"34
+"
+888,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"460
+"
+889,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"192
+"
+890,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+891,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"29
+"
+892,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"394
+"
+893,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"266
+"
+894,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+895,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"21
+"
+896,WAK,11/06/2018,8,08 Shell Point,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"407
+"
+897,WAK,11/06/2018,8,08 Shell Point,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"238
+"
+898,WAK,11/06/2018,8,08 Shell Point,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+899,WAK,11/06/2018,8,08 Shell Point,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"36
+"
+900,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"360
+"
+901,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"291
+"
+902,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+903,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"30
+"
+904,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"371
+"
+905,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"273
+"
+906,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+907,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"37
+"
+908,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"376
+"
+909,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"277
+"
+910,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+911,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"28
+"
+912,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"377
+"
+913,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"255
+"
+914,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+915,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"49
+"
+916,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"330
+"
+917,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"289
+"
+918,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+919,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"62
+"
+920,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"471
+"
+921,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"161
+"
+922,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+923,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"49
+"
+924,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"352
+"
+925,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"295
+"
+926,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+927,WAK,11/06/2018,8,08 Shell Point,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"34
+"
+928,WAK,11/06/2018,9,09 Panacea,0,United States Senator, ,120000,Rick Scott,REP,"258
+"
+929,WAK,11/06/2018,9,09 Panacea,0,United States Senator, ,120000,Bill Nelson,DEM,"107
+"
+930,WAK,11/06/2018,9,09 Panacea,0,United States Senator, ,120000,WriteinVotes, ,"4
+"
+931,WAK,11/06/2018,9,09 Panacea,0,United States Senator, ,120000,OverVotes, ,"0
+"
+932,WAK,11/06/2018,9,09 Panacea,0,United States Senator, ,120000,UnderVotes, ,"1
+"
+933,WAK,11/06/2018,9,09 Panacea,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"275
+"
+934,WAK,11/06/2018,9,09 Panacea,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"88
+"
+935,WAK,11/06/2018,9,09 Panacea,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+936,WAK,11/06/2018,9,09 Panacea,0,Representative in Congress, District 2,140020,UnderVotes, ,"7
+"
+937,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"285
+"
+938,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,Gillum / King,DEM,"77
+"
+939,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+940,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+941,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,Foley / Tutton,NPA,"1
+"
+942,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+943,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,WriteinVotes, ,"1
+"
+944,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,OverVotes, ,"0
+"
+945,WAK,11/06/2018,9,09 Panacea,0,Governor, ,160000,UnderVotes, ,"2
+"
+946,WAK,11/06/2018,9,09 Panacea,0,Attorney General, ,160200,Ashley Moody,REP,"282
+"
+947,WAK,11/06/2018,9,09 Panacea,0,Attorney General, ,160200,Sean Shaw,DEM,"75
+"
+948,WAK,11/06/2018,9,09 Panacea,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"6
+"
+949,WAK,11/06/2018,9,09 Panacea,0,Attorney General, ,160200,OverVotes, ,"0
+"
+950,WAK,11/06/2018,9,09 Panacea,0,Attorney General, ,160200,UnderVotes, ,"7
+"
+951,WAK,11/06/2018,9,09 Panacea,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"274
+"
+952,WAK,11/06/2018,9,09 Panacea,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"88
+"
+953,WAK,11/06/2018,9,09 Panacea,0,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+954,WAK,11/06/2018,9,09 Panacea,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+955,WAK,11/06/2018,9,09 Panacea,0,Chief Financial Officer, ,160500,UnderVotes, ,"8
+"
+956,WAK,11/06/2018,9,09 Panacea,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"268
+"
+957,WAK,11/06/2018,9,09 Panacea,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"90
+"
+958,WAK,11/06/2018,9,09 Panacea,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+959,WAK,11/06/2018,9,09 Panacea,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"12
+"
+960,WAK,11/06/2018,9,09 Panacea,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"206
+"
+961,WAK,11/06/2018,9,09 Panacea,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"126
+"
+962,WAK,11/06/2018,9,09 Panacea,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+963,WAK,11/06/2018,9,09 Panacea,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"38
+"
+964,WAK,11/06/2018,9,09 Panacea,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"207
+"
+965,WAK,11/06/2018,9,09 Panacea,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"121
+"
+966,WAK,11/06/2018,9,09 Panacea,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+967,WAK,11/06/2018,9,09 Panacea,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"42
+"
+968,WAK,11/06/2018,9,09 Panacea,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"205
+"
+969,WAK,11/06/2018,9,09 Panacea,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"123
+"
+970,WAK,11/06/2018,9,09 Panacea,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+971,WAK,11/06/2018,9,09 Panacea,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"42
+"
+972,WAK,11/06/2018,9,09 Panacea,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"203
+"
+973,WAK,11/06/2018,9,09 Panacea,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"122
+"
+974,WAK,11/06/2018,9,09 Panacea,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+975,WAK,11/06/2018,9,09 Panacea,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"45
+"
+976,WAK,11/06/2018,9,09 Panacea,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"195
+"
+977,WAK,11/06/2018,9,09 Panacea,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"130
+"
+978,WAK,11/06/2018,9,09 Panacea,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+979,WAK,11/06/2018,9,09 Panacea,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"45
+"
+980,WAK,11/06/2018,9,09 Panacea,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"195
+"
+981,WAK,11/06/2018,9,09 Panacea,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"129
+"
+982,WAK,11/06/2018,9,09 Panacea,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+983,WAK,11/06/2018,9,09 Panacea,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"46
+"
+984,WAK,11/06/2018,9,09 Panacea,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"149
+"
+985,WAK,11/06/2018,9,09 Panacea,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"184
+"
+986,WAK,11/06/2018,9,09 Panacea,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"0
+"
+987,WAK,11/06/2018,9,09 Panacea,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"37
+"
+988,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"117
+"
+989,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"227
+"
+990,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+991,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 2,680002,UnderVotes, ,"26
+"
+992,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"196
+"
+993,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"150
+"
+994,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+995,WAK,11/06/2018,9,09 Panacea,0,County Commissioner, District 4,680004,UnderVotes, ,"24
+"
+996,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"189
+"
+997,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"169
+"
+998,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+999,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"12
+"
+1000,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"219
+"
+1001,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"136
+"
+1002,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+1003,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"14
+"
+1004,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"252
+"
+1005,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"105
+"
+1006,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+1007,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"13
+"
+1008,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"213
+"
+1009,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"144
+"
+1010,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+1011,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"13
+"
+1012,WAK,11/06/2018,9,09 Panacea,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"231
+"
+1013,WAK,11/06/2018,9,09 Panacea,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"121
+"
+1014,WAK,11/06/2018,9,09 Panacea,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+1015,WAK,11/06/2018,9,09 Panacea,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"18
+"
+1016,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"225
+"
+1017,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"127
+"
+1018,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+1019,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"17
+"
+1020,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"237
+"
+1021,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"116
+"
+1022,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+1023,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"17
+"
+1024,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"183
+"
+1025,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"169
+"
+1026,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+1027,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"18
+"
+1028,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"220
+"
+1029,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"128
+"
+1030,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1031,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"22
+"
+1032,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"174
+"
+1033,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"165
+"
+1034,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+1035,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"31
+"
+1036,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"239
+"
+1037,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"112
+"
+1038,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+1039,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"19
+"
+1040,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"166
+"
+1041,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"192
+"
+1042,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+1043,WAK,11/06/2018,9,09 Panacea,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"12
+"
+1044,WAK,11/06/2018,10,10 Ochlockonee Bay,0,United States Senator, ,120000,Rick Scott,REP,"246
+"
+1045,WAK,11/06/2018,10,10 Ochlockonee Bay,0,United States Senator, ,120000,Bill Nelson,DEM,"102
+"
+1046,WAK,11/06/2018,10,10 Ochlockonee Bay,0,United States Senator, ,120000,WriteinVotes, ,"2
+"
+1047,WAK,11/06/2018,10,10 Ochlockonee Bay,0,United States Senator, ,120000,OverVotes, ,"0
+"
+1048,WAK,11/06/2018,10,10 Ochlockonee Bay,0,United States Senator, ,120000,UnderVotes, ,"3
+"
+1049,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"251
+"
+1050,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"97
+"
+1051,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+1052,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Representative in Congress, District 2,140020,UnderVotes, ,"5
+"
+1053,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"249
+"
+1054,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,Gillum / King,DEM,"98
+"
+1055,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,Richardson / Argenziano,REF,"1
+"
+1056,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,Gibson / Wilds,NPA,"0
+"
+1057,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,Foley / Tutton,NPA,"0
+"
+1058,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,Stanley / McJury,NPA,"1
+"
+1059,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,WriteinVotes, ,"0
+"
+1060,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,OverVotes, ,"1
+"
+1061,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Governor, ,160000,UnderVotes, ,"3
+"
+1062,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Attorney General, ,160200,Ashley Moody,REP,"254
+"
+1063,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Attorney General, ,160200,Sean Shaw,DEM,"90
+"
+1064,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"4
+"
+1065,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Attorney General, ,160200,OverVotes, ,"1
+"
+1066,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Attorney General, ,160200,UnderVotes, ,"4
+"
+1067,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"260
+"
+1068,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"89
+"
+1069,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Chief Financial Officer, ,160500,WriteinVotes, ,"0
+"
+1070,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+1071,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Chief Financial Officer, ,160500,UnderVotes, ,"4
+"
+1072,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"253
+"
+1073,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"95
+"
+1074,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Commissioner of Agriculture, ,160800,OverVotes, ,"1
+"
+1075,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"4
+"
+1076,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"207
+"
+1077,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"98
+"
+1078,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"2
+"
+1079,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"46
+"
+1080,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"213
+"
+1081,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"92
+"
+1082,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+1083,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"48
+"
+1084,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"211
+"
+1085,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"89
+"
+1086,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+1087,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"53
+"
+1088,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"208
+"
+1089,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"93
+"
+1090,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+1091,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"52
+"
+1092,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"206
+"
+1093,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"93
+"
+1094,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+1095,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"54
+"
+1096,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"208
+"
+1097,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"92
+"
+1098,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+1099,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"53
+"
+1100,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"150
+"
+1101,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"158
+"
+1102,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"1
+"
+1103,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"44
+"
+1104,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"157
+"
+1105,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"153
+"
+1106,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+1107,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 2,680002,UnderVotes, ,"43
+"
+1108,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"156
+"
+1109,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"163
+"
+1110,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 4,680004,OverVotes, ,"2
+"
+1111,WAK,11/06/2018,10,10 Ochlockonee Bay,0,County Commissioner, District 4,680004,UnderVotes, ,"32
+"
+1112,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"215
+"
+1113,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"127
+"
+1114,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+1115,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"11
+"
+1116,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"215
+"
+1117,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"122
+"
+1118,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+1119,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"16
+"
+1120,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"228
+"
+1121,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"109
+"
+1122,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+1123,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"16
+"
+1124,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"182
+"
+1125,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"158
+"
+1126,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"0
+"
+1127,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"13
+"
+1128,WAK,11/06/2018,10,10 Ochlockonee Bay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"211
+"
+1129,WAK,11/06/2018,10,10 Ochlockonee Bay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"128
+"
+1130,WAK,11/06/2018,10,10 Ochlockonee Bay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+1131,WAK,11/06/2018,10,10 Ochlockonee Bay,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"14
+"
+1132,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"195
+"
+1133,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"138
+"
+1134,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"0
+"
+1135,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"20
+"
+1136,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"190
+"
+1137,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"140
+"
+1138,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+1139,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"23
+"
+1140,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"168
+"
+1141,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"174
+"
+1142,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"0
+"
+1143,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"11
+"
+1144,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"188
+"
+1145,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"140
+"
+1146,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1147,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"25
+"
+1148,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"155
+"
+1149,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"161
+"
+1150,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+1151,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"37
+"
+1152,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"245
+"
+1153,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"87
+"
+1154,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"0
+"
+1155,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"21
+"
+1156,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"181
+"
+1157,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"156
+"
+1158,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+1159,WAK,11/06/2018,10,10 Ochlockonee Bay,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"16
+"
+1160,WAK,11/06/2018,11,11 Bethel,0,United States Senator, ,120000,Rick Scott,REP,"709
+"
+1161,WAK,11/06/2018,11,11 Bethel,0,United States Senator, ,120000,Bill Nelson,DEM,"481
+"
+1162,WAK,11/06/2018,11,11 Bethel,0,United States Senator, ,120000,WriteinVotes, ,"2
+"
+1163,WAK,11/06/2018,11,11 Bethel,0,United States Senator, ,120000,OverVotes, ,"0
+"
+1164,WAK,11/06/2018,11,11 Bethel,0,United States Senator, ,120000,UnderVotes, ,"5
+"
+1165,WAK,11/06/2018,11,11 Bethel,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"723
+"
+1166,WAK,11/06/2018,11,11 Bethel,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"457
+"
+1167,WAK,11/06/2018,11,11 Bethel,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+1168,WAK,11/06/2018,11,11 Bethel,0,Representative in Congress, District 2,140020,UnderVotes, ,"17
+"
+1169,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"737
+"
+1170,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,Gillum / King,DEM,"437
+"
+1171,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,Richardson / Argenziano,REF,"12
+"
+1172,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,Gibson / Wilds,NPA,"3
+"
+1173,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,Foley / Tutton,NPA,"3
+"
+1174,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,Stanley / McJury,NPA,"2
+"
+1175,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,WriteinVotes, ,"2
+"
+1176,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,OverVotes, ,"0
+"
+1177,WAK,11/06/2018,11,11 Bethel,0,Governor, ,160000,UnderVotes, ,"1
+"
+1178,WAK,11/06/2018,11,11 Bethel,0,Attorney General, ,160200,Ashley Moody,REP,"740
+"
+1179,WAK,11/06/2018,11,11 Bethel,0,Attorney General, ,160200,Sean Shaw,DEM,"418
+"
+1180,WAK,11/06/2018,11,11 Bethel,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"29
+"
+1181,WAK,11/06/2018,11,11 Bethel,0,Attorney General, ,160200,OverVotes, ,"0
+"
+1182,WAK,11/06/2018,11,11 Bethel,0,Attorney General, ,160200,UnderVotes, ,"10
+"
+1183,WAK,11/06/2018,11,11 Bethel,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"738
+"
+1184,WAK,11/06/2018,11,11 Bethel,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"439
+"
+1185,WAK,11/06/2018,11,11 Bethel,0,Chief Financial Officer, ,160500,WriteinVotes, ,"2
+"
+1186,WAK,11/06/2018,11,11 Bethel,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+1187,WAK,11/06/2018,11,11 Bethel,0,Chief Financial Officer, ,160500,UnderVotes, ,"18
+"
+1188,WAK,11/06/2018,11,11 Bethel,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"723
+"
+1189,WAK,11/06/2018,11,11 Bethel,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"454
+"
+1190,WAK,11/06/2018,11,11 Bethel,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+1191,WAK,11/06/2018,11,11 Bethel,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"20
+"
+1192,WAK,11/06/2018,11,11 Bethel,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"748
+"
+1193,WAK,11/06/2018,11,11 Bethel,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"364
+"
+1194,WAK,11/06/2018,11,11 Bethel,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+1195,WAK,11/06/2018,11,11 Bethel,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"85
+"
+1196,WAK,11/06/2018,11,11 Bethel,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"732
+"
+1197,WAK,11/06/2018,11,11 Bethel,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"358
+"
+1198,WAK,11/06/2018,11,11 Bethel,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+1199,WAK,11/06/2018,11,11 Bethel,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"107
+"
+1200,WAK,11/06/2018,11,11 Bethel,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"753
+"
+1201,WAK,11/06/2018,11,11 Bethel,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"339
+"
+1202,WAK,11/06/2018,11,11 Bethel,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+1203,WAK,11/06/2018,11,11 Bethel,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"105
+"
+1204,WAK,11/06/2018,11,11 Bethel,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"731
+"
+1205,WAK,11/06/2018,11,11 Bethel,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"356
+"
+1206,WAK,11/06/2018,11,11 Bethel,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+1207,WAK,11/06/2018,11,11 Bethel,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"110
+"
+1208,WAK,11/06/2018,11,11 Bethel,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"743
+"
+1209,WAK,11/06/2018,11,11 Bethel,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"349
+"
+1210,WAK,11/06/2018,11,11 Bethel,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"0
+"
+1211,WAK,11/06/2018,11,11 Bethel,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"105
+"
+1212,WAK,11/06/2018,11,11 Bethel,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"727
+"
+1213,WAK,11/06/2018,11,11 Bethel,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"361
+"
+1214,WAK,11/06/2018,11,11 Bethel,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+1215,WAK,11/06/2018,11,11 Bethel,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"109
+"
+1216,WAK,11/06/2018,11,11 Bethel,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"546
+"
+1217,WAK,11/06/2018,11,11 Bethel,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"534
+"
+1218,WAK,11/06/2018,11,11 Bethel,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"2
+"
+1219,WAK,11/06/2018,11,11 Bethel,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"115
+"
+1220,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"503
+"
+1221,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"601
+"
+1222,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+1223,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 2,680002,UnderVotes, ,"93
+"
+1224,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"542
+"
+1225,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"533
+"
+1226,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+1227,WAK,11/06/2018,11,11 Bethel,0,County Commissioner, District 4,680004,UnderVotes, ,"122
+"
+1228,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"620
+"
+1229,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"546
+"
+1230,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+1231,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"31
+"
+1232,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"697
+"
+1233,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"461
+"
+1234,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"1
+"
+1235,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"38
+"
+1236,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"773
+"
+1237,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"396
+"
+1238,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+1239,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"28
+"
+1240,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"693
+"
+1241,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"473
+"
+1242,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+1243,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"30
+"
+1244,WAK,11/06/2018,11,11 Bethel,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"726
+"
+1245,WAK,11/06/2018,11,11 Bethel,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"423
+"
+1246,WAK,11/06/2018,11,11 Bethel,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+1247,WAK,11/06/2018,11,11 Bethel,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"48
+"
+1248,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"669
+"
+1249,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"489
+"
+1250,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"1
+"
+1251,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"38
+"
+1252,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"715
+"
+1253,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"427
+"
+1254,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+1255,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"55
+"
+1256,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"636
+"
+1257,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"519
+"
+1258,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"2
+"
+1259,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"40
+"
+1260,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"702
+"
+1261,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"439
+"
+1262,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1263,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"56
+"
+1264,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"638
+"
+1265,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"481
+"
+1266,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"0
+"
+1267,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"78
+"
+1268,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"804
+"
+1269,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"334
+"
+1270,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"1
+"
+1271,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"58
+"
+1272,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"548
+"
+1273,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"598
+"
+1274,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"2
+"
+1275,WAK,11/06/2018,11,11 Bethel,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"49
+"
+1276,WAK,11/06/2018,12,12 Shadeville,0,United States Senator, ,120000,Rick Scott,REP,"893
+"
+1277,WAK,11/06/2018,12,12 Shadeville,0,United States Senator, ,120000,Bill Nelson,DEM,"540
+"
+1278,WAK,11/06/2018,12,12 Shadeville,0,United States Senator, ,120000,WriteinVotes, ,"4
+"
+1279,WAK,11/06/2018,12,12 Shadeville,0,United States Senator, ,120000,OverVotes, ,"0
+"
+1280,WAK,11/06/2018,12,12 Shadeville,0,United States Senator, ,120000,UnderVotes, ,"7
+"
+1281,WAK,11/06/2018,12,12 Shadeville,0,Representative in Congress, District 2,140020,Neal Dunn,REP,"915
+"
+1282,WAK,11/06/2018,12,12 Shadeville,0,Representative in Congress, District 2,140020,Bob Rackleff,DEM,"513
+"
+1283,WAK,11/06/2018,12,12 Shadeville,0,Representative in Congress, District 2,140020,OverVotes, ,"0
+"
+1284,WAK,11/06/2018,12,12 Shadeville,0,Representative in Congress, District 2,140020,UnderVotes, ,"15
+"
+1285,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,DeSantis / NuÃ±ez,REP,"922
+"
+1286,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,Gillum / King,DEM,"479
+"
+1287,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,Richardson / Argenziano,REF,"10
+"
+1288,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,Gibson / Wilds,NPA,"9
+"
+1289,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,Foley / Tutton,NPA,"8
+"
+1290,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,Stanley / McJury,NPA,"0
+"
+1291,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,WriteinVotes, ,"1
+"
+1292,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,OverVotes, ,"3
+"
+1293,WAK,11/06/2018,12,12 Shadeville,0,Governor, ,160000,UnderVotes, ,"11
+"
+1294,WAK,11/06/2018,12,12 Shadeville,0,Attorney General, ,160200,Ashley Moody,REP,"930
+"
+1295,WAK,11/06/2018,12,12 Shadeville,0,Attorney General, ,160200,Sean Shaw,DEM,"459
+"
+1296,WAK,11/06/2018,12,12 Shadeville,0,Attorney General, ,160200,Jeffrey Marc Siskind,NPA,"31
+"
+1297,WAK,11/06/2018,12,12 Shadeville,0,Attorney General, ,160200,OverVotes, ,"0
+"
+1298,WAK,11/06/2018,12,12 Shadeville,0,Attorney General, ,160200,UnderVotes, ,"23
+"
+1299,WAK,11/06/2018,12,12 Shadeville,0,Chief Financial Officer, ,160500,Jimmy Patronis,REP,"912
+"
+1300,WAK,11/06/2018,12,12 Shadeville,0,Chief Financial Officer, ,160500,Jeremy Ring,DEM,"502
+"
+1301,WAK,11/06/2018,12,12 Shadeville,0,Chief Financial Officer, ,160500,WriteinVotes, ,"1
+"
+1302,WAK,11/06/2018,12,12 Shadeville,0,Chief Financial Officer, ,160500,OverVotes, ,"0
+"
+1303,WAK,11/06/2018,12,12 Shadeville,0,Chief Financial Officer, ,160500,UnderVotes, ,"28
+"
+1304,WAK,11/06/2018,12,12 Shadeville,0,Commissioner of Agriculture, ,160800,Matt Caldwell,REP,"907
+"
+1305,WAK,11/06/2018,12,12 Shadeville,0,Commissioner of Agriculture, ,160800,"Nicole ""Nikki"" Fried",DEM,"505
+"
+1306,WAK,11/06/2018,12,12 Shadeville,0,Commissioner of Agriculture, ,160800,OverVotes, ,"0
+"
+1307,WAK,11/06/2018,12,12 Shadeville,0,Commissioner of Agriculture, ,160800,UnderVotes, ,"31
+"
+1308,WAK,11/06/2018,12,12 Shadeville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,Yes,NOP,"897
+"
+1309,WAK,11/06/2018,12,12 Shadeville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,No,NOP,"432
+"
+1310,WAK,11/06/2018,12,12 Shadeville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,OverVotes, ,"0
+"
+1311,WAK,11/06/2018,12,12 Shadeville,0,Retention of Alan Lawson,Justice of the Supreme Court,500001,UnderVotes, ,"114
+"
+1312,WAK,11/06/2018,12,12 Shadeville,0,Retention of Harvey Jay,First District Court of Appeal,520101,Yes,NOP,"896
+"
+1313,WAK,11/06/2018,12,12 Shadeville,0,Retention of Harvey Jay,First District Court of Appeal,520101,No,NOP,"426
+"
+1314,WAK,11/06/2018,12,12 Shadeville,0,Retention of Harvey Jay,First District Court of Appeal,520101,OverVotes, ,"0
+"
+1315,WAK,11/06/2018,12,12 Shadeville,0,Retention of Harvey Jay,First District Court of Appeal,520101,UnderVotes, ,"121
+"
+1316,WAK,11/06/2018,12,12 Shadeville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,Yes,NOP,"901
+"
+1317,WAK,11/06/2018,12,12 Shadeville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,No,NOP,"413
+"
+1318,WAK,11/06/2018,12,12 Shadeville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,OverVotes, ,"0
+"
+1319,WAK,11/06/2018,12,12 Shadeville,0,Retention of Stephanie Ray,First District Court of Appeal,520102,UnderVotes, ,"129
+"
+1320,WAK,11/06/2018,12,12 Shadeville,0,Retention of Brad Thomas,First District Court of Appeal,520103,Yes,NOP,"884
+"
+1321,WAK,11/06/2018,12,12 Shadeville,0,Retention of Brad Thomas,First District Court of Appeal,520103,No,NOP,"429
+"
+1322,WAK,11/06/2018,12,12 Shadeville,0,Retention of Brad Thomas,First District Court of Appeal,520103,OverVotes, ,"0
+"
+1323,WAK,11/06/2018,12,12 Shadeville,0,Retention of Brad Thomas,First District Court of Appeal,520103,UnderVotes, ,"130
+"
+1324,WAK,11/06/2018,12,12 Shadeville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,Yes,NOP,"870
+"
+1325,WAK,11/06/2018,12,12 Shadeville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,No,NOP,"444
+"
+1326,WAK,11/06/2018,12,12 Shadeville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,OverVotes, ,"1
+"
+1327,WAK,11/06/2018,12,12 Shadeville,0,Retention of Kemmerly Thomas,First District Court of Appeal,520104,UnderVotes, ,"128
+"
+1328,WAK,11/06/2018,12,12 Shadeville,0,Retention of Allen Winsor,First District Court of Appeal,520105,Yes,NOP,"882
+"
+1329,WAK,11/06/2018,12,12 Shadeville,0,Retention of Allen Winsor,First District Court of Appeal,520105,No,NOP,"427
+"
+1330,WAK,11/06/2018,12,12 Shadeville,0,Retention of Allen Winsor,First District Court of Appeal,520105,OverVotes, ,"0
+"
+1331,WAK,11/06/2018,12,12 Shadeville,0,Retention of Allen Winsor,First District Court of Appeal,520105,UnderVotes, ,"134
+"
+1332,WAK,11/06/2018,12,12 Shadeville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,Lisa Barclay Fountain,NOP,"704
+"
+1333,WAK,11/06/2018,12,12 Shadeville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,David Frank,NOP,"609
+"
+1334,WAK,11/06/2018,12,12 Shadeville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,OverVotes, ,"1
+"
+1335,WAK,11/06/2018,12,12 Shadeville,0,Circuit Judge," 2nd Judicial Circuit, Group 12",550212,UnderVotes, ,"129
+"
+1336,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 2,680002,Jamel R Gavin,NOP,"654
+"
+1337,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 2,680002,Randall Wilson Merritt,NOP,"670
+"
+1338,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 2,680002,OverVotes, ,"0
+"
+1339,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 2,680002,UnderVotes, ,"119
+"
+1340,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 4,680004,Quinceee s. Messersmith,NOP,"653
+"
+1341,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 4,680004,Theodore A Recker,NOP,"677
+"
+1342,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 4,680004,OverVotes, ,"0
+"
+1343,WAK,11/06/2018,12,12 Shadeville,0,County Commissioner, District 4,680004,UnderVotes, ,"113
+"
+1344,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,Yes for Approval,NOP,"726
+"
+1345,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,No for Rejection,NOP,"659
+"
+1346,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,OverVotes, ,"0
+"
+1347,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 1: Increased Homestead Property Tax Exemption, ,900001,UnderVotes, ,"58
+"
+1348,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,Yes for Approval,NOP,"834
+"
+1349,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,No for Rejection,NOP,"547
+"
+1350,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,OverVotes, ,"0
+"
+1351,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 2: Limitations on Property Tax Assessments, ,900002,UnderVotes, ,"62
+"
+1352,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,Yes for Approval,NOP,"956
+"
+1353,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,No for Rejection,NOP,"443
+"
+1354,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,OverVotes, ,"0
+"
+1355,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 3: Voter Control of Gambling in Florida, ,900003,UnderVotes, ,"44
+"
+1356,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,Yes for Approval,NOP,"846
+"
+1357,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,No for Rejection,NOP,"558
+"
+1358,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,OverVotes, ,"1
+"
+1359,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 4: Voting Restoration Amendment, ,900004,UnderVotes, ,"38
+"
+1360,WAK,11/06/2018,12,12 Shadeville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,Yes for Approval,NOP,"884
+"
+1361,WAK,11/06/2018,12,12 Shadeville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,No for Rejection,NOP,"497
+"
+1362,WAK,11/06/2018,12,12 Shadeville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,OverVotes, ,"0
+"
+1363,WAK,11/06/2018,12,12 Shadeville,0,"Amendment No. 5: Supermajority Vote Required to Impose, Authorize, or Raise State Taxes or Fees"," Authorize, or Raise State Taxes or Fees",900005,UnderVotes, ,"62
+"
+1364,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,Yes for Approval,NOP,"793
+"
+1365,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,No for Rejection,NOP,"581
+"
+1366,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,OverVotes, ,"2
+"
+1367,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 6: Rights of Crime Victims; Judges, ,900006,UnderVotes, ,"67
+"
+1368,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,Yes for Approval,NOP,"897
+"
+1369,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,No for Rejection,NOP,"481
+"
+1370,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,OverVotes, ,"0
+"
+1371,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 7: First Responder and Military Member Survivor Benefits; Public Colleges and Universities, ,900007,UnderVotes, ,"65
+"
+1372,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,Yes for Approval,NOP,"763
+"
+1373,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,No for Rejection,NOP,"627
+"
+1374,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,OverVotes, ,"1
+"
+1375,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 9: Prohibits Offshore Oil and Gas Drilling; Prohibits Vaping in Enclosed Indoor Workplaces, ,900009,UnderVotes, ,"52
+"
+1376,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,Yes for Approval,NOP,"880
+"
+1377,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,No for Rejection,NOP,"476
+"
+1378,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,OverVotes, ,"0
+"
+1379,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 10: State and Local Government Structure and Operation, ,900010,UnderVotes, ,"87
+"
+1380,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,Yes for Approval,NOP,"774
+"
+1381,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,No for Rejection,NOP,"561
+"
+1382,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,OverVotes, ,"1
+"
+1383,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 11: Property Rights; Removal of Obsolete Provision; Criminal Statutes, ,900011,UnderVotes, ,"107
+"
+1384,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,Yes for Approval,NOP,"973
+"
+1385,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,No for Rejection,NOP,"389
+"
+1386,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,OverVotes, ,"1
+"
+1387,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 12: Lobbying and Abuse of Office by Public Officers, ,900012,UnderVotes, ,"80
+"
+1388,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 13: Ends Dog Racing, ,900013,Yes for Approval,NOP,"759
+"
+1389,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 13: Ends Dog Racing, ,900013,No for Rejection,NOP,"632
+"
+1390,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 13: Ends Dog Racing, ,900013,OverVotes, ,"0
+"
+1391,WAK,11/06/2018,12,12 Shadeville,0,Amendment No. 13: Ends Dog Racing, ,900013,UnderVotes, ,"52
+"
