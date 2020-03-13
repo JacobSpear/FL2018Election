@@ -1,5 +1,5 @@
 function init(){
-    let file_loc = `../data/SH29_results.json`;
+    let file_loc = `data/SH29_results.json`;
     d3.json(file_loc).then((data)=>{
         // plot1_summarize(data,district_id);
         plot2_newPlot(data);
