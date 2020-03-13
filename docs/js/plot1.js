@@ -7,7 +7,7 @@ let district_lookup = {'SH27':'SH_District_27.json',
 function init(){
     let district_id = d3.select("#plot1_selDistrict").property('value');
     let district_file = district_lookup[district_id];
-    let district_loc = `../data/${district_file}`;
+    let district_loc = `data/${district_file}`;
     d3.json(district_loc).then((data)=>{
         plot1_summarize(data,district_id);
         plot1_newPlot(data,district_id);
